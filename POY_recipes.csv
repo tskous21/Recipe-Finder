@@ -1,0 +1,982 @@
+Blog,Recipe,Link,Time,Ingredients
+Pinch of Yum,Sheet Pan Chicken Pitas with Tzatziki,https://pinchofyum.com/sheet-pan-chicken-pitas,45 minutes,"['chicken:', 'boneless skinless chicken breasts', 'garlic', 'olive oil', 'lemon juice', 'each', 'cumin', 'smoked paprika', 'kosher salt', 'curry powder', 'black pepper', 'peppers:', 'bell peppers', 'olive oil', 'salt', 'tzatziki:', 'full-fat plain greek yogurt', 'grated cucumber', 'lemon juice', 'olive oil', 'garlic', 'dried dill', 'salt', 'pepper', 'other:', 'cucumbers', 'red onion', 'kalamata olives', 'feta chees', 'flatbread']"
+Pinch of Yum,Creamy Kale Pasta,https://pinchofyum.com/creamy-kale-pasta-2,30 minutes,"['for the sauce:', 'pine nuts', 'packed parsley', 'packed basil', 'capers or pitted olives', 'salt', 'black pepper', 'lemon', 'olive oil', 'farfalle', 'butter or vegan butter', 'garlic', 'kale', 'white wine', 'lemon juice', 'red pepper flakes', 'parmesan']"
+Pinch of Yum,Basic + Awesome Broccoli Cheese Soup,https://pinchofyum.com/broccoli-cheese-soup,45 minutes,"['butter', 'onion', 'garlic', 'broccoli stems', 'all-purpose flour', 'whole milk', 'half and half', 'chicken or vegetable broth', 'broccoli florets', 'carrot', 'salt', 'freshly ground black pepper', 'paprika', 'extra-sharp cheddar cheese']"
+Pinch of Yum,Raw Vegan Carrot Cake Bites,https://pinchofyum.com/raw-vegan-carrot-cake-bites,15 minutes,"['carrot', 'almond butter', 'pure maple syrup', 'flaked unsweetened coconut', 'old fashioned oats', 'salt', 'vanilla', 'cinnamon', 'white chocolate chips']"
+Pinch of Yum,Summer Chipotle Chicken Cobb Salad with Cilantro Vinaigrette,https://pinchofyum.com/summer-chipotle-chicken-cobb-salad-with-cilantro-vinaigrette,1 hour 10 minutes,"['for the chipotle chicken:', 'vegetable oil', 'chipotle chiles', 'garlic powder', 'cumin', 'oregano', 'black pepper', 'salt', 'chicken breasts', 'thighs', 'for the summer cobb salad:', 'greens', 'bacon', 'strawberries', 'corn on the cob', 'avocados', 'cilantro vinaigrette!']"
+Pinch of Yum,Pumpkin Rigatoni with Rosemary Walnut Crispies,https://pinchofyum.com/pumpkin-rigatoni,45 minutes,"['butter', 'garlic', 'pumpkin puree', 'chicken or vegetable broth', 'heavy cream', 'kosher salt', 'lemon', 'rigatoni', 'walnuts', 'rosemary leaves', 'melted butter', 'brown sugar', 'salt', 'black pepper']"
+Pinch of Yum,Springy Blueberry Lemon Bread,https://pinchofyum.com/blueberry-lemon-bread,1 hour 15 minutes,"['land o lakes® butter', 'white sugar', 'lemon', 'eggs', 'flour', 'baking powder', 'salt', 'milk', 'blueberries']"
+Pinch of Yum,Sesame Beef and Broccoli,https://pinchofyum.com/sesame-beef-and-broccoli,30 minutes,"['the basics:', 'beef flank steak', 'broccoli', 'vegetable oil', 'garlic', 'fresh peeled ginger', 'white rice', 'brown rice', 'cauliflower rice', 'green onions', 'the sauce:', 'low sodium soy sauce', 'water', 'brown sugar', 'sambal oelek', 'rice vinegar', 'sesame oil', 'cornstarch']"
+Pinch of Yum,Date Night Rigatoni with Sausage and Kale,https://pinchofyum.com/date-night-rigatoni,1 hour,"['rigatoni', 'reserved pasta water', 'olive oil', 'fennel', 'celery', 'yellow onion', 'italian sausage', 'garlic', 'fennel seeds', 'tomato paste', 'white wine', 'chicken broth', 'heavy cream', 'chopped', 'kale', 'salt', 'parmesan cheese', 'red pepper flakes']"
+Pinch of Yum,Chipotle Tahini Bowls,https://pinchofyum.com/chipotle-tahini-bowls,20 minutes,"['chipotle tahini', 'olive oil', 'water', 'tahini', 'chipotles', 'garlic', 'orange', 'salt', 'build the bowls:']"
+Pinch of Yum,Loaded BBQ Baked Potatoes,https://pinchofyum.com/loaded-bbq-baked-potatoes,1 hour 10 minutes,"['russet potatoes', 'fresh mushrooms', 'chicken thighs or chicken breasts', 'barbecue sauce', 'garlic power', 'onion powder', 'salt', 'pepper', 'garlic herb spreadable cheese', 'fresh spinach']"
+Pinch of Yum,Chipotle Orange Shrimp with Cilantro Rice,https://pinchofyum.com/chipotle-orange-shrimp-with-cilantro-rice,30 minutes,"['chipotle orange sauce:', 'chipotle pepper', 'heavy cream', 'garlic', 'salt', 'orange', 'shrimp and rice:', 'olive oil', 'uncooked shrimp', 'cumin', 'white rice', 'cilantro']"
+Pinch of Yum,Creamy Garlic Sun-Dried Tomato Pasta,https://pinchofyum.com/creamy-garlic-sun-dried-tomato-pasta,25 minutes,"['delallo spirali pasta', 'garlic', 'delallo', 'sun-dried tomatoes packed in oil', 'dry white wine', 'heavy cream', 'reserved pasta water', 'salt', 'pepper', 'chives', 'parsley', 'parmesan']"
+Pinch of Yum,Spicy Salmon Burgers,https://pinchofyum.com/spicy-salmon-burgers,15 minutes,"['for the spicy salmon burgers:', 'canned salmon', 'eggs', 'panko', 'lemongrass paste', 'red curry paste', 'soy sauce', 'brown sugar', 'kosher', 'salt', 'garlic powder', 'olive oil', 'for serving:']"
+Pinch of Yum,Basic + Awesome Chicken Quinoa Salad,https://pinchofyum.com/basic-awesome-chicken-quinoa-salad,10 minutes,"['cooked chicken', 'cooked quinoa', 'cherry tomatoes', 'chopped artichokes', 'vinaigrette of choice', 'spinach', 'salt', 'pepper', 'garlic powder']"
+Pinch of Yum,Black Pepper Stir Fried Udon,https://pinchofyum.com/black-pepper-stir-fried-udon,20 minutes,"['sauce:', 'dark soy sauce', 'oyster sauce', 'brown sugar', 'rice vinegar', 'udon stir fry:', 'neutral oil', 'stir fry veggies', 'udon noodles', 'finishing touches:', 'fresh garlic', 'ground', 'black pepper']"
+Pinch of Yum,The Absolute Easiest Spinach and Artichoke Pizza,https://pinchofyum.com/spinach-and-artichoke-pizza,20 minutes,"['pre-made pizza crust', 'garlic herb spreadable cheese', 'canned artichokes', 'fresh baby spinach', 'shredded mozzarella cheese', 'jarred sun-dried tomatoes', 'sun-dried tomato pesto']"
+Pinch of Yum,Beet and Burrata Salad with Fried Bread,https://pinchofyum.com/beet-and-burrata-salad-with-fried-bread,25 minutes,"['for the dressing:', 'olive oil', 'red wine vinegar', 'dijon mustard', 'garlic powder', 'chives', 'salt', 'pepper', 'for the salad:', 'cooked beets', 'oranges', 'arugula', 'burrata', 'white tuscan-style or sourdough bread']"
+Pinch of Yum,Harissa Meatballs with Whipped Feta,https://pinchofyum.com/harissa-meatballs-with-whipped-feta,45 minutes,"['store-bought frozen meatballs', 'bell peppers', 'zucchini', 'harissa paste', 'olive oil, garlic powder, lemon juice, salt', 'feta cheese', 'cream cheese', 'sour cream', 'plain yogurt', 'garlic']"
+Pinch of Yum,House Favorite Brussels Sprouts,https://pinchofyum.com/house-favorite-brussels-sprouts,25 minutes,"['brussels sprouts', 'olive oil', 'salt', 'pepper', 'walnuts', 'dried cranberries', 'dijon mustard', 'maple syrup']"
+Pinch of Yum,Instant Pot Chicken and Dumplings,https://pinchofyum.com/instant-pot-chicken-and-dumplings,30 minutes,"['olive oil', 'mirepoix', 'garlic', 'russet potato', 'chicken thighs', 'poultry seasoning', 'salt', 'pepper', 'chicken broth', 'refrigerated biscuits', 'frozen peas', 'fresh thyme', 'rosemary sprigs', 'fresh parsley']"
+Pinch of Yum,Sheet Pan Shrimp and Cauli Rice,https://pinchofyum.com/sheet-pan-shrimp-and-cauli-rice,30 minutes,"['season’s choice', 'garlic herb riced cauliflower', 'prianno', 'rosso pesto sauce', 'fremont fish market jumbo ez peel raw shrimp', 'simply nature organic frozen sweet peas', 'garlic powder', 'butter', 'heavy cream', 'salt and pepper', 'fresh lemon juice']"
+Pinch of Yum,BBQ Jackfruit Sandwiches,https://pinchofyum.com/bbq-jackfruit-sandwiches,25 minutes,"['bbq jackfruit', 'olive oil', 'young jackfruit in brine', 'chickpeas', 'garlic', 'brown sugar', 'paprika', 'chili powder', 'onion powder', 'salt', 'barbecue sauce', 'slaw', 'slaw bag mix', 'the rest:', 'buns']"
+Pinch of Yum,Crispy Black Bean Tacos with Cilantro Lime Sauce,https://pinchofyum.com/crispy-black-bean-tacos-with-cilantro-lime-sauce,25 minutes,"['crispy black bean tacos', 'black beans', 'salsa', 'taco seasoning', 'flour tortillas', 'olive oil', 'butter', 'cilantro lime sauce:']"
+Pinch of Yum,Pineapple Pork with Coconut Rice,https://pinchofyum.com/pineapple-pork-with-coconut-rice,30 minutes,"['teriyaki sauce', 'pork tenderloin', 'fresh pineapple chunks', 'olive oil', 'full fat coconut milk', 'water', 'jasmine rice']"
+Pinch of Yum,Spicy Peanut Soba Noodle Salad,https://pinchofyum.com/spicy-peanut-soba-noodle-salad,25 minutes,"['for the spicy peanut sauce:', 'peanut butter', 'water', 'soy sauce,', 'sesame oil', 'honey', 'lime', 'garlic', 'sriracha', 'peanuts', 'for the salad:', 'chicken breast', 'red\xa0bell pepper', 'purple cabbage', 'soba noodles', 'cilantro', 'basil', 'peanuts']"
+Pinch of Yum,Easy Crockpot Carnitas,https://pinchofyum.com/easy-crockpot-carnitas,8 hours 10 minutes,"['pork shoulder', 'garlic', 'salt', 'cumin', 'chili powder', 'black pepper', 'oregano', 'cinnamon', 'cayenne pepper', 'chipotle hot sauce', 'limes', 'orange juice', 'beer', 'salsa']"
+Pinch of Yum,Quick Homemade Ramen,https://pinchofyum.com/quick-homemade-ramen,25 minutes,"['sesame oil', 'ginger', 'garlic', 'broth', 'water', 'dried shiitake mushrooms', 'instant ramen', 'scallions or chives', 'kale', 'carrots', 'sriracha', 'panko crumbs']"
+Pinch of Yum,Shrimp and Avocado Salad with Miso Dressing,https://pinchofyum.com/spicy-shrimp-avocado-salad-miso-dressing,30 minutes,"['garlic', 'raw shrimp', 'butter', 'chili powder', 'cayenne', 'avocados', 'cucumber', 'spinach or baby kale', 'cilantro', 'peanuts', 'fried wonton strips', 'ginger', 'oil', 'lime juice', 'agave nectar', 'white miso', 'garlic', 'salt']"
+Pinch of Yum,Crockpot Chicken Gnocchi Soup,https://pinchofyum.com/crockpot-chicken-gnocchi-soup,8 hours 10 minutes,"['boneless skinless chicken breasts', 'mirepoix', 'dried basil', 'italian seasoning', 'poultry seasoning', 'salt', 'chicken broth', 'cornstarch', 'evaporated milk', 'gnocchi', 'bacon', 'garlic', 'fresh baby spinach']"
+Pinch of Yum,5 Ingredient Lemon Chicken with Asparagus,https://pinchofyum.com/5-ingredient-lemon-chicken-asparagus,20 minutes,"['boneless skinless chicken breasts', 'flour', 'salt and pepper', 'butter', 'lemon pepper seasoning', 'asparagus', 'lemons', 'honey', 'butter', 'parsley']"
+Pinch of Yum,Rainbow Chicken Salad with Almond Honey Mustard Dressing,https://pinchofyum.com/rainbow-chicken-salad-almond-honey-mustard-dressing,45 minutes,"['olive oil', 'boneless, skinless chicken breasts', 'salt', 'pepper', 'chili powder', 'grapes', 'blueberries', 'curly lettuce', 'feta cheese', 'almonds', 'almond butter', 'olive oil', 'orange juice', 'water', 'stoneground mustard', 'raw honey', 'salt', 'garlic']"
+Pinch of Yum,30 Minute Spicy Ancho Turkey Chili,https://pinchofyum.com/30-minute-spicy-ancho-turkey-chili,40 minutes,"['farro', 'chicken broth', 'water', 'olive oil', 'red onion', 'garlic', 'jalapeños', 'ground turkey', 'black beans', 'ancho chili powder', 'chili powder', 'cumin', 'salt', 'salsa', 'crushed fire roasted tomatoes', 'sour cream, cheese, green onions, tortilla chips']"
+Pinch of Yum,Spicy Sausage Rigatoni,https://pinchofyum.com/spicy-sausage-rigatoni,40 minutes,"['butter', 'garlic', 'yellow onion', 'celery', 'carrots', 'spicy italian sausage', 'dried oregano', 'red pepper flakes', 'salt', 'black pepper', 'red wine', 'san marzano tomatoes', 'balsamic or italian dressing', 'rigatoni', 'butter', 'parmesan', 'basil']"
+Pinch of Yum,Garlic Butter White Wine Shrimp Linguine,https://pinchofyum.com/garlic-butter-white-wine-shrimp-linguine,30 minutes,"['butter', 'garlic', 'chicken or vegetable broth', 'water', 'linguine', 'jumbo raw shrimp', 'dry white wine', 'fresh sage', 'heavy whipping cream', 'parmesan cheese', 'fresh parsley', 'lemon', 'salt', 'pepper']"
+Pinch of Yum,Basic + Awesome Vegetarian Lasagna,https://pinchofyum.com/basic-awesome-vegetarian-lasagna,1 hour 5 minutes,"['easy vegetarian “bolognese”:', 'garlic', 'onion', 'carrots', 'fresh mushrooms', 'walnuts', 'zucchini', 'butter', 'olive oil', 'oregano', 'italian seasoning', 'kosher salt', 'black pepper', 'tomato sauce', 'creamy layer:', 'mascarpone', 'garlic', 'salt', 'parmesan cheese', 'mozzarella cheese', 'lasagna noodles']"
+Pinch of Yum,15 Minute Cauliflower Fried Rice,https://pinchofyum.com/15-minute-cauliflower-fried-rice,15 minutes,"['cauliflower', 'sesame oil', 'carrot', 'garlic cloves', 'frozen edamame', 'eggs', 'low sodium soy sauce', 'green onions']"
+Pinch of Yum,5-Minute Spicy Chickpea Salad,https://pinchofyum.com/5-minute-spicy-chickpea-salad,5 minutes,"['chickpea salad:', 'chickpeas', 'mayo', 'sriracha', 'lemon juice', 'salt', 'pepper', 'for serving:', 'toast', 'crackers', 'avocado', 'greens', 'everything bagel seasoning']"
+Pinch of Yum,Plantain and Pinto Stew with Aji Verde,https://pinchofyum.com/plantain-and-pinto-stew-with-aji-verde,45 minutes,"['for the stew:', 'white onion', 'garlic', 'bell pepper', 'olive oil', 'ground cumin', 'chili powder', 'smoked paprika', 'fire-roasted diced or crushed tomatoes', 'vegetable broth', 'kosher salt', 'plantains', 'pinto beans', 'kale', 'cilantro', 'for the aji verde:', 'olive oil', 'mayonnaise', 'queso fresco', 'jalapeño peppers', 'cilantro', 'cloves', 'lime', 'salt']"
+Pinch of Yum,Maple Quinoa Granola,https://pinchofyum.com/maple-quinoa-granola,50 minutes,"['old-fashioned oats', 'uncooked quinoa', 'raw nuts', 'unsweetened shredded coconut', 'chia seeds', 'ground cinnamon', 'kosher salt', 'pure maple syrup', 'coconut oil', 'canola oil', 'unsulphured molasses', 'pure vanilla extract', 'egg white', 'chocolate chips, dried fruit (such as cranberries, apricots, cherries, raisins, or figs)']"
+Pinch of Yum,Portobello French Dip with Horseradish Aioli,https://pinchofyum.com/portobello-french-dip-with-horseradish-aioli,45 minutes,"['roasted mushrooms', 'portobello mushroom caps', 'olive oil', 'montreal steak seasoning', 'caramelized onions and au jus', 'butter', 'onion', 'white wine', 'worcestershire', 'soy sauce', 'beef', 'vegetable broth', 'salt', 'pepper', 'sugar', 'horseradish aioli', 'mayo', 'horseradish', 'garlic', 'salt', 'french dip essentials', 'sourdough rolls', 'baguette', 'provolone cheese slices']"
+Pinch of Yum,Crunchy Roll Bowls,https://pinchofyum.com/crunchy-roll-bowls,30 minutes,"['extra firm tofu', 'rice', 'frozen shelled edamame', 'cucumber', 'avocado', 'jalapeño', 'neutral oil', 'teriyaki or savory-sweet asian-inspired sauce', 'crunchy fried onions', 'spicy mayo']"
+Pinch of Yum,Creamy Kale Pasta,https://pinchofyum.com/creamy-kale-pasta-2,30 minutes,"['for the sauce:', 'pine nuts', 'packed parsley', 'packed basil', 'capers or pitted olives', 'salt', 'black pepper', 'lemon', 'olive oil', 'farfalle', 'butter or vegan butter', 'garlic', 'kale', 'white wine', 'lemon juice', 'red pepper flakes', 'parmesan']"
+Pinch of Yum,Creamy Tomato Lasagna Florentine,https://pinchofyum.com/creamy-tomato-lasagna-florentine,1 hour 5 minutes,"['olive oil', 'garlic', 'fresh spinach', 'cottage cheese', 'eggs', 'ground flaxmeal', 'oregano', 'italian seasoning', 'nutmeg', 'lemon juice', 'parmesan cheese', 'tomato sauce', 'no-boil', 'oven ready lasagna noodles', 'mozzarella cheese', 'fresh parsley', 'parmesan cheese']"
+Pinch of Yum,Old School Homemade Oreos,https://pinchofyum.com/old-school-homemade-oreos,45 minutes,"['cookies:', 'eggs', 'butter', 'vanilla', 'devil’s food cake mix', 'frosting:', 'cream cheese', 'butter', 'vanilla', 'powdered sugar']"
+Pinch of Yum,Red Curry Lentils,https://pinchofyum.com/red-curry-lentils,45 minutes,"['lentils', 'onion', 'butter', 'red curry paste', 'garam masala', 'curry powder', 'turmeric', 'sugar', 'garlic', 'ginger', 'cayenne pepper', 'tomato puree', 'coconut milk', 'cream', 'cilantro', 'rice']"
+Pinch of Yum,Biscuits and Gravy Egg Bake,https://pinchofyum.com/biscuits-and-gravy-egg-bake,1 hour,"['green chile sausage gravy', 'appleton farms premium pork sausage', 'butter', 'flour', 'simply nature organic whole milk', 'salt', 'pueblo lindo chopped green chiles', 'egg bake', 'simply nature organic cage free eggs', 'simply nature organic whole milk', 'salt', 'bake house creations jumbo buttermilk biscuits', 'happy farms shredded mild cheddar cheese']"
+Pinch of Yum,Cozy Homemade Peppermint Mocha,https://pinchofyum.com/cozy-homemade-peppermint-mocha,15 minutes,"['water', 'sugar', 'fresh mint leaves', 'peppermint extract', 'milk', 'unsweetened chocolate bar', 'baking bar', 'espresso', 'strongly brewed coffee', 'whipped cream', 'crushed candy canes']"
+Pinch of Yum,Cozy Veggie Korma,https://pinchofyum.com/cozy-veggie-korma,50 minutes,"['the base:', 'butter', 'small onion', 'garlic cloves', 'ginger', 'cardamom pods', 'coriander', 'turmeric', 'cumin', 'red pepper flakes', 'ground cinnamon', 'the veggies:', 'gold potatoes', 'water', 'green beans', 'red bell pepper', 'cubed paneer', 'the sauce:', 'heavy cream', 'plain full-fat yogurt', 'salt', 'garam masala', 'water', 'cilantro', 'rice']"
+Pinch of Yum,One-Hour Sheet Pan Thanksgiving Sides,https://pinchofyum.com/one-hour-sheet-pan-thanksgiving-sides,1 hour,"['roasted herbed squash:', 'butternut squash', 'simply nature organic thyme leaves', 'onion', 'maple mustard brussels with walnuts and cherries:', 'brussels sprouts', 'southern grove walnuts', 'southern grove dried cherries', 'specially selected 100% pure maple syrup', 'olive oil', 'dijon mustard', 'creamy garlic mashed potatoes:', 'round potatoes', 'garlic', 'countryside creamery salted butter', 'broth or milk', 'friendly farms sour cream', 'kosher salt', 'optional extras to serve from aldi:', 'butterball turkey', 'chef’s cupboard stuffing mix', 'sweet harvest whole berry cranberry sauce', 'l’oven fresh hawaiian sweet rolls']"
+Pinch of Yum,Miracle No Knead Bread,https://pinchofyum.com/no-knead-bread,18 hours 40 minutes,"['all-purpose flour', 'salt', 'instant', 'yeast', 'room temperature water']"
+Pinch of Yum,Oatmilk Honey Latte,https://pinchofyum.com/oatmilk-honey-latte,10 minutes,"['oatmilk', 'honey', 'salt', 'strongly brewed coffee', 'cinnamon']"
+Pinch of Yum,Sweet Potato Casserole with Brown Sugar Topping,https://pinchofyum.com/sweet-potato-casserole,45 minutes,"['sweet potatoes', 'melted butter', 'milk', 'cane sugar', 'vanilla', 'eggs', 'salt', 'melted butter', 'brown sugar', 'flour', 'pecan pieces']"
+Pinch of Yum,Favorite Browned Butter Chocolate Chip Cookies,https://pinchofyum.com/browned-butter-chocolate-chip-cookies,1 hour 5 minutes,"['unsalted butter', 'white sugar', 'brown sugar', 'vanilla', 'eggs', 'flour', 'baking soda', 'baking powder', 'salt', 'chocolate chips or chocolate chunks']"
+Pinch of Yum,Sweet Potato Gnocchi with Broccoli Rabe and Garlic Sage Butter Sauce,https://pinchofyum.com/sweet-potato-gnocchi,40 minutes,"['sweet potato', 'whole milk ricotta cheese', 'parmesan cheese', 'salt', 'flour', 'broccoli rabe', 'butter', 'heavy cream', 'garlic', 'sage leaves', 'sea salt', 'parmesan cheese']"
+Pinch of Yum,Sarah’s White Chicken Chili,https://pinchofyum.com/sarahs-white-chicken-chili,40 minutes,"['bacon', 'jalapeños', 'yellow onion', 'garlic', 'cumin', 'chili powder', 'chicken broth', 'diced tomatoes with green chiles', 'boneless skinless chicken thighs', 'pinto beans', 'black beans', 'cream cheese']"
+Pinch of Yum,The Best Detox Crockpot Lentil Soup,https://pinchofyum.com/the-best-detox-crockpot-lentil-soup,6 hours 30 minutes,"['butternut squash', 'carrots', 'potatoes', 'celery', 'green lentils', 'yellow split peas', 'onion', 'garlic', 'vegetable or chicken broth', 'herbs de provence', 'salt', 'kale', 'parsley', 'olive oil', 'sherry', 'red wine vinegar', 'lemon juice']"
+Pinch of Yum,The Best Soft Chocolate Chip Cookies,https://pinchofyum.com/the-best-soft-chocolate-chip-cookies,20 minutes,"['salted butter', 'white sugar', 'light brown sugar', 'vanilla', 'egg', 'all purpose flour', 'baking soda', 'salt', 'chocolate chips']"
+Pinch of Yum,Sheet Pan Jambalaya,https://pinchofyum.com/sheet-pan-jambalaya,50 minutes,"['kielbasa sausage', 'onion', 'red bell pepper', 'olive oil', 'cajun seasoning', 'tomato paste', 'cauliflower rice', 'sea salt', 'black pepper', 'wild-caught shrimp', 'melted butter', 'fresh parsley', 'lemon juice']"
+Pinch of Yum,Arroz Con Pollo,https://pinchofyum.com/arroz-con-pollo,1 hour,"['olive oil', 'boneless skinless chicken thighs', 'kosher salt', 'garlic', 'shallot', 'jalapeño', 'serrano pepper', 'bell pepper', 'tomato paste', 'ground cumin', 'allspice', 'fresh thyme', 'light beer', 'crushed tomatoes', 'chicken broth', 'bay leaf', 'white rice', 'green olives', 'fresh cilantro', 'lime juice']"
+Pinch of Yum,Super Moist Pumpkin Bread,https://pinchofyum.com/super-moist-pumpkin-bread,55 minutes,"['eggs', 'vegetable oil', 'olive oil', 'white sugar', 'pumpkin', 'milk', 'water', 'all purpose flour', 'baking soda', 'salt', 'cinnamon', 'melted butter', 'turbinado sugar']"
+Pinch of Yum,Baked Shrimp with Feta and Grilled Sourdough,https://pinchofyum.com/baked-shrimp-with-feta-with-grilled-sourdough,35 minutes,"['olive oil', 'shallot', 'bell pepper', 'garlic', 'crushed tomatoes', 'chicken', 'vegetable broth', 'red pepper flakes', 'salt', 'shrimp', 'feta cheese', 'parsley', 'lemon wedges', 'sourdough bread', 'butter']"
+Pinch of Yum,Simple Homemade Tomato Soup,https://pinchofyum.com/simple-homemade-tomato-soup,1 hour,"['bacon', 'carrots', 'yellow onion', 'garlic', 'tomato paste', 'flour', 'chicken broth', 'dried thyme', 'bay leaf', 'whole san marzano tomatoes', 'cream', 'kosher salt']"
+Pinch of Yum,Creamy Red Pepper Pasta with Blistered Tomatoes,https://pinchofyum.com/creamy-red-pepper-pasta-blistered-tomatoes,35 minutes,"['rigatoni', 'cherry tomatoes', 'olive oil', 'salt', 'pepper', 'cashews', 'olive oil', 'water', 'roasted red pepper', 'garlic', 'nutritional yeast', 'salt', 'chives', 'basil']"
+Pinch of Yum,Creamy Squash Fettuccine with Caramelized Onion and Pancetta,https://pinchofyum.com/creamy-squash-fettuccine-with-caramelized-onion-and-pancetta,45 minutes,"['squash sauce', 'butternut squash', 'olive oil', 'salt', 'fresh thyme', 'vegetable or chicken broth', 'garlic', 'salt', 'heavy cream', 'other yums:', 'pancetta', 'onion', 'sage leaves', 'pasta:', 'fettuccine or pappardelle', 'parmesan']"
+Pinch of Yum,Chipotle Quinoa Burgers,https://pinchofyum.com/chipotle-quinoa-burgers,25 minutes,"['uncooked quinoa', 'black beans', 'chipotle peppers', 'garlic powder, onion powder, chili powder, cumin', 'egg', 'salt', 'panko breadcrumbs']"
+Pinch of Yum,Basic + Awesome Broccoli Cheese Soup,https://pinchofyum.com/broccoli-cheese-soup,45 minutes,"['butter', 'onion', 'garlic', 'broccoli stems', 'all-purpose flour', 'whole milk', 'half and half', 'chicken or vegetable broth', 'broccoli florets', 'carrot', 'salt', 'freshly ground black pepper', 'paprika', 'extra-sharp cheddar cheese']"
+Pinch of Yum,Lemon Poppyseed Zucchini Bread,https://pinchofyum.com/lemon-olive-oil-cake,1 hour 30 minutes,"['zucchini', 'lemons', 'vanilla extract', 'eggs', 'extra-virgin olive oil', 'brown sugar', 'all-purpose flour', 'salt', 'baking powder', 'baking soda', 'poppy seeds', 'nutmeg', 'fresh ginger']"
+Pinch of Yum,Grilled Chimichurri Portobellos with Goat Cheese Mashed Potatoes,https://pinchofyum.com/grilled-chimichurri-portobellos-with-goat-cheese-mashed-potatoes,45 minutes,"['cilantro chimichurri and mushrooms', 'olive oil', 'red wine vinegar', 'cilantro', 'parsley', 'red serrano pepper,', 'garlic,', 'oregano', 'kosher salt', 'red pepper flakes', 'portobello mushroom caps', 'mashed potatoes:', 'russet potatoes', 'butter', 'goat cheese', 'chicken or vegetable broth', 'garlic', 'salt']"
+Pinch of Yum,Best Peach Cobbler,https://pinchofyum.com/peach-cobbler,1 hour,"['peach filling', 'fresh yellow peaches', 'sugar', 'cobbler topping', 'salted butter', 'sugar', 'vanilla', 'flour', 'baking powder', 'salt', 'turbinado sugar', 'whipped cream', 'vanilla ice cream']"
+Pinch of Yum,Coconut Lime Grilled Chicken and Rice,https://pinchofyum.com/coconut-lime-grilled-chicken-and-rice,40 minutes,"['coconut lime sauce', 'limes', 'fish sauce', 'full fat coconut milk', 'brown sugar', 'lemongrass paste', 'jalapeño pepper', 'garlic', 'fresh cilantro', 'fresh mint', 'everything else', 'boneless skinless chicken thighs', 'rice', 'vegetables']"
+Pinch of Yum,Socca with Whipped Feta and Tomato Salad,https://pinchofyum.com/socca-with-whipped-feta,30 minutes,"['for the socca:', 'chickpea flour', 'olive oil', 'salt', 'water', 'for the tomato salad:', 'cherry', 'grape tomatoes', 'cucumber slices', 'olive oil', 'white vinegar', 'lemon juice', 'garlic', 'salt', 'freshly ground black pepper', 'fresh chopped herbs', 'for the whipped feta:', 'feta', 'cream cheese', 'thyme, basil, rosemary,', 'any other herbs']"
+Pinch of Yum,Deep Dish S’mores Bowls For Two,https://pinchofyum.com/deep-dish-smores-bowls-for-two,25 minutes,"['butter, melted', 'brown sugar', 'white sugar', 'egg yolk', 'vanilla', 'baking powder', 'flour', 'salt', 'graham cracker sheets', 'hershey chocolate squares', 'mini marshmallows']"
+Pinch of Yum,Spicy Tofu Burgers,https://pinchofyum.com/spicy-tofu-burgers,55 minutes,"['burgers', 'extra firm tofu', 'tomato paste', 'sriracha', 'fresh mint', 'fresh basil', 'fresh cilantro', 'shallot', 'lemongrass paste', 'all purpose flour', 'salt', 'burger toppings', 'buns', 'sriracha', 'mayo', 'carrots', 'cucumbers', 'bell peppers', 'more herbs']"
+Pinch of Yum,Lemon Herb Pasta Salad with Marinated Chickpeas,https://pinchofyum.com/lemon-herb-pasta-salad,45 minutes,"['marinated chickpeas', 'chickpeas', 'olive oil', 'garlic', 'lemon juice', 'salt', 'pasta', 'farfalle pasta', 'olive oil', 'lemon', 'parsley', 'basil', 'salt', 'pepper', 'parmesan cheese']"
+Pinch of Yum,Cucumber Agua Fresca,https://pinchofyum.com/cucumber-agua-fresca,5 minutes,"['small cucumbers', 'fresh basil leaves', 'whole', 'limes', 'lemongrass paste', 'fresh lemongrass', 'sugar', 'honey', 'water', 'water', 'ice']"
+Pinch of Yum,The Everything Marinade,https://pinchofyum.com/the-everything-marinade,5 minutes,"['olive oil', 'maple syrup', 'soy sauce', 'balsamic vinegar', 'smoked paprika', 'cumin', 'italian seasoning', 'onion powder', 'garlic powder', 'salt', 'black pepper']"
+Pinch of Yum,Green Tahini,https://pinchofyum.com/green-tahini,5 minutes,"['olive oil', 'water', 'tahini', 'cilantro and parsley', 'garlic', 'half a lemon', 'salt']"
+Pinch of Yum,5 Minute Romesco Sauce,https://pinchofyum.com/romesco-sauce,7 minutes,"['roasted red peppers', 'plum tomatoes', 'raw almonds', 'flat leaf parsley', 'olive oil', 'salt', 'garlic', 'lemon']"
+Pinch of Yum,Chipotle Cashew Queso,https://pinchofyum.com/chipotle-cashew-queso,10 minutes,"['cashews', 'water', 'green chiles', 'chipotle pepper', 'kosher', 'salt']"
+Pinch of Yum,Two-Person Banana Cream Pies,https://pinchofyum.com/two-person-banana-cream-pies,25 minutes,"['graham cracker crust', 'graham crackers', 'sugar', 'butter', 'banana cream pie filling', 'banana', 'banana slices', 'sugar', 'cornstarch', 'salt', 'egg yolk', 'whole milk', 'butter', 'vanilla']"
+Pinch of Yum,Lemongrass Vermicelli Salad,https://pinchofyum.com/lemongrass-vermicelli-salad,25 minutes,"['lemongrass sauce:', 'lemongrass paste', 'garlic', 'fish sauce', 'vegetable oil', 'lime juice', 'rice vinegar', 'brown sugar', 'roasted red chile paste', 'vermicelli salad:', 'vermicelli or thin rice noodles', 'carrots', 'cucumber', 'fresh mint', 'fresh cilantro', 'chopped peanuts', 'cooked tofu, shrimp, or chicken']"
+Pinch of Yum,Peanut Butter Chocolate Chip Cookie Cheesecake Bars,https://pinchofyum.com/peanut-butter-chocolate-chip-cookie-cheesecake-bars,1 hour,"['butter', 'white sugar', 'brown sugar', 'peanut butter', 'egg', 'flour', 'baking soda', 'salt', 'rolled oats', 'chocolate chips', 'cream cheese', 'sugar', 'egg', 'vanilla']"
+Pinch of Yum,"Corn, Avocado, and Quinoa Salad with Marinated Tomatoes",https://pinchofyum.com/corn-avocado-and-quinoa-salad-with-marinated-tomatoes,30 minutes,"['quinoa', 'raw sweet corn', 'marinated tomatoes', 'and their juices', 'shallot', 'fresh cilantro and chives', 'limes', 'olive oil', 'kosher salt', 'cotija cheese', 'avocados']"
+Pinch of Yum,5-Ingredient Marinated Tomatoes,https://pinchofyum.com/5-ingredient-marinated-tomatoes,10 minutes,"['cherry or grape tomatoes', 'garlic', 'olive oil', 'vinegar', 'lemon juice', 'herbs', 'salt']"
+Pinch of Yum,Caramelized Pork Tacos with Pineapple Salsa,https://pinchofyum.com/caramelized-pork-tacos-with-pineapple-salsa,25 minutes,"['oil', 'shallot', 'garlic', 'jalapeño', 'fish sauce', 'boneless pork loin', 'sugar', 'water', 'pineapple', 'cucumber', 'cilantro', 'red onion', 'shallot', 'lime juice', 'salt', 'tortillas', 'cilantro', 'lime', 'chili sauce']"
+Pinch of Yum,Creamy Shrimp Pasta with Corn and Tomatoes,https://pinchofyum.com/creamy-shrimp-pasta-with-corn-and-tomatoes,30 minutes,"['linguine', 'reserved pasta water', 'butter', 'shrimp', 'salt', 'garlic', 'cherry tomatoes', 'cooked or grilled fresh sweet corn', 'fresh spinach', 'lemon juice', 'heavy cream', 'fresh basil', 'parmesan', 'salt', 'pepper']"
+Pinch of Yum,Mango Kiwi Coolers,https://pinchofyum.com/mango-kiwi-coolers,15 minutes,"['mango layer', 'frozen diced mango', 'plain yogurt', 'honey', 'lime', 'ice', 'water', 'kiwi layer', 'kiwis', 'plain yogurt', 'honey', 'spinach', 'ice', 'kiwi slices']"
+Pinch of Yum,Couscous Salad with Lime Basil Vinaigrette,https://pinchofyum.com/couscous-salad-with-lime-basil-vinaigrette,30 minutes,"['couscous sweet potato black bean salad', 'couscous', 'water', 'sweet potatoes', 'black beans', 'baby spinach', 'crumbled feta cheese', 'red onion', 'chopped pistachios', 'lime basil vinaigrette', 'basil', 'olive oil', 'garlic', 'kosher salt', 'red pepper flakes', 'water']"
+Pinch of Yum,Goddess Curry Chicken Salad,https://pinchofyum.com/curry-chicken-salad,25 minutes,"['chicken breasts', 'curry powder,', 'garlic powder,', 'onion powder', 'greek yogurt', 'olive oil', 'water', 'honey', 'golden raisins', 'pistachios', 'cilantro', 'parsley', 'salt', 'pepper']"
+Pinch of Yum,The LA Chop,https://pinchofyum.com/the-la-chop,30 minutes,"['salad:', 'lemon vinaigrette', 'kosher salt', 'freshly cracked black pepper', 'iceberg lettuce', 'radicchio', 'red onion', 'heirloom cherry tomatoes', 'chickpeas', 'fresh pearl mozzarella', 'provolone cheese', 'genoa salami', 'pepperoncini', 'oregano', 'lemon vinaigrette:', 'lemon', 'red wine vinegar', 'garlic', 'shallot', 'olive oil', 'kosher salt', 'freshly cracked black pepper']"
+Pinch of Yum,Roasted Tomato Puttanesca,https://pinchofyum.com/roasted-tomato-puttanesca,40 minutes,"['on your sheet pan:', 'cherry or grape tomatoes', 'fresh white button mushrooms', 'onion', 'olive oil', 'salt', 'for your pasta:', 'spaghetti', 'diced tomatoes', 'garlic', 'salt', 'pitted olives', 'olive oil', '1 lemon', 'jar capers', 'butter', 'fresh basil', 'parmesan']"
+Pinch of Yum,Grilled Sausage and Peppers with Garlic Aioli,https://pinchofyum.com/grilled-sausage-and-peppers-with-garlic-aioli,30 minutes,"['sausage and peppers', 'never any! mild italian style chicken sausages', 'bell peppers', 'onion', 'stonemill roasted garlic herb grill seasoning', 'olive oil', 'lemon juice', 'salt', 'specially selected brioche hot dog buns', 'garlic aioli', 'mayonnaise', 'simply nature organic garlic stir in paste', 'simply nature organic basil stir in paste', 'salt', 'lemon juice']"
+Pinch of Yum,The Best Easy Peanut Butter Pie,https://pinchofyum.com/the-best-easy-peanut-butter-pie,20 minutes,"['peanut butter', 'sugar', 'whipped topping', 'cool whip', 'cream cheese', 'oreo crust', 'oreos', 'butter']"
+Pinch of Yum,Garlic Parmesan Shellbows,https://pinchofyum.com/garlic-parmesan-shellbows,25 minutes,"['butter', 'garlic', 'vegetable', 'chicken broth', 'whole milk', 'salt', 'pasta', 'parmesan cheese', 'heavy cream', 'half and half']"
+Pinch of Yum,Triple Berry Cheesecake Muffins,https://pinchofyum.com/triple-berry-cheesecake-muffins,40 minutes,"['streusel:', 'butter', 'brown sugar', 'flour', 'salt', 'cheesecake layer:', 'cream cheese', 'egg yolk', 'sugar', 'triple berry muffins:', 'butter', 'sugar', 'brown sugar', 'eggs', 'plain yogurt', 'vanilla extract', 'flour', 'baking soda', 'baking powder', 'salt', 'frozen berry blend']"
+Pinch of Yum,Springy Vegetable Quiche,https://pinchofyum.com/spring-quiche,1 hour 10 minutes,"['butter', 'shallot', 'veggies', 'simply nature organic grade a cage free eggs', 'heavy cream', 'emporium selection specialty shredded gouda cheese', 'salt', 'bakehouse creations pie crust']"
+Pinch of Yum,Homemade Cauliflower Gnocchi,https://pinchofyum.com/homemade-cauliflower-gnocchi,30 minutes,"['cauliflower gnocchi:', 'frozen cauliflower florets', 'flour', 'salt']"
+Pinch of Yum,Caprese Chicken with Smashed Potatoes,https://pinchofyum.com/caprese-chicken-with-smashed-potatoes,45 minutes,"['for the smashed potatoes:', 'small red or gold potatoes', 'olive oil, garlic powder, salt,', 'pepper', 'fresh parsley', 'chives', 'for the chicken:', 'chicken breasts', 'olive oil, salt,', 'pepper', 'roasted or sun dried tomatoes', 'havarti cheese', 'basil', 'balsamic reduction']"
+Pinch of Yum,Deep Dish Cookie Bowls for Two,https://pinchofyum.com/deep-dish-cookie-bowls,30 minutes,"['butter, melted', 'brown sugar', 'egg yolk', 'vanilla', 'flour', 'salt', 'baking soda', 'chocolate chips']"
+Pinch of Yum,Amazing Mushroom Bowls with Kale Pesto,https://pinchofyum.com/mushroom-bowls-with-kale-pesto,50 minutes,"['smoky-sweet marinade', 'olive oil', 'maple syrup', 'soy sauce', 'smoked paprika', 'cumin', 'italian seasoning', 'onion powder', 'garlic powder', 'salt', 'black pepper', 'bowls', 'fresh mushrooms', 'fresh pineapple chunks', 'bell peppers', 'rice', 'cauliflower rice', 'kale pesto', 'magic green sauce', 'yummy sauce']"
+Pinch of Yum,Instant Pot Mac and Cheese,https://pinchofyum.com/instant-pot-mac-and-cheese,10 minutes,"['elbow pasta', 'water', 'salt', 'butter,', 'shredded cheese', 'whole milk']"
+Pinch of Yum,Three Cheese Baked Ziti,https://pinchofyum.com/three-cheese-baked-ziti,1 hour 30 minutes,"['the sauce', 'olive oil', 'pancetta', 'onion', 'cloves', 'crushed red pepper flakes', 'tomato paste', 'tomato sauce', 'crushed tomatoes', 'salt', 'the baked ziti', 'ziti', 'mascarpone cheese', 'garlic', 'salt', 'mozzarella cheese', 'provolone cheese']"
+Pinch of Yum,Instant Pot Buffalo Chicken Tacos,https://pinchofyum.com/instant-pot-buffalo-chicken-tacos,40 minutes,"['buffalo chicken:', 'boneless skinless chicken thighs', 'onion powder', 'salt', 'pepper', 'buffalo sauce', 'ranch:', 'mayonnaise', 'olive oil', 'water', 'white vinegar', 'garlic', 'dried dill', 'parsley', 'onion powder', 'salt', 'black pepper', 'tacos:', 'tortillas', 'shredded cabbage', 'cilantro', 'avocado', 'limes']"
+Pinch of Yum,Vegetarian Chili,https://pinchofyum.com/vegetarian-chili,1 hour 15 minutes,"['the “meat:”', 'walnuts', 'fresh mushrooms', 'carrots', 'the chili:', 'olive oil', 'onion', 'garlic', 'diced green chiles', 'tomato paste', 'chili powder', 'cumin', 'smoked paprika', 'soy sauce', 'salt', 'diced or crushed tomatoes', 'beans', 'water']"
+Pinch of Yum,Sesame Beef and Broccoli,https://pinchofyum.com/sesame-beef-and-broccoli,30 minutes,"['the basics:', 'beef flank steak', 'broccoli', 'vegetable oil', 'garlic', 'fresh peeled ginger', 'white rice', 'brown rice', 'cauliflower rice', 'green onions', 'the sauce:', 'low sodium soy sauce', 'water', 'brown sugar', 'sambal oelek', 'rice vinegar', 'sesame oil', 'cornstarch']"
+Pinch of Yum,Queso Chicken Chili with Roasted Corn and Jalapeño,https://pinchofyum.com/queso-chicken-chili,8 hours 15 minutes,"['chicken breasts', 'salsa', 'water', 'cumin', 'chili powder', 'salt', 'bell peppers', 'corn', 'jalapeño pepper', 'black beans', 'light cream cheese', 'pepper jack cheese', 'cilantro', 'blue corn tortilla chips']"
+Pinch of Yum,Instant Pot Pot Roast,https://pinchofyum.com/instant-pot-pot-roast,1 hour 15 minutes,"['chuck roast', 'oil', 'onion', 'garlic', 'carrots', 'celery stalks', 'mushrooms', 'red potatoes', 'tomato paste', 'red wine', 'beef broth', 'fresh rosemary', 'fresh thyme', 'worcestershire sauce', 'salt', 'cornstarch']"
+Pinch of Yum,Date Night Lemon Pappardelle with Shrimp,https://pinchofyum.com/date-night-lemon-pappardelle-with-shrimp,25 minutes,"['uncooked shrimp', 'butter', 'fresh garlic', 'white wine', 'heavy cream', 'salt', 'parmesan cheese', 'fresh lemon juice', 'pappardelle', 'fettuccini pasta', '(', 'black pepper']"
+Pinch of Yum,Cashew Chicken,https://pinchofyum.com/cashew-chicken,30 minutes,"['chicken:', 'flour', 'cornstarch', 'salt', 'paprika', 'cold water', 'vegetable oil', 'boneless skinless chicken breasts', 'cashew halves', 'sauce:', 'hoisin sauce', 'soy sauce', 'white vinegar', 's', 'riracha', 'granulated sugar', 'fresh garlic', 'fresh ginger']"
+Pinch of Yum,Chicken Enchilada Casserole,https://pinchofyum.com/chicken-enchilada-casserole,45 minutes,"['cooked, shredded chicken', 'enchilada sauce', 'mexican cheese', 'flour tortillas', 'refried beans']"
+Pinch of Yum,Creamy Thai Sweet Potato Curry,https://pinchofyum.com/creamy-thai-sweet-potato-curry,30 minutes,"['oil', 'shallots', 'sweet potatoes', 'fresh baby spinach', 'curry paste', 'regular coconut milk', 'broth', 'water', 'peanuts', 'cilantro', 'fish sauce']"
+Pinch of Yum,Spicy Sofritas Tofu,https://pinchofyum.com/spicy-sofritas-veggie-bowls,1 hour 15 minutes,"['poblano pepper', 'chipotle peppers', 'adobo sauce', 'garlic', 'cumin', 'chili powder', 'smoked paprika', 'salsa', 'canola oil', 'salt', 'extra firm tofu']"
+Pinch of Yum,Sheet Pan Chicken Pitas with Tzatziki,https://pinchofyum.com/sheet-pan-chicken-pitas,45 minutes,"['chicken:', 'boneless skinless chicken breasts', 'garlic', 'olive oil', 'lemon juice', 'each', 'cumin', 'smoked paprika', 'kosher salt', 'curry powder', 'black pepper', 'peppers:', 'bell peppers', 'olive oil', 'salt', 'tzatziki:', 'full-fat plain greek yogurt', 'grated cucumber', 'lemon juice', 'olive oil', 'garlic', 'dried dill', 'salt', 'pepper', 'other:', 'cucumbers', 'red onion', 'kalamata olives', 'feta chees', 'flatbread']"
+Pinch of Yum,Yummy Salmon Burgers with Slaw,https://pinchofyum.com/yummy-salmon-burgers-slaw,15 minutes,"['salmon burgers', 'cooked salmon', 'eggs', 'breadcrumbs', 'salt', 'garlic powder', 'fresh herbs', 'lemon juice', 'olive oil', 'cabbage slaw:', 'green cabbage', 'greek yogurt', 'white\xa0distilled', 'vinegar', 'salt', 'garlic powder', 'fresh herbs']"
+Pinch of Yum,Healthy Carrot Muffins,https://pinchofyum.com/carrot-muffins,25 minutes,"['rolled oats', 'medjool dates', 'olive oil', 'real maple syrup', 'carrots', 'eggs', 'baking soda', 'cinnamon', 'salt', 'walnuts', 'raisins']"
+Pinch of Yum,Cauliflower Walnut Vegetarian Taco Meat,https://pinchofyum.com/cauliflower-walnut-vegetarian-taco-meat,35 minutes,"['the vegetarian taco meat basics:', 'cauliflower florets', 'whole', 'walnuts', 'chipotles in adobo sauce', 'chili powder', 'cumin', 'salt', 'optional add-ins:', 'lime juice', 'garlic or onion powder', 'cayenne']"
+Pinch of Yum,Cashew Golden Milk Latte,https://pinchofyum.com/cashew-golden-milk-latte,10 minutes,"['cashews', 'water', 'ground turmeric', 'cinnamon', 'fresh peeled ginger', 'ginger paste', 'honey', 'salt']"
+Pinch of Yum,Best Easy Fish Tacos,https://pinchofyum.com/best-easy-fish-tacos,30 minutes,['fish tacos:']
+Pinch of Yum,Chicken Tikka Masala,https://pinchofyum.com/chicken-tikka-masala,30 minutes,"['chicken tikka masala:', 'chicken breasts', 'masala paste', 'plain yogurt', 'oil', 'tomato puree', 'heavy cream', 'salt', 'rice', 'cilantro', 'masala paste:', 'onions', 'garlic', 'fresh ginger', 'garam masala', 'chili powder', 'turmeric', 'cumin', 'cloves', 'salt', 'cayenne pepper', 'cilantro stems', 'lemon']"
+Pinch of Yum,Spicy Peanut Soup with Sweet Potato + Kale,https://pinchofyum.com/sweet-potato-peanut-soup,35 minutes,"['olive oil', 'onion', 'jalapeño', 'garlic', 'sweet potatoes', 'fire roasted tomatoes', 'light coconut milk', 'water', 'salt', 'curry', 'turmeric', 'chopped peanuts', 'peanut butter', 'kale']"
+Pinch of Yum,Roasted Cauliflower Hummus Bowls,https://pinchofyum.com/roasted-cauliflower-hummus-bowls,1 hour,"['roasted cauliflower:', 'cauliflower', 'olive oil', 'kosher salt', 'paprika', 'cumin', 'oregano', 'black pepper', 'hummus', 'chickpeas', 'olive oil', 'water', 'garlic', 'kosher salt', 'two lemons', 'serve with:', 'fresh tomato', 'fresh parsley', 'soft boiled egg', 'pulled rotisserie chicken', 'warm pita', 'harissa', 'olive oil, kosher salt, black pepper']"
+Pinch of Yum,Winter Grain Bowl with Balsamic Dressing,https://pinchofyum.com/winter-grain-bowl-with-balsamic-dressing,1 hour 30 minutes,"['golden or red beets', 'sweet potatoes', 'olive oil', 'salt', 'wild rice', 'dried cherries', 'shredded kale', 'crumbled goat cheese', 'pistachios', 'balsamic dressing', 'balsamic vinegar', 'olive oil', 'mayonnaise', 'salt', 'dijon mustard']"
+Pinch of Yum,Instant Pot Chicken Cacciatore,https://pinchofyum.com/instant-pot-chicken-cacciatore,30 minutes,"['instant pot chicken cacciatore:', 'simply nature organic extra virgin olive oil', 'simply nature organic chicken breasts', 'chicken thighs', 'onion', 'garlic', 'mushrooms', 'pepper', 'dry white wine', 'simply nature organic chicken broth', 'simply nature organic diced tomatoes', 'salt', 'finish with:', 'capers', 'butter', 'parsley', 'lemon', 'parmesan', 'capellini']"
+Pinch of Yum,The Best Swedish Meatballs,https://pinchofyum.com/swedish-meatballs,1 hour 30 minutes,"['swedish meatballs:', 'white bread', 'heavy cream', 'butter', 'onion', 'garlic', 'ground beef', 'ground pork', 'egg', 'brown sugar', 'salt', 'black pepper', 'gravy:', 'butter', 'flour', 'beef broth', 'sour cream', 'worcestershire sauce']"
+Pinch of Yum,Ang’s Creamy Tortellini Soup,https://pinchofyum.com/tortellini-soup,40 minutes,"['italian sausage', 'yellow onion', 'celery stalks', 'carrots', 'garlic cloves', 'kosher sea salt', 'ground black pepper', 'italian seasoning', 'fennel seed', 'tomato paste', 'dry white wine', 'flour', 'chicken broth', 'refrigerated cheese tortellini', 'half and half', 'heavy cream', 'fresh spinach']"
+Pinch of Yum,Coconut Curry Salmon,https://pinchofyum.com/coconut-curry-salmon,30 minutes,"['salmon:', 'salmon', 'brown sugar', 'curry powder', 'onion powder', 'garlic powder', 'kosher salt', 'olive oil', 'coconut curry sauce:', 'olive oil', 'garlic', 'ginger', 'lemongrass paste', 'brown sugar', 'red curry paste', 'coconut milk', 'fish sauce or soy sauce', 'lime juice and zest', 'fresh spinach', 'cilantro, basil, mint, or other fresh herbs']"
+Pinch of Yum,No Knead Cheese Bread,https://pinchofyum.com/no-knead-cheese-bread,12 hours 30 minutes,"['all purpose flour', 'salt', 'instant', 'yeast', 'room temperature water', 'olive oil', 'shredded cheese of choice']"
+Pinch of Yum,The Best Instant Pot Mashed Potatoes,https://pinchofyum.com/instant-pot-mashed-potatoes,30 minutes,"['potatoes,', 'salt', 'butter', 'garlic', 'herbs', 'cream cheese', 'sour cream', 'parmesan cheese', 'broth', 'milk']"
+Pinch of Yum,Spicy Peanut Tofu Bowls,https://pinchofyum.com/spicy-peanut-tofu-bowls,40 minutes,"['extra firm tofu', 'cornstarch', 'olive oil', 'salt', 'head of broccoli', 'red bell peppers', 'uncooked rice', 'peanut butter', 'soy sauce', 'sesame oil', 'rice vinegar', 'sambal oelek or chili paste', 'sugar, honey, or agave', 'ginger', 'garlic']"
+Pinch of Yum,Squash Salad with Kale and Roasted Garlic Dressing,https://pinchofyum.com/squash-salad-with-kale,50 minutes,"['salad:', 'butternut squash', 'garbanzo beans', 'oil', 'kosher salt', 'garlic', 'chopped kale', 'honeycrisp apple', 'pepitas', 'dried cherries', 'dressing:', 'olive oil', 'lemon', 'salt', 'black pepper', 'sugar', 'very important:']"
+Pinch of Yum,Chicken Pot Pie with Biscuits,https://pinchofyum.com/chicken-pot-pie-with-biscuits,1 hour,"['biscuits:', 'flour', 'baking powder', 'sugar', 'kosher salt', 'whole milk', 'filling:', 'sprigs of thyme', 'shallots', 'carrots', 'celery stalks', 'flour', 'dry white wine', 'whole milk', 'chicken broth', 'shredded chicken', 'frozen peas', 'salt', 'lemon juice', 'black pepper']"
+Pinch of Yum,Greek Baked Orzo,https://pinchofyum.com/greek-baked-orzo,50 minutes,"['olive oil', 'onion', 'garlic cloves', 'red bell pepper', 'kale', 'dried oregano', 'red pepper flakes', 'kosher salt', 'tomato paste', 'uncooked orzo', 'diced fire roasted tomatoes', 'cooked chicken', 'chickpeas', 'vegetable', 'chicken broth', 'butter', 'feta', 'dill', 'lemon']"
+Pinch of Yum,Feel-Good Apple Muffins,https://pinchofyum.com/feel-good-apple-muffins,25 minutes,[]
+Pinch of Yum,Healing Chicken and Rice Soup,https://pinchofyum.com/healing-chicken-and-rice-soup,50 minutes,"['olive oil', 'garlic', 'fresh ginger', 'shallot', 'boneless skinless chicken thighs', 'salt', 'turmeric', 'baby spinach', 'jasmine rice', 'chicken broth', 'limes', 'soy sauce', 'fish sauce', 'fresh herbs', 'peanuts', 'cashews']"
+Pinch of Yum,Ridiculous Baked Gnocchi with Vodka Sauce,https://pinchofyum.com/ridiculous-baked-gnocchi-with-vodka-sauce,40 minutes,"['vodka sauce:', 'butter', 'garlic', 'tomato paste', 'vodka', 'heavy cream', 'chicken broth', 'water', 'kosher salt', 'gnocchi:', 'delallo gnocchi kits', 'mozzarella cheese balls', 'parmesan cheese', 'parsley', 'basil']"
+Pinch of Yum,Spicy Shrimp with Cauliflower Mash and Garlic Kale,https://pinchofyum.com/spicy-shrimp-cauliflower-mash-roasted-kale,45 minutes,"['olive oil', 'cauliflower', 'garlic', 'milk', 'vegetable or chicken broth', 'white beans', 'cornmeal', 'shredded cheese', 'salt', 'bacon fat', 'kalettes or chopped kale', 'garlic', 'olive oil', 'shrimp', 'garlic salt, chili powder, cayenne, and/or black pepper']"
+Pinch of Yum,Easy Veggie Enchiladas,https://pinchofyum.com/easy-veggie-enchiladas,1 hour,"['broccoli', 'sweet potato', 'red bell pepper', 'onion', 'olive oil', 'salt', 'black beans', 'v&v supremo', 'chihuahua® brand quesadilla cheese', 'enchilada sauce', 'corn tortillas', 'avocado', 'cilantro,', 'lime']"
+Pinch of Yum,Chicken Meatballs with Peppers and Orzo,https://pinchofyum.com/chicken-meatballs-with-peppers-and-orzo,1 hour 5 minutes,"['chicken meatballs:', 'ground turkey or chicken', 'egg', 'panko', 'parmesan', 'garlic powder, onion powder, and kosher salt', 'sauce:', 'garlic', 'sliced peppers', 'capers', 'plain tomato sauce', 'kosher salt', 'creamy orzo', 'orzo', 'mascarpone', 'cream cheese, goat cheese, cream, or butter', 'kosher salt, parmesan, and parsley']"
+Pinch of Yum,Vegetarian Shepherd’s Pie,https://pinchofyum.com/vegetarian-shepherds-pie,55 minutes,"['vegetarian shepherd’s pie filling:', 'olive oil', 'shallots', 'mushrooms', 'carrots', 'fresh herbs', 'tomato paste', 'flour', 'red wine', 'veggie broth', 'salt', 'peas', 'mashed potatoes:', 'potatoes', 'greek yogurt', 'butter', 'olive oil']"
+Pinch of Yum,Pumpkin Rigatoni with Rosemary Walnut Crispies,https://pinchofyum.com/pumpkin-rigatoni,45 minutes,"['butter', 'garlic', 'pumpkin puree', 'chicken or vegetable broth', 'heavy cream', 'kosher salt', 'lemon', 'rigatoni', 'walnuts', 'rosemary leaves', 'melted butter', 'brown sugar', 'salt', 'black pepper']"
+Pinch of Yum,Cinnamon Sugar Apple Cake,https://pinchofyum.com/cinnamon-sugar-apple-cake,1 hour,"['apple cake:', 'brown sugar', 'oil', 'egg', 'buttermilk', 'vanilla', 'baking soda', 'flour', 'chopped apples', 'cinnamon sugar topping:', 'sugar', 'cinnamon', 'butter']"
+Pinch of Yum,Paprika Chicken Pasta,https://pinchofyum.com/paprika-chicken-pasta,45 minutes,"['paprika chicken', 'chicken breasts', 'olive oil', 'paprika, garlic powder, onion powder, salt', 'creamy paprika pasta', 'farfalle', 'butter', 'garlic', 'flour', 'dry white wine', 'chicken broth', 'paprika', 'heavy cream', 'kosher salt', 'lemon juice']"
+Pinch of Yum,Quinoa Sweet Potato Salad,https://pinchofyum.com/quinoa-sweet-potato-salad,1 hour,"['sweet potato salad', 'sweet potatoes', 'shallots', 'rosemary', 'thyme', 'salt', 'olive oil', 'chickpeas', 'whole walnuts', 'maple syrup', 'extras', 'quinoa', 'baby kale', 'dressing of choice']"
+Pinch of Yum,Instant Pot Cauliflower Curry,https://pinchofyum.com/instant-pot-cauliflower-curry,15 minutes,"['onion,', 'garlic', 'cauliflower', 'squash', 'red lentils', 'red curry paste', 'turmeric', 'diced tomatoes', 'coconut milk', 'water', 'kosher salt']"
+Pinch of Yum,Easy Vegan Burrito Bowls,https://pinchofyum.com/easy-vegan-burrito-bowls,1 hour,"['cauliflower walnut taco meat:', 'cauliflower florets', 'whole', 'walnuts', 'chipotles in adobo sauce', 'chili powder', 'cumin', 'salt', 'burrito bowls:', 'bell peppers', 'olive oil', 'salt', 'uncooked rice', 'black beans', 'lime wedges', 'cilantro']"
+Pinch of Yum,Pumpkin Energy Bites,https://pinchofyum.com/pumpkin-energy-bites,15 minutes,"['oats', 'pumpkin puree', 'almond butter', 'peanut butter', 'chia seeds', 'pumpkin seeds', 'vanilla extract', 'maple syrup', 'honey', 'salt', 'dark chocolate chips']"
+Pinch of Yum,Sheet Pan BBQ Tofu,https://pinchofyum.com/bbq-tofu,45 minutes,"['extra firm tofu', 'cornstarch', 'brown sugar', 'smoked paprika', 'chili powder', 'onion powder', 'garlic powder', 'kosher salt', 'olive oil']"
+Pinch of Yum,Instant Pot Italian Beef Sandwiches,https://pinchofyum.com/instant-pot-italian-beef,1 hour 45 minutes,"['for the italian beef:', 'beef chuck roast', 'garlic', 'onion', 'dried oregano', 'dried basil', 'onion powder', 'paprika', 'garlic powder', 'red pepper flakes', 'salt', 'black pepper', 'beef broth', 'giardiniera', 'for the sandwiches:', 'hoagie or sandwich rolls', 'delallo giardiniera', 'provolone']"
+Pinch of Yum,Breakfast Crunchwrap,https://pinchofyum.com/breakfast-crunchwrap,45 minutes,"['hashbrown potatoes', 'oil', 'taco seasoning', 'southwestern spices', 'cajun spices', 'salt', 'ground pork sausage', 'eggs', 'v&v supremo', 'chihuahua® brand quesadilla cheese', 'flour tortillas']"
+Pinch of Yum,Spicy Shrimp Tacos with Garlic Cilantro Lime Slaw,https://pinchofyum.com/spicy-shrimp-tacos-with-garlic-cilantro-lime-slaw,30 minutes,"['oil', 'water', 'green onions', 'cilantro leaves', 'garlic', 'salt', 'limes', 'sour cream', 'full-fat greek yogurt', 'each', 'chili powder', 'cumin', 'each', 'onion powder', 'garlic powder', 'cayenne pepper', 'coarse sea salt', 'shrimp', 'green cabbage', 'tortillas', 'avocados', 'cotija cheese', 'lime wedges']"
+Pinch of Yum,Vegan Sheet Pan Fajitas with Chipotle Queso,https://pinchofyum.com/vegan-sheet-pan-fajitas-with-chipotle-queso,45 minutes,"['sheet pan fajitas:', 'red bell peppers', 'yellow bell peppers', 'red onion', 'portobello mushroom caps', 'chili powder', 'cumin', 'garlic powder', 'onion powder', 'olive oil', 'salt', 'tortillas, avocado,', 'chipotle queso:', 'cashews', 'water', 'green chiles', 'chipotle pepper', 'kosher', 'salt']"
+Pinch of Yum,Feel-Good Zucchini Muffins,https://pinchofyum.com/feel-good-zucchini-muffins,25 minutes,"['rolled oats', 'medjool dates', 'olive oil', 'real maple syrup', 'zucchini', 'eggs', 'baking soda', 'sea salt', 'cinnamon', 'chocolate chips']"
+Pinch of Yum,Farmers’ Market Pasta with Walnut Pesto,https://pinchofyum.com/farmers-market-pasta-with-walnut-pesto,50 minutes,"['farmers’ market pasta:', 'pasta', 'seasonal veggies', 'garlic', 'olive oil', 'salt', 'vegan walnut pesto:', 'walnuts', 'basil leaves', 'olive oil', 'garlic', 'lemon', 'kosher salt']"
+Pinch of Yum,Two Person Raspberry Crumbles,https://pinchofyum.com/two-person-raspberry-crumbles,29 minute,"['berry mixture:', 'fresh or frozen berries', 'sugar', 'cornstarch', 'lemon juice', 'crumble layer:', 'butter', 'rolled oats', 'flour', 'brown sugar', 'baking powder', 'salt']"
+Pinch of Yum,BBQ Salmon Bowls with Mango Avocado Salsa,https://pinchofyum.com/bbq-salmon-mango-salsa,25 minutes,"['salmon:', 'salmon', 'brown sugar', 'smoked paprika', 'onion powder', 'garlic powder', 'chili powder', 'kosher salt', 'olive oil', 'mango avocado salsa:', 'mangoes', 'avocado', 'cilantro', 'red onion', 'jalapeño', 'honey', 'lime juice', 'lime zest', 'salt', 'for serving:', 'rice']"
+Pinch of Yum,Elote Queso,https://pinchofyum.com/elote-queso,25 minutes,"['elotes queso:', 'butter', 'olive oil', 'jalapeño', 'garlic', 'flour', 'milk', 'v&v supremo', 'chihuahua® brand quesadilla cheese', 'salt', 'corn', 'cilantro', 'v&v supremo', 'queso fresco', 'chili powder', 'extras:', 'limes', 'chips']"
+Pinch of Yum,Juicy Lucy,https://pinchofyum.com/juicy-lucy,20 minutes,"['juicy lucy ingredients:', 'ground beef', 'burger seasoning', 'american cheese', 'juicy lucy extras:', 'brioche buns', 'lettuce, tomato, onion, pickles', 'ketchup, mustard, mayo']"
+Pinch of Yum,The Best Easy Italian Pasta Salad,https://pinchofyum.com/pasta-salad,30 mins,"['pasta salad essentials:', 'pasta', 'cherry tomatoes', 'mozzarella cheese balls', 'salami', 'summer sausage', 'kalamata olives', 'pepperoncini', 'red onion', 'parsley', 'italian pasta salad dressing:', 'olive oil', 'white vinegar', 'water', 'coarse sea salt', 'garlic', 'sugar', 'dry oregano', 'dry basil', 'black pepper', 'fresh herbs', 'parsley, basil, or chives']"
+Pinch of Yum,Korean BBQ Style Cauliflower Lettuce Wraps,https://pinchofyum.com/korean-bbq-style-cauliflower-lettuce-wraps,50 minutes,"['cauliflower lettuce wraps:', 'small cauliflower florets', 'olive oil', 'salt', 'butter lettuce cups', 'crushed peanuts', 'minced chives', 'spicy mayo', 'sauce:', 'soy sauce', 'brown sugar', 'garlic', 'fresh ginger', 'rice vinegar', 'sambal oelek', 'toasted sesame oil', 'cornstarch']"
+Pinch of Yum,Instant Pot Red Curry Lentils,https://pinchofyum.com/instant-pot-red-curry-lentils,40 minutes,"['into the instant pot:', 'brown lentils', 'onion', 'red curry paste', 'sugar', 'garam masala', 'curry powder', 'turmeric', 'garlic', 'ginger', 'cayenne pepper', 'water', 'tomato sauce', 'salt', 'and then:', 'coconut milk', 'butter', 'cilantro', 'rice']"
+Pinch of Yum,Fluffiest Blueberry Pancakes,https://pinchofyum.com/fluffiest-blueberry-pancakes,20 minutes,"['milk', 'white\xa0vinegar', 'flour', 'sugar', 'baking powder', 'baking soda', 'salt', 'egg', 'melted butter', 'fresh blueberries', 'butter']"
+Pinch of Yum,Chopped Thai-Inspired Chicken Salad,https://pinchofyum.com/chopped-thai-chicken-salad,1 hour,"['thai chicken salad', 'chicken', 'green cabbage', 'carrots', 'papaya', 'mango', '(optional)', 'cilantro', 'peanuts', 'green onions', 'red serrano peppers', 'salt', 'lime juice', 'peanut dressing', 'peanut butter', 'soy sauce', 'sesame oil', 'rice vinegar', 'chili paste', 'sugar', 'ginger', 'garlic']"
+Pinch of Yum,Fruit Pizza,https://pinchofyum.com/fruit-pizza,1 hour 30 minutes,"['sugar cookie crust:', 'sugar', 'flour', 'baking powder', 'salt', 'butter', 'vanilla extract', 'egg', 'cream cheese frosting:', 'cream cheese', 'butter', 'vanilla', 'powdered sugar', 'fruit toppings:', 'strawberries', 'kiwis', 'mango', 'blueberries', 'grapes']"
+Pinch of Yum,5 Ingredient Spicy Pork,https://pinchofyum.com/5-ingredient-spicy-pork,35 minutes,"['5 ingredient sauce:', 'hot chili paste', 'soy sauce', 'brown sugar', 'ginger', 'garlic', 'clove', 'other stuff:', 'pork tenderloin', 'vegetable oil']"
+Pinch of Yum,Kale Chimichurri,https://pinchofyum.com/kale-chimichurri,5 minutes,"['kale', 'cilantro', 'parsley', 'olive oil', 'water', 'limes', 'cashews, sunflower seeds,', 'almonds', 'garlic', 'coarse salt', 'red pepper flakes']"
+Pinch of Yum,Chipotle Tahini,https://pinchofyum.com/chipotle-tahini,2 minutes,"['olive oil', 'water', 'tahini', 'chipotles', 'garlic', 'orange', 'coarse', 'salt']"
+Pinch of Yum,Jalapeño Ranch,https://pinchofyum.com/jalapeno-ranch,5 minutes,"['greek yogurt', 'olive oil', 'white vinegar', 'garlic', 'jalapeño pepper', 'fresh', 'parsley', 'freeze-dried dill', 'onion powder', 'coarse salt']"
+Pinch of Yum,Roasted Red Pepper Sauce,https://pinchofyum.com/roasted-red-pepper-sauce,10 minutes,"['roasted red peppers', 'olive oil', 'almonds', 'garlic', 'coarse salt', 'lemon', 'parsley']"
+Pinch of Yum,The Very Best Peanut Sauce,https://pinchofyum.com/the-very-best-peanut-sauce,5 mins,"['peanut butter', 'soy sauce', 'sesame oil', 'rice vinegar', 'sambal oelek', 'chili paste', 'sugar, honey, or agave', 'fresh ginger', 'fresh garlic', 'water']"
+Pinch of Yum,Blender Lemon Pie,https://pinchofyum.com/blender-lemon-pie,1 hour 15 minutes,"['simply nature organic cage free grade a large brown eggs', 'countryside creamery salted butter', 'lemon', 'simply nature organic cane sugar', 'vanilla', 'bake house creations pie crust', 'powdered sugar', 'lemon slices']"
+Pinch of Yum,Coconut Curry Ramen,https://pinchofyum.com/coconut-curry-ramen,1 hour,"['tofu:', 'extra firm tofu', 'cornstarch', 'oil', 'soy sauce', 'hoisin sauce', 'coconut curry ramen:', 'oil', 'mushrooms', 'bok choy', 'garlic', 'fresh ginger', 'curry powder', 'vegetable broth', 'ramen noodles', 'coconut milk', 'salt', 'lime juice', 'optional finishing touches:', 'sesame oil', 'hoisin sauce', 'chili paste', 'green onions', 'sesame seeds']"
+Pinch of Yum,Brussels & Kale Caesar with Cheezy Garlic Croutons,https://pinchofyum.com/brussels-kale-caesar-with-cheezy-garlic-croutons,30 minutes,"['vegan caesar dressing:', 'water', 'avocado', 'mayo', 'garlic', 'lemon juice', 'dijon mustard', 'salt', 'caper brine', 'brussels & kale caesar:', 'brussels sprouts', 'lacinato kale']"
+Pinch of Yum,Cheezy Garlic Croutons,https://pinchofyum.com/cheezy-garlic-croutons,20 minutes,"['baguette', 'olive oil', 'nutritional yeast', 'salt', 'garlic powder']"
+Pinch of Yum,Instant Pot Hawaiian Chicken Tacos with Jalapeño Ranch Slaw,https://pinchofyum.com/instant-pot-hawaiian-chicken-tacos,40 minutes,"['instant pot hawaiian chicken', 'boneless skinless chicken thighs', 'fresh pineapple', 'jalapeño', 'red onion', 'garlic', 'chili powder', 'cumin', 'salt', 'sriracha', 'yellow mustard', 'water', 'jalapeño ranch', 'mayonnaise', 'olive oil', 'water', 'white vinegar', 'jalapeño', 'garlic', 'dried dill', 'parsley', 'chives', 'salt', 'black pepper', 'extras:']"
+Pinch of Yum,Carrot Cake Coffee Cake,https://pinchofyum.com/carrot-cake-coffee-cake,55 minutes,"['carrot cake coffee cake:', 'carrots', 'granulated sugar', 'land o lakes® salted butter', 'eggs', 'flour', 'baking soda', 'cinnamon', 'salt', 'streusel topping:', 'land o lakes® salted butter', 'flour', 'brown sugar', 'cinnamon', 'salt']"
+Pinch of Yum,Egg and Croissant Brunch Bake,https://pinchofyum.com/egg-and-croissant-brunch-bake,1 hour,"['olive oil', 'yellow onion', 'diced ham', 'baby spinach', 'shredded cheese', 'eggs', 'milk', 'dijon mustard', 'salt', 'pepper', 'mini croissants']"
+Pinch of Yum,Raw Vegan Carrot Cake Bites,https://pinchofyum.com/raw-vegan-carrot-cake-bites,15 minutes,"['carrot', 'almond butter', 'pure maple syrup', 'flaked unsweetened coconut', 'old fashioned oats', 'salt', 'vanilla', 'cinnamon', 'white chocolate chips']"
+Pinch of Yum,Sheet Pan Chicken Tinga Bowls,https://pinchofyum.com/30-minute-meal-prep-sheet-pan-chicken-tinga-bowls,45 minutes,"['sheet pan:', 'chicken thighs', 'bell peppers', 'salt', 'olive oil', 'tinga sauce:', 'olive oil', 'onion', 'garlic, chopped', 'chipotle peppers in adobo sauce', 'dried oregano', 'ground cumin', 'crushed fire-roasted tomatoes', 'salt']"
+Pinch of Yum,Chipotle Tahini Bowls,https://pinchofyum.com/chipotle-tahini-bowls,20 minutes,"['chipotle tahini', 'olive oil', 'water', 'tahini', 'chipotles', 'garlic', 'orange', 'salt', 'build the bowls:']"
+Pinch of Yum,Meal Prep Breakfast Sandwiches,https://pinchofyum.com/15-minute-meal-prep-breakfast-sandwiches,30 minutes,"['eggs', 'whole milk', 'salt', 'bacon', 'spinach', 'english muffins', 'cheese', 'butter']"
+Pinch of Yum,Sunday Chili,https://pinchofyum.com/sunday-chili,2 hours 30 minutes,"['salt', 'ground beef', 'bacon', 'onion', 'garlic', 'jalapeno', 'carrots', 'chili powder', 'cumin', 'oregano', 'garlic powder', 'tomato paste', 'crushed tomatoes', 'beans,', 'chicken broth']"
+Pinch of Yum,One Ingredient Socca,https://pinchofyum.com/one-ingredient-socca,25 minutes,"['chickpea flour', 'olive oil', 'salt', 'water']"
+Pinch of Yum,Sesame Noodle Bowls,https://pinchofyum.com/15-minute-meal-prep-sesame-noodle-bowls,15 minutes,"['sesame sauce:', 'sesame paste', 'warm', 'water', 'soy sauce', 'sesame oil', 'rice vinegar', 'garlic', 'sriracha', 'sugar', 'bowls:', 'stir fry noodles', 'chinese egg noodles', 'linguine', 'edamame', 'cucumbers', 'chicken breast', 'sesame seeds']"
+Pinch of Yum,Oven Risotto with Garlic Roasted Mushrooms and Arugula,https://pinchofyum.com/oven-risotto-with-garlic-roasted-mushrooms-and-arugula,40 minutes,"['mushrooms:', 'olive oil', 'garlic cloves', 'mushrooms', 'salt', 'risotto:', 'olive oil', 'garlic cloves', 'arborio rice', 'dry white wine', 'chicken broth', 'parmesan cheese', 'butter', 'lemon', 'salt']"
+Pinch of Yum,15-Minute Egg Roll in a Bowl,https://pinchofyum.com/15-minute-meal-prep-egg-roll-in-a-bowl,15 minutes,"['olive oil', 'garlic', 'ginger', 'chinese five-spice', 'soy sauce', 'chili paste', 'ground pork', 'shredded cabbage', 'coleslaw mix', 'carrots', 'rice', 'green onions']"
+Pinch of Yum,Date Night Rigatoni with Sausage and Kale,https://pinchofyum.com/date-night-rigatoni,1 hour,"['rigatoni', 'reserved pasta water', 'olive oil', 'fennel', 'celery', 'yellow onion', 'italian sausage', 'garlic', 'fennel seeds', 'tomato paste', 'white wine', 'chicken broth', 'heavy cream', 'chopped', 'kale', 'salt', 'parmesan cheese', 'red pepper flakes']"
+Pinch of Yum,Roasted Vegetable Bowls with Green Tahini,https://pinchofyum.com/30-minute-meal-prep-roasted-vegetable-bowls-with-green-tahini,45 minutes,"['roasted vegetables', 'carrots', 'golden potatoes', 'broccoli', 'cauliflower', 'olive oil', 'salt', 'green tahini', 'olive oil', 'water', 'tahini', 'cilantro and/or parsley', 'garlic', 'half a lemon', 'salt', 'optional extras:', 'hard boiled eggs', 'avocados', 'chicken, tofu, any other protein']"
+Pinch of Yum,5 Minute Vegan “Yogurt”,https://pinchofyum.com/5-minute-vegan-yogurt,5 minutes,"['the main things', 'frozen peaches', 'cashews', 'tofu', 'the extras', 'liquid sweetener – agave, maple syrup, or honey', 'lemon juice', 'probiotic capsule']"
+Pinch of Yum,Red Curry Noodles,https://pinchofyum.com/red-curry-noodles,25 minutes,"['rice noodles', 'olive oil', 'garlic', 'ginger', 'extra firm tofu', 'red curry paste', 'stir fry vegetables', 'coconut milk', 'soy sauce', 'sugar', 'sriracha', 'chili paste', 'cilantro']"
+Pinch of Yum,Cauliflower Fried Rice with Crispy Tofu,https://pinchofyum.com/15-minute-meal-prep-cauliflower-fried-rice-with-crispy-tofu,30 minutes,"['baked tofu:', 'extra firm tofu', 'olive oil', 'soy sauce', 'cornstarch', 'cauliflower fried rice:', 'cauliflower', 'olive oil', 'garlic cloves', 'ginger', 'frozen peas and carrots', 'soy sauce', 'sriracha', 'sesame oil', 'eggs', 'green onions']"
+Pinch of Yum,5 Ingredient Vegan Vodka Pasta,https://pinchofyum.com/5-ingredient-vegan-vodka-pasta,25 minutes,"['olive oil', 'garlic', 'tomato paste', 'vodka', 'full fat coconut milk', 'rotini', 'reserved pasta water', 'salt', 'salt, black pepper, olive oil, red pepper flakes, garlic salt, etc.']"
+Pinch of Yum,Lentil Greek Salad with Dill Sauce,https://pinchofyum.com/lentil-greek-salads-with-dill-sauce,30 minutes,"['greek lentil salad:', 'lentils', 'cherry tomatoes', 'cucumber', 'tuna', 'pepperoncini', 'kalamata olives', 'dill yogurt:', 'greek yogurt', 'olive oil', 'vinegar or lemon juice', 'garlic powder', 'fresh or freeze-dried dill', 'salt']"
+Pinch of Yum,Coconut Oil Granola Remix,https://pinchofyum.com/coconut-oil-granola-remix,55 minutes,"['rolled oats', 'flaked unsweetened coconut', 'sliced almonds', 'pistachios', 'flax seeds', 'coconut oil', 'honey', 'real maple syrup', 'cinnamon', 'salt', 'golden raisins']"
+Pinch of Yum,Quinoa Crunch Salad with Peanut Dressing,https://pinchofyum.com/quinoa-crunch-salad-with-peanut-dressing,35 minutes,"['quinoa salad:', 'shelled edamame', 'simply nature', 'organic\xa0quinoa', 'cucumber', 'bell peppers', 'mangoes', 'carrots', 'purple cabbage', 'almonds, peanuts, cashews', 'southern grove chili lime cashews', 'peanut dressing:', 'simply nature creamy peanut butter', 'soy sauce', 'vinegar', 'sesame oil', 'chili paste', 'honey', 'garlic', 'fresh ginger']"
+Pinch of Yum,Cilantro Lime Chicken and Lentil Rice Bowls,https://pinchofyum.com/15-minute-meal-prep-cilantro-lime-chicken-and-lentils,45 minutes,"['lentils', 'chicken breasts', 'salsa verde', 'chicken broth', 'small onion', 'green onions', 'cilantro', 'garlic', 'jalapeños', 'salt', 'limes']"
+Pinch of Yum,Instant Pot Sweet Potato Tortilla Soup,https://pinchofyum.com/instant-pot-sweet-potato-tortilla-soup,35 minutes,"['tortilla soup:', 'onion', 'garlic', 'jalapeño', 'sweet potatoes', 'fire roasted crushed tomatoes', 'vegetable broth', 'chili powder', 'chipotle peppers in adobo', 'sweet corn', 'tortilla strips and toppings', 'corn tortillas', 'oil', 'avocado', 'cotija', 'queso fresco', 'cilantro, red onion, lime wedges, etc.']"
+Pinch of Yum,No-Boil Baked Penne with Meatballs,https://pinchofyum.com/garlic-butter-baked-penne,55 minutes,"['baked penne:', 'whole wheat penne pasta', 'crushed fire roasted tomatoes', 'milk', 'land o lakes® butter', 'garlic', 'garlic powder', 'onion powder', 'oregano', 'salt', 'meatballs', 'cooked shredded chicken', 'protein of choice', 'at the end:', 'spinach', 'parmesan cheese']"
+Pinch of Yum,Instant Pot Creole Chicken and Sausage,https://pinchofyum.com/15-minute-meal-prep-creole-chicken-and-sausage,30 minutes,"['boneless skinless chicken breasts', 'andouille sausage', 'fire roasted crushed tomatoes', 'tomato paste', 'green or red bell peppers', 'onion', 'garlic', 'creole seasoning', 'salt', 'rice, cheese, cilantro, green onions, hot sauce, sour cream, etc.']"
+Pinch of Yum,Lemon Chicken Soup with Orzo,https://pinchofyum.com/lemon-chicken-soup-with-orzo,45 minutes,"['olive oil', 'carrots', 'onion', 'garlic', 'chicken broth', 'delallo whole wheat orzo', 'cooked chicken', 'eggs', 'lemons', 'fresh spinach', 'salt', 'ground pepper', 'fresh dill']"
+Pinch of Yum,Brussels Sprouts Tacos,https://pinchofyum.com/brussels-sprouts-tacos,45 minutes,"['brussels sprouts', 'brussels sprouts', 'taco seasoning', 'salt', 'olive oil', 'corn', 'frozen corn', 'jalapeño', 'lime juice, salt,', 'olive oil', 'cilantro chimichurri', 'cilantro', 'parsley', 'water', 'olive oil', 'cashews', 'sunflower seeds', 'garlic', 'salt', 'limes', 'other add-ins']"
+Pinch of Yum,Healthy Chipotle Sweet Potato Skins,https://pinchofyum.com/healthy-mexican-sweet-potato-skins,1 hour 20 minutes,"['sweet potatoes', 'corn', 'black beans', 'butter', 'yellow onion', 'chipotle peppers in adobo sauce', 'light cream cheese', 'light sour cream', 'greek yogurt', 'salt', 'cilantro', 'shredded cheese']"
+Pinch of Yum,Autumn Glow Salad with Lemon Dressing,https://pinchofyum.com/autumn-glow-salad-with-lemon-dressing,1 hour 15 minutes,"['for the salad', 'freekeh', 'cauliflower', 'sweet potatoes', 'olive oil', 'dried spices', 'apple', 'for the lemon dressing', 'parsley', 'garlic', 'olive oil', 'lemon', 'agave', 'salt', 'pepper']"
+Pinch of Yum,Jalapeño Lime Chicken Soup,https://pinchofyum.com/jalapeno-lime-chicken-soup,1 hour 30 minutes,"['olive oil', 'jalapeños', 'red onion', 'water', 'salt', 'boneless skinless chicken breasts or thighs', 'white beans,', 'salsa verde', 'limes', 'cilantro', 'sour cream', 'shredded cheese']"
+Pinch of Yum,Vegan Mega-Burritos,https://pinchofyum.com/vegan-mega-burritos,15 minutes,"['sweet potato', 'cauliflower walnut taco meat', 'water', 'mashed avocado', 'salsa', 'cilantro', 'flour tortillas', 'vegan queso', 'cheese']"
+Pinch of Yum,Freezer Meal Stuffed Quinoa Peppers,https://pinchofyum.com/freezer-meal-stuffed-quinoa-peppers,1 hour 25 minutes,"['mix filling:', 'quinoa', 'black beans', 'refried beans', 'red enchilada sauce', 'taco seasoning', 'shredded cheese', 'stuff into:', 'bell peppers']"
+Pinch of Yum,Freezer Meal Chicken Meatballs,https://pinchofyum.com/freezer-meal-chicken-meatballs,40 minutes,"['mix and roll:', 'ground chicken or turkey', 'egg', 'panko breadcrumbs', 'parmesan', 'olive oil', 'garlic powder', 'onion powder', 'salt']"
+Pinch of Yum,Freezer Meal Lasagna Florentine,https://pinchofyum.com/freezer-meal-lasagna-florentine,1 hour 55 minutes,"['olive oil', 'garlic,', 'fresh spinach', 'ricotta cheese', 'egg', 'really good pasta sauce', 'lasagna noodles', 'shredded mozzarella cheese']"
+Pinch of Yum,Freezer Meal Cauliflower Walnut Taco Meat,https://pinchofyum.com/freezer-meal-cauliflower-walnut-taco-meat,40 minutes,"['pulse in a food processor:', 'cauliflower florets', 'walnuts', 'chipotles', 'chili powder', 'cumin', 'salt']"
+Pinch of Yum,Freezer Meal Korean BBQ Beef,https://pinchofyum.com/freezer-meal-korean-bbq-beef,1 hour 5 minutes,"['pears', 'ginger', 'garlic', 'soy sauce', 'brown sugar', 'sesame oil', 'beef chuck']"
+Pinch of Yum,Freezer Meal Chicken Tinga,https://pinchofyum.com/freezer-meal-chicken-tinga,35 minutes,"['olive oil', 'onion', 'garlic', 'chipotles', 'oregano', 'cumin', 'crushed fire-roasted tomatoes', 'salt', 'chicken thighs']"
+Pinch of Yum,Freezer Meal Beef Ragu,https://pinchofyum.com/freezer-meal-beef-ragu,1 hour 5 minutes,"['garlic', 'mirepoix', 'flank steak or beef chuck', 'salt', 'crushed tomatoes', 'thyme', 'bay leaves']"
+Pinch of Yum,Freezer Meal Beef Stew,https://pinchofyum.com/freezer-meal-beef-stew,55 minutes,"['beef chuck', 'onion', 'celery', 'carrots', 'salt', 'sugar', 'tomato juice', 'cornstarch']"
+Pinch of Yum,Freezer Meal Spicy Sweet Potato Peanut Stew,https://pinchofyum.com/freezer-meal-spicy-sweet-potato-peanut-stew,35 minutes,"['freeze together:', 'sweet potatoes', 'jalapeños', 'onion', 'garlic', 'curry powder', 'turmeric', 'salt', 'fire roasted tomatoes', 'coconut milk', 'peanut butter', 'chopped peanuts', 'kale', 'water']"
+Pinch of Yum,Freezer Meal Wild Rice Soup,https://pinchofyum.com/freezer-meal-wild-rice-soup,1 hour,"['mirepoix', 'mushrooms', 'garlic', 'uncooked\xa0wild rice', 'chicken broth', 'salt', 'poultry seasoning', 'chicken breasts', 'butter', 'flour', 'whole milk']"
+Pinch of Yum,Freezer Meal Detox Lentil Soup,https://pinchofyum.com/freezer-meal-detox-lentil-soup,50 minutes,"['butternut squash', 'mirepoix', 'potatoes', 'lentils', 'garlic', 'herbes de provence', 'salt', 'chicken broth', 'olive oil', 'kale']"
+Pinch of Yum,Freezer Meal Hawaiian Chicken Tacos,https://pinchofyum.com/freezer-meal-hawaiian-chicken-tacos,25 minutes,"['boneless skinless chicken thighs', 'fresh pineapple', 'jalapeño', 'red onion', 'garlic', 'chili powder', 'cumin', 'salt', 'sriracha', 'yellow mustard', 'mayonnaise', 'olive oil', 'water', 'white vinegar', 'jalapeño', 'garlic', 'dried dill', 'parsley', 'chives', 'salt', 'black pepper']"
+Pinch of Yum,Freezer Meal Italian Beef,https://pinchofyum.com/freezer-meal-italian-beef,1 hour 35 minutes,"['freeze together:', 'beef chuck roast', 'garlic', 'onion', 'dried oregano', 'dried basil', 'onion powder', 'paprika', 'garlic powder', 'red pepper flakes', 'salt', 'black pepper']"
+Pinch of Yum,Freezer Meal Moroccan-Spiced Chickpeas,https://pinchofyum.com/freezer-meal-moroccan-spiced-chickpeas,20 minutes,"['olive oil', 'onion', 'garlic', 'chili powder and cumin', 'turmeric and garam masala', 'sea salt', 'cinnamon and cayenne', 'chickpeas', 'fire roasted diced tomatoes']"
+Pinch of Yum,Freezer Meal Golden Soup,https://pinchofyum.com/freezer-meal-golden-soup,25 minutes,"['olive oil', 'onion', 'garlic', 'cauliflower', 'cashews', 'turmeric', '', 'salt', 'lemon juice']"
+Pinch of Yum,3 Ingredient Vegan Queso,https://pinchofyum.com/3-ingredient-vegan-queso,5 minutes,"['cashews', 'water', 'green chiles', 'taco seasoning']"
+Pinch of Yum,Super Quick Avocado Shrimp Salad,https://pinchofyum.com/super-quick-avocado-shrimp-salad,15 minutes,"['shrimp', 'avocado', 'salt', 'garlic powder', 'lemon', 'small cucumber', 'fresh dill', 'chives']"
+Pinch of Yum,Instant Pot Coconut Tandoori-Inspired Chicken,https://pinchofyum.com/instant-pot-coconut-tandoori-chicken,30 minutes,"['chicken thighs', 'honey', 'garam masala', 'chili powder', 'garlic powder', 'cumin', 'salt', 'turmeric', 'ground ginger', 'cayenne pepper', 'coconut milk']"
+Pinch of Yum,Lemon Poppyseed Zucchini Muffins,https://pinchofyum.com/lemon-poppyseed-zucchini-muffins,30 minutes,"['zucchini', 'brown sugar', 'olive oil', 'zest of a lemon', 'vanilla extract', 'egg', 'all-purpose flour', 'salt', 'baking powder', 'baking soda', 'poppy seeds']"
+Pinch of Yum,Vegan Crunchwrap Supreme,https://pinchofyum.com/vegan-crunchwrap,45 minutes,"['spicy sofritas tofu', 'olive oil', 'extra', 'firm tofu', 'taco seasoning', 'peppers', 'salsa', 'cashew queso', 'cashews', 'water', 'green chiles', 'taco seasoning', 'crunchwraps', 'tortillas', 'something crunchy', 'roasted vegetables', 'black beans', 'avocados', 'salsa']"
+Pinch of Yum,Summertime Fried Chicken Sandwiches with Tangy Slaw,https://pinchofyum.com/fried-chicken-sandwiches,1 hour,"['wet ingredients for chicken:', 'chicken breasts', 'seasoning mix', 'buttermilk', 'egg', 'dry ingredients for chicken:', 'flour', 'cornstarch', 'baking powder', 'salt', 'seasoning mix', 'peanut oil', 'tangy slaw:', 'shredded cabbage', 'shredded carrots', 'mayonnaise', 'white vinegar', 'sugar', 'salt', 'sandwich add-ons:', 'brioche buns', 'swiss cheese', 'pickles, pickled jalapenos, etc.', 'bacon', 'honey dijonnaise']"
+Pinch of Yum,Spicy Shrimp Veracruz,https://pinchofyum.com/spicy-shrimp-veracruz,45 minutes,"['olive oil', 'sweet mini peppers', 'cherry tomatoes', 'garlic', 'pickled jalapeños', 'capers', 'golden raisins', 'dried oregano', 'salt', 'red wine', 'water', 'uncooked shrimp', 'rice', 'lemon', 'lime']"
+Pinch of Yum,Couscous Summer Salad,https://pinchofyum.com/couscous-summer-salad,20 minutes,"['couscous salad base:', 'couscous', 'dried cherries', 'ground cumin', 'ground coriander', 'chicken or veggie broth', 'salt', 'pepper', 'toss-ins', 'chickpeas', 'fresh sweet corn', 'nectarines or peaches', 'cucumber', 'avocado', 'red onion', 'pepitas', 'arugula or spinach', 'parsley / mint / basil / any herbs', 'lemon juice', 'honey', 'olive oil']"
+Pinch of Yum,BLT Panzanella,https://pinchofyum.com/blt-panzanella,20 minutes,"['cherry tomatoes', 'shallot', 'bacon', 'ciabatta bread', 'avocados', 'arugula', 'fresh basil leaves', 'olive oil', 'balsamic', 'salt', 'pepper']"
+Pinch of Yum,Red Pepper Fettuccine with Shrimp,https://pinchofyum.com/red-pepper-fettuccine-shrimp,45 minutes,"['red pepper garlic butter', 'unsalted butter', 'land o lakes® butter', 'garlic', 'lemon', 'fresh herbs', 'roasted red peppers', 'chili powder', 'cayenne pepper', 'salt', 'shrimp and fettuccine:', 'raw', 'shrimp', 'fettuccine', 'heavy whipping cream', 'reserved pasta water', 'greens', 'lemons', 'salt']"
+Pinch of Yum,Roasted Cauliflower Burrito Bowls,https://pinchofyum.com/roasted-cauliflower-burrito-bowls,50 minutes,"['white or brown rice', 'cauliflower', 'olive oil', 'taco seasoning', 'black beans', 'water', 'tomatoes', 'onion', 'limes', 'cilantro', 'corn', 'avocado', 'hot sauce']"
+Pinch of Yum,Golden Grahams Bars,https://pinchofyum.com/golden-graham-bars,15 minutes,"['butter', 'chocolate chips', 'mini marshmallows', 'vanilla', 'golden grahams cereal']"
+Pinch of Yum,Cookie Dough Energy Bites,https://pinchofyum.com/cookie-dough-energy-bites,15 minutes,"['rolled oats', 'flaked unsweetened coconut', 'peanut butter', 'honey', 'chia seeds', 'salt', 'vanilla', 'chocolate chips']"
+Pinch of Yum,Walnut Chorizo Tacos with Pineapple Salsa,https://pinchofyum.com/walnut-chorizo-tacos,50 minutes,"['cauliflower florets', 'southern grove walnuts, whole', 'pueblo lindo chipotles in adobo sauce', 'stonemill\xa0chili powder', 'stonemill ground cumin', 'salt', 'pineapple', 'jalapeños', 'cilantro', 'red onion', 'salt', 'limes', 'extras:', 'avocados', 'limes', 'purple cabbage', 'tortillas']"
+Pinch of Yum,Cashew Crunch Salad with Sesame Dressing,https://pinchofyum.com/cashew-crunch-salad-with-sesame-dressing,30 minutes,"['for the salad:', 'green cabbage', 'purple cabbage', 'carrots', 'cilantro', 'green onion', 'edamame', 'roasted cashews', 'crunchy chow mein noodles', 'chicken', 'shrimp', 'protein', 'dressing:', 'olive oil', 'white vinegar', 'sesame oil', 'sugar', 'salt', 'garlic powder', 'greek yogurt or mayo']"
+Pinch of Yum,Mocha Peanut Butter Pie,https://pinchofyum.com/mocha-peanut-butter-pie,30 minutes,"['chocolate sandwich cookies', 'delallo instant espresso powder', 'butter', 'cream cheese', 'creamy peanut butter', 'powdered sugar', 'vanilla', 'whipped topping', 'peanut butter cups', 'chocolate ice cream', 'chocolate', 'chocolate chips']"
+Pinch of Yum,Raspberry Crumble Bars,https://pinchofyum.com/raspberry-crumble-bars,1 hour 30 minutes,"['raspberry filling', 'frozen raspberries', 'granulated sugar', 'flour', 'cornstarch', 'lemon', 'crumble layer', 'rolled', 'oats', 'flour', 'brown sugar', 'baking powder', 'butter', 'salt']"
+Pinch of Yum,Summer Quinoa Salad Jars with Lemon Dill Dressing,https://pinchofyum.com/summer-quinoa-salad-jars,30 minutes,"['lemon dill dressing', 'olive oil', 'water', 'white vinegar', 'garlic', 'salt', 'lemon juice', 'fresh dill', 'fresh parsley', 'summer salad jars', 'quinoa', 'grape tomatoes', 'cucumbers', 'sun dried tomatoes or peppers', 'feta cheese']"
+Pinch of Yum,Best Anytime Baked Chicken Meatballs,https://pinchofyum.com/best-anytime-baked-chicken-meatballs,30 minutes,"['ground chicken or turkey', 'egg', 'panko breadcrumbs', 'grated parmesan', 'olive oil', 'garlic powder', 'onion powder', 'salt', 'black pepper']"
+Pinch of Yum,How To Make Homemade Gnocchi (and Have a Party While Doing It),https://pinchofyum.com/how-to-make-homemade-gnocchi,1 hour 10 minutes,"['russet potatoes', 'flour', 'ricotta cheese', 'egg', 'salt']"
+Pinch of Yum,Instant Pot Short Rib Ragu,https://pinchofyum.com/instant-pot-short-rib-ragu,55 minutes,"['bone-in short ribs', 'vegetable oil', 'onion', 'garlic', 'dry red wine', 'marinara/spaghetti sauce', 'water', 'salt', 'crushed red pepper', 'salt & pepper']"
+Pinch of Yum,Strawberry Shortcake Yogurt Bowls,https://pinchofyum.com/strawberry-shortcake-yogurt-bowls,50 minutes,"['shortcake granola:', 'rolled oats', 'sliced almonds', 'unsweetened coconut flakes', 'pecans', 'kosher salt', 'olive oil', 'pure maple syrup', 'vanilla', 'turbinado sugar', 'yogurt bowl toppers:']"
+Pinch of Yum,Summer Chipotle Chicken Cobb Salad with Cilantro Vinaigrette,https://pinchofyum.com/summer-chipotle-chicken-cobb-salad-with-cilantro-vinaigrette,1 hour 10 minutes,"['for the chipotle chicken:', 'vegetable oil', 'chipotle chiles', 'garlic powder', 'cumin', 'oregano', 'black pepper', 'salt', 'chicken breasts', 'thighs', 'for the summer cobb salad:', 'greens', 'bacon', 'strawberries', 'corn on the cob', 'avocados', 'cilantro vinaigrette!']"
+Pinch of Yum,5 Ingredient Cilantro Vinaigrette,https://pinchofyum.com/5-ingredient-cilantro-vinaigrette,5 minutes,"['cilantro', 'olive oil', 'white vinegar', 'garlic', 'kosher salt', 'red pepper flakes', 'water']"
+Pinch of Yum,Garlic Herb Spaghetti with Chicken Meatballs,https://pinchofyum.com/garlic-herb-spaghetti-chicken-meatballs,1 hour,"['baked meatballs:', 'ground turkey or chicken', 'egg', 'panko breadcrumbs', 'grated parmesan', 'olive oil', 'garlic powder', 'onion powder', 'salt', 'black pepper', 'garlic herb pasta:', 'spaghetti, linguine, or cappellini', 'land o lakes® butter', 'garlic', 'lemon zest', 'fresh spinach', 'fresh parsley', 'parmesan', 'water', 'white wine']"
+Pinch of Yum,Clean Eating Instant Pot Summer Soup,https://pinchofyum.com/instant-pot-summer-soup,50 minutes,"['chicken breasts', 'crushed tomatoes', 'carrots', 'celery', 'garlic', 'farro', 'chicken broth', 'olive oil', 'basil', 'oregano', 'garlic', 'onion powder', 'salt', 'zucchini', 'fresh sweet corn kernels', 'parmesan', 'lemon juice', 'plain yogurt', 'fresh herbs', 'freshly ground pepper']"
+Pinch of Yum,2-Minute Creamy Avocado Dip,https://pinchofyum.com/avocado-dip,5 minutes,"['avocado', 'plain greek yogurt', 'lime juice', 'garlic powder', 'salt']"
+Pinch of Yum,Healthy-ish Breakfast Cookies,https://pinchofyum.com/healthy-ish-breakfast-cookies,45 minutes,"['banana', 'peanut butter', 'honey', 'maple syrup', 'coconut oil', 'vanilla', 'rolled oats', 'whole wheat flour', 'baking soda', 'chocolate chunks']"
+Pinch of Yum,Life-Changing Crispy Fried Pizzas,https://pinchofyum.com/life-changing-fried-pizzas,1 hour 20 minutes,"['pizza dough', 'oil', 'tomato sauce', 'fresh mozzarella cheese', 'fresh basil', 'pesto', 'red pepper flakes', 'parmesan cheese', 'toppings']"
+Pinch of Yum,The Best Chicken Tinga Tacos,https://pinchofyum.com/the-best-chicken-tinga-tacos,20 minutes,"['chicken tinga tacos:', 'olive oil', 'sweet onion', 'garlic', 'chipotle peppers in adobo sauce', 'dried oregano', 'ground cumin', 'crushed fire-roasted tomatoes', 'chicken stock', 'kosher salt', 'shredded cooked chicken', 'for serving:', '(6-inch) corn tortillas', 'ripe avocados', 'chopped fresh cilantro', 'diced red onion', 'crumbled cotija', 'lime,']"
+Pinch of Yum,Springy Blueberry Lemon Bread,https://pinchofyum.com/blueberry-lemon-bread,1 hour 15 minutes,"['land o lakes® butter', 'white sugar', 'lemon', 'eggs', 'flour', 'baking powder', 'salt', 'milk', 'blueberries']"
+Pinch of Yum,Kitchen Sink Sunflower Salad,https://pinchofyum.com/kitchen-sink-sunflower-salad,45 minutes,"['for the sunflower dressing', 'sunflower seed butter', 'plain yogurt', 'garlic powder', 'curry powder', 'cumin', 'pepper', 'salt', 'for the salad', ':', 'sweet potato', 'brussel sprouts', 'kale', 'cucumber', 'black beans', 'protein', 'sunflower seeds']"
+Pinch of Yum,"Ham, Egg, and Cheese Brunch Cups",https://pinchofyum.com/ham-egg-and-cheese-brunch-cups,35 minutes,"['butter', 'baker’s corner all-purpose flour', 'milk', 'swiss cheese', 'salt', 'puff pastry', 'simplynature organic cage free brown eggs', 'appleton farms spiral sliced half ham', 'simplynature organic cage free brown egg', 'chives', 'salt', 'pepper']"
+Pinch of Yum,Date Night Mushroom Fettuccine,https://pinchofyum.com/mushroom-fettuccine,30 minutes,"['land\xa0o lakes® butter', 'garlic', 'mushrooms', 'heavy whipping cream', 'fettuccine', 'parmesan cheese', 'pasta water', 'salt', 'fresh ground black pepper', 'parsley']"
+Pinch of Yum,Slow Cooker Chicken Pot Pie Soup,https://pinchofyum.com/slow-cooker-chicken-pot-pie-soup,4 hours 10 minutes,"['chicken breasts', 'salt', 'pepper', 'onion', 'garlic', 'rosemary', 'thyme', 'chicken broth', 'russet potato', 'frozen peas and carrots', 'flour', 'heavy cream', 'cornstarch', 'parsley', 'puff pastry']"
+Pinch of Yum,Firecracker Vegan Lettuce Wraps,https://pinchofyum.com/vegan-lettuce-wraps,35 minutes,"['for the firecracker sauce:', 'peanut butter', 'soy sauce', 'sesame oil', 'rice vinegar', 'chili paste', 'sugar', 'ginger', 'garlic', 'for the lettuce wraps:', 'tofu', 'brown rice noodles', 'lettuce leaves', 'peanuts, cilantro, lime']"
+Pinch of Yum,Basic Soft Pretzels,https://pinchofyum.com/basic-soft-pretzels,1 hour 15 minutes,"['milk', 'instant yeast', 'brown sugar', 'melted butter', 'salt', 'all-purpose flour', 'flour', 'baking soda', 'egg', 'coarse salt']"
+Pinch of Yum,Beer Cheese Soup with Soft Pretzels,https://pinchofyum.com/beer-cheese-soup-with-soft-pretzels,40 minutes,"['olive oil', 'onion', 'garlic', 'celery', 'jalapeno', 'red bell pepper', 'smoked paprika', 'beer', 'chicken or vegetable broth', 'butter', 'flour', 'whole milk', 'cheddar cheese', 'smoked cheddar cheese', 'salt', 'pepper']"
+Pinch of Yum,Salted Caramel Brownies,https://pinchofyum.com/salted-caramel-brownies,1 hour,"['yummy homemade caramel:', 'sugar', 'salted butter', 'heavy cream', 'salt', 'fudgy thick brownies:', 'unsweetened chocolate', 'salted butter', 'sugar', 'eggs', 'vanilla', 'flour', 'salt']"
+Pinch of Yum,Crunchwrap Supreme,https://pinchofyum.com/crunchwrap,35 minutes,"['spicy ground beef', 'olive oil', 'onion', 'garlic', 'ground beef', 'taco seasoning', 'pepperjack cheese sauce:', 'butter', 'flour', 'milk', 'pepperjack cheese', 'crunchwrap extras', '(customize to your heart’s desire):', 'tortillas', 'something crunchy', 'lettuce, tomato, cilantro', 'sour cream', 'salsa']"
+Pinch of Yum,Avocado Kale Caesar Salad + Sweet Potato Fries,https://pinchofyum.com/avocado-kale-caesar-salad-sweet-potato-fries,10 minutes,"['avocado', 'water', 'mayonnaise', 'garlic', 'lemon juice', 'dijon mustard', 'salt', 'kale', 'parmesan', 'pepitas']"
+Pinch of Yum,Buffalo Cauliflower Tacos with Avocado Crema,https://pinchofyum.com/buffalo-cauliflower-tacos-avocado-crema,45 minutes,"['buffalo cauliflower tacos:', 'flour', 'milk', 'garlic powder, salt, and pepper', 'cauliflower', 'hot sauce', 'cabbage', 'slaw', 'cilantro', 'tortillas', 'avocado crema', 'avocados', 'garlic', 'sour cream', 'water', 'salt', 'lemon', 'lime']"
+Pinch of Yum,Almond Butter Cups,https://pinchofyum.com/almond-butter-cups,1 hour 10 minutes,"['coconut oil', 'cocoa powder', 'natural sweetener', 'salt', 'almond butter', 'sea salt']"
+Pinch of Yum,Kimchi Fried Rice,https://pinchofyum.com/kimchi-fried-rice,15 minutes,"['oil', 'garlic', 'ginger', 'cooked rice', 'cauliflower rice', 'frozen peas and carrots', 'kimchi', 'soy sauce', 'eggs', 'chili paste', 'sriracha', 'sesame oil', 'sesame seeds']"
+Pinch of Yum,Sheet Pan Garlic Ginger Chicken & Broccoli,https://pinchofyum.com/garlic-ginger-chicken,30 minutes,"['for the garlic ginger sauce:', 'low sodium soy sauce', 'water', 'white vinegar', 'oil', 'fresh ginger', 'garlic', 'dates', 'for the chicken and broccoli:', 'chicken breasts or thighs', 'broccoli', 'red pepper,', 'sesame oil', 'sesame seeds', 'green onions']"
+Pinch of Yum,Vegetarian Swedish Meatballs,https://pinchofyum.com/vegetarian-swedish-meatballs,35 minutes,"['vegetarian meatballs:', 'wild rice', 'mushrooms', 'greek yogurt', 'eggs', 'breadcrumbs', 'smoked paprika', 'garlic powder', 'salt', 'olive oil', 'for the gravy:', 'salted butter', 'onion powder', 'garlic powder', 'flour', 'vegetable broth', 'sour cream']"
+Pinch of Yum,The Best Green Smoothie,https://pinchofyum.com/the-best-green-smoothie,5 minutes,"['mango chunks', 'peach slices', 'kale', 'spinach', 'almond milk', 'fresh ginger', 'cinnamon', 'honey']"
+Pinch of Yum,Red Pepper Cashew Pasta with Roasted Cauliflower,https://pinchofyum.com/red-pepper-cashew-pasta,45 minutes,"['cauliflower', 'olive oil', 'salt', 'cashews', 'water', 'salt', 'pasta sauce', 'roasted red peppers', 'whole wheat penne pasta']"
+Pinch of Yum,Gooey Caramel Monkey Bread,https://pinchofyum.com/gooey-caramel-monkey-bread,2 hours 25 minutes,"['for the dough:', 'water', 'instant yeast', 'salt', 'honey', 'sugar', 'eggs', 'butter', 'flour', 'for the caramel sauce:', 'butter', 'heavy whipping cream', 'brown sugar', 'sea salt']"
+Pinch of Yum,Spicy Chicken Meal Prep with Rice and Beans,https://pinchofyum.com/spicy-chicken-meal-prep,20 minutes,"['for the chicken meal prep:', 'long grain white', 'rice', 'water', 'fresh salsa', 'salt', 'oil', 'chicken breasts', 'cumin', 'chili powder', 'garlic powder', 'cayenne', 'for adding in later:', 'black beans', 'cilantro', 'sunshine sauce']"
+Pinch of Yum,5-Minute Sunshine Sauce,https://pinchofyum.com/5-minute-sunshine-sauce,5 minutes,"['olive oil', 'water', 'white vinegar', 'salt', 'oregano', 'basil', 'garlic', 'black pepper', 'fresh herbs', 'fresh', 'lemon']"
+Pinch of Yum,Bulletproof Peppermint Mocha,https://pinchofyum.com/bulletproof-peppermint-mocha,5 minutes,"['coffee', 'milk of choice', 'protein powder', 'bulletproof collagen protein', 'cocoa powder', 'agave', 'peppermint extract', 'salt']"
+Pinch of Yum,Instant Pot Korean Beef Tacos,https://pinchofyum.com/instant-pot-korean-beef-tacos,1 hour,"['for the korean beef:', 'pears', 'ginger', 'garlic', 'soy sauce', 'brown sugar', 'sesame oil', 'top sirloin', 'for the tacos:', 'cilantro', 'peanuts', 'kimchi', 'sriracha mayo', 'flour tortillas']"
+Pinch of Yum,Spinach Queso with Crispy Jalapeños,https://pinchofyum.com/spinach-queso,15 minutes,"['jalapeños', 'onion', 'butter', 'olive oil', 'garlic', 'baby spinach', 'flour', 'milk', 'shredded cheese', 'crispy jalapeños', 'cilantro']"
+Pinch of Yum,Golden Soup,https://pinchofyum.com/golden-soup,30 minutes,"['olive oil', 'onion', 'garlic', 'cauliflower', 'cashews', 'turmeric', '', 'water', 'salt', 'lemon juice']"
+Pinch of Yum,Favorite Pumpkin Muffins,https://pinchofyum.com/favorite-pumpkin-muffins,20 minutes,"['rolled oats', 'pumpkin puree', 'plain\xa0greek yogurt', 'real maple syrup', 'eggs', 'baking soda', 'cinnamon', 'salt', 'chocolate chips']"
+Pinch of Yum,Chili Garlic Instant Pot Noodles,https://pinchofyum.com/instant-pot-noodles,8 minutes,"['soy sauce', 'brown sugar', 'white vinegar', 'chili garlic paste', 'olive oil', 'water', 'brown rice noodles', 'chicken breasts', 'bell peppers']"
+Pinch of Yum,Instant Pot Wild Rice Soup,https://pinchofyum.com/instant-pot-wild-rice-soup,1 hour,"['for the instant pot:', 'carrots', 'celery', 'onion', 'garlic', 'wild rice', 'fresh mushrooms', 'chicken broth', 'salt', 'poultry seasoning', 'thyme', 'for the stovetop:', 'butter', 'flour', 'milk']"
+Pinch of Yum,Instant Pot Pumpkin Walnut Chili,https://pinchofyum.com/instant-pot-chili,1 hour 15 minutes,"['pumpkin chili ingredients:', 'fire-roasted tomatoes', 'onion', 'garlic', 'poblano peppers', 'chipotle peppers', 'walnuts', 'red lentils', 'bulgur', 'chili powder', 'smoked paprika', 'salt', 'broth', 'add at the end:', 'pumpkin puree', 'black beans']"
+Pinch of Yum,Instant Pot Minestrone Soup,https://pinchofyum.com/instant-pot-minestrone-soup,50 minutes,"['for the instant pot minestrone:', 'carrots', 'celery stalks', 'onion', 'garlic', 'green cabbage', 'pesto', 'marinara sauce', 'cannellini or navy beans', 'water', 'salt', 'bay leaves', 'smoked paprika', 'to add at the end:', 'bulgur']"
+Pinch of Yum,The Ultimate Breakfast Sandwich,https://pinchofyum.com/breakfast-sandwich,15 minutes,[]
+Pinch of Yum,Life Changing Soft Scrambled Eggs,https://pinchofyum.com/soft-scrambled-eggs,5 minutes,"['eggs', 'butter', 'salt']"
+Pinch of Yum,Pumpkin Gnocchi with Sage Butter Sauce,https://pinchofyum.com/pumpkin-gnocchi,35 minutes,"['pumpkin gnocchi:', 'baking potato', 'pumpkin puree', 'egg', 'all purpose flour', 'salt', 'butter', 'sage butter sauce:', 'butter', 'sage leaves', 'garlic', 'flour', 'heavy whipping cream', 'starchy water']"
+Pinch of Yum,Favorite Pumpkin Granola,https://pinchofyum.com/pumpkin-granola,40 minutes,"['rolled oats', 'sliced almonds', 'pistachios', 'flaked coconut', 'pumpkin puree', 'olive oil', 'maple syrup', 'salt', 'cinnamon']"
+Pinch of Yum,Caramelized Onion Dip,https://pinchofyum.com/onion-dip,55 minutes,"['onions', 'butter', 'salt', 'sugar', 'white wine', 'sour cream', 'cream cheese', 'fresh parsley', 'soy sauce', 'worcestershire']"
+Pinch of Yum,Basic Garlic Butter Tomato Sauce,https://pinchofyum.com/tomato-sauce,15 minutes,"['cherry tomatoes', 'olive oil', 'garlic', 'balsamic vinegar', 'butter']"
+Pinch of Yum,5-Ingredient Green Curry,https://pinchofyum.com/green-curry,45 minutes,"['for the green curry:', 'firm\xa0tofu', 'olive oil', 'salt', 'sweet potatoes', 'green curry paste', 'coconut milk', 'broccoli florets', 'optional extras:', 'cilantro', 'raisins', 'fish sauce', 'brown sugar']"
+Pinch of Yum,Modern Scotcheroos,https://pinchofyum.com/modern-scotcheroos,20 minutes,"['brown rice syrup', 'peanut butter', 'real maple syrup', 'brown rice krispies', 'dark chocolate chips', 'flaked sea salt']"
+Pinch of Yum,The Best Vegan Broccoli Cheese Soup,https://pinchofyum.com/detox-broccoli-cheese-soup,30 minutes,"['olive oil', 'garlic', 'onion', 'celery', 'carrots', 'potato', 'broccoli', 'florets', 'vegetable broth', 'almondmilk', 'nutritional yeast', 'sea salt', 'croutons']"
+Pinch of Yum,Cheater’s Power Salad,https://pinchofyum.com/cheaters-power-salad,20 minutes,"['salad mix', 'black beans', 'avocado,', 'shredded chicken']"
+Pinch of Yum,Unbelievably Good Cashew Coffee,https://pinchofyum.com/cashew-coffee,5 minutes,"['strongly brewed coffee', 'cashews', 'honey', 'sea salt']"
+Pinch of Yum,Back Pocket Stir Fry with Noodles,https://pinchofyum.com/back-pocket-stir-fry,40 minutes,"['stir fry basics:', 'brown rice noodles', 'tofu', '1 tablespoon olive oil', 'vegetables', 'garlic', 'peanuts', 'cilantro', 'lime', 'shake-in-a-jar stir fry sauce:', 'soy sauce', 'brown sugar', 'honey', 'water', 'white vinegar', 'chili paste']"
+Pinch of Yum,Autumn Glow Milkshake,https://pinchofyum.com/autumn-glow-milkshake,10 minutes,"['sweet potato', 'cauliflower florets', 'vanilla almondmilk', 'almond butter', 'protein powder', 'honey', 'sea salt']"
+Pinch of Yum,Rockin’ Chimichurri Steak Tacos,https://pinchofyum.com/steak-tacos,1 hour 15 minutes,"['marinade:', 'jalapeño', 'cilantro', 'garlic cloves', 'limes', 'orange', 'vinegar', 'worcestershire', 'olive oil', 'brown sugar', 'cumin', 'salt', 'pepper', 'for the steak tacos:', 'flank steak', 'tortillas', 'red onion', 'cotija cheese', 'cilantro', 'guacamole', 'chimichurri']"
+Pinch of Yum,Loaded Caprese Grilled Cheese,https://pinchofyum.com/caprese-grilled-cheese,30 minutes,"['for the caprese grilled cheese:', 'sourdough bread', 'fresh mozzarella cheese', 'pesto', 'butter', 'garlic butter tomato sauce', 'for the garlic butter tomato sauce:', 'cherry tomatoes', 'garlic', 'butter', 'balsamic vinegar']"
+Pinch of Yum,Mind-Blowing Vegan Chocolate Pie,https://pinchofyum.com/vegan-chocolate-pie,10 minutes,"['for the chocolate pie filling:', 'silken firm\xa0tofu', 'almondmilk', 'almond butter', 'chocolate chips*', 'flaky sea salt', 'for the crust:']"
+Pinch of Yum,Sunshine Lentil Bowls with Garlic Olive Oil Dressing,https://pinchofyum.com/lentil-bowls,15 mins,"['lentils', 'potatoes', 'green beans', 'tomatoes', 'dill', 'eggs', 'goat cheese', 'garlic olive oil dressing:', 'olive oil', 'white vinegar', 'water', 'coarse', 'sea salt (or', 'table salt)', 'black pepper', 'dry oregano', 'dry basil', 'sugar', 'garlic']"
+Pinch of Yum,Best S’mores Bars,https://pinchofyum.com/smores-bars,45 minutes,"['butter', 'white sugar', 'brown sugar', 'egg', 'vanilla', 'baking powder', 'flour', 'salt', 'graham crackers', 'peanut butter', 'chocolate bars', 'marshmallow creme']"
+Pinch of Yum,Chopped Salad Pizza,https://pinchofyum.com/chopped-salad-pizza,35 minutes,"['for the chopped salad:', 'romaine lettuce', 'cherry tomatoes', 'chickpeas', 'salami', 'cheese', 'pepperoncini', 'olives', 'parsley', 'italian dressing', 'pizza:', 'pizza crust', 'tomato sauce', 'mozzarella cheese']"
+Pinch of Yum,The Best Avocado Egg Salad,https://pinchofyum.com/the-best-avocado-egg-salad,20 minutes,[]
+Pinch of Yum,Summery Chipotle Corn Chowder,https://pinchofyum.com/summery-chipotle-corn-chowder,30 minutes,"['olive oil', 'red potatoes', 'onion', 'garlic', 'sweet corn kernels', 'zucchini', 'salt', 'vegetable broth', 'almondmilk', 'chipotle peppers', 'basil leaves']"
+Pinch of Yum,5 Ingredient Peanut Butter Chocolate Chip Cookies,https://pinchofyum.com/5-ingredient-peanut-butter-chocolate-chip-cookies,22 minutes,"['coconut sugar', 'eggs', 'vanilla extract', 'salt', 'peanut butter', 'chocolate chips']"
+Pinch of Yum,Garlic Basil Shrimp and Grits,https://pinchofyum.com/garlic-basil-shrimp-and-grits,40 minutes,"['grits', 'almond breeze original almondmilk', 'olive oil', 'sea', 'salt', 'shrimp', 'garlic', 'cherry tomatoes', 'chicken broth', 'fresh basil']"
+Pinch of Yum,Detox Rainbow Roll-Ups with Peanut Sauce,https://pinchofyum.com/detox-rainbow-roll-ups-peanut-sauce,45 minutes (lots of chopping),"['rainbow roll-ups', 'carrots', 'cucumbers', 'red cabbage', 'curry hummus', 'cooked rice', 'quinoa', 'peanuts and cilantro', 'collard\xa0greens', 'peanut sauce', 'peanut butter', 'soy sauce', 'rice vinegar', 'water', 'honey', 'garlic']"
+Pinch of Yum,Curry Hummus,https://pinchofyum.com/curry-hummus,10 minutes,"['chickpeas', 'coconut milk', 'red curry paste', 'curry powder', 'garlic', 'sea salt']"
+Pinch of Yum,Lemon Lavender Muffins,https://pinchofyum.com/lemon-lavender-muffins,35 minutes,"['lemon lavender muffins:', 'glaze:']"
+Pinch of Yum,Blackout Chocolate Cake,https://pinchofyum.com/blackout-chocolate-cake,1 hour 15 minutes,"['for the chocolate cake:', 'for the frosting:']"
+Pinch of Yum,Pesto Asparagus Noodles,https://pinchofyum.com/pesto-asparagus-noodles,25 minutes,[]
+Pinch of Yum,Spring Detox Cauliflower Salad,https://pinchofyum.com/spring-detox-cauliflower-salad,40 minutes,"['cauli salad:', '1 14-ounce can chickpeas,', 'chili powder, salt, and pepper', '1 head cauliflower', '1 apple', '1 shallot', 'a handful of parsley and mint', '2 firm avocados', 'jar dressing:', '2 tablespoons grainy mustard', '2 tablespoons honey', '1/4 cup olive oil', '1/4 cup water', 'juice and zest of one lime', 'salt and pepper']"
+Pinch of Yum,The Ultimate Wild Rice Burgers,https://pinchofyum.com/ultimate-wild-rice-burgers,30 minutes,"['5 cups\xa0wild rice,', '1 cup\xa0fresh mushrooms,', '4 eggs', '1 1/2 cups mayonnaise', '1 cup panko', '4 teaspoons\xa0cumin', '1 teaspoon each salt, pepper, and garlic powder', '1/2 teaspoon', 'cayenne']"
+Pinch of Yum,Everything Greek Pork Pitas,https://pinchofyum.com/everything-greek-pork-pitas,50 minutes,"['greek pork:', 'for the pitas:']"
+Pinch of Yum,Spicy Instant Pot Carrot Soup,https://pinchofyum.com/carrot-soup,30 minutes,"['8–10 large carrots,', '1 onion', '3 cloves garlic,', '1 14-ounce can coconut milk', '1 1/2 cups chicken or veggie broth', '1/4 cup peanut butter', '1 tablespoon red curry paste']"
+Pinch of Yum,Chicken Tetrazzini,https://pinchofyum.com/chicken-tetrazzini,1 hour 15 minutes,"['chicken tetrazzini:', 'one 3-pound rotisserie chicken', '1 pound cooked\xa0egg noodles', '1 pound sliced mushrooms', '3–4 cups tetrazzini sauce', '1/4 cup parmesan cheese', 'tetrazzini sauce:', '1/4 cup melted butter', '1/3 cup flour', '2 cups milk or cream', '1 1/2\xa0cups chicken broth', '1 1/2 teaspoons salt', '1/4 cup dry white wine']"
+Pinch of Yum,Simple Enchiladas Verdes,https://pinchofyum.com/simple-enchiladas-verdes,1 hour,"['for the roasted tomatillo sauce:', '15 medium-sized tomatillos', '3 jalapeno peppers', '4 cloves garlic', '1/2 cup fresh packed cilantro', '1 cup chicken broth', '1/2 cup sour cream', 'salt', 'for the enchiladas verdes:', '10 or so\xa08-inch tortillas', '12 ounces shredded\xa0cheese', '1 lb. cooked chicken', 'additional mix-ins']"
+Pinch of Yum,Life Changing Instant Pot Beef Stew,https://pinchofyum.com/instant-pot-beef-stew,50 minutes,"['2 lbs beef', '1 medium onion', '2 stalks\xa0celery', '6 carrots', '2 tablespoons', 'small\xa0tapioca', '', '1/2 cup tomato juice', '2 teaspoons', 'salt', '1 tablespoon sugar']"
+Pinch of Yum,Baked Mac and Cheese,https://pinchofyum.com/baked-mac-and-cheese,1 hour 15 minutes,[]
+Pinch of Yum,Basic + Awesome Creamy Potato Soup,https://pinchofyum.com/creamy-potato-soup,1 hour 15 minutes,[]
+Pinch of Yum,Amazingly Wholesome 5 Ingredient Banana Bread Muffins,https://pinchofyum.com/banana-bread-muffins,30 minutes,[]
+Pinch of Yum,3 Ingredient Creamy Tomato Shells,https://pinchofyum.com/creamy-tomato-shells,25 minutes,[]
+Pinch of Yum,Minty Chocolate Holiday Cake Bites,https://pinchofyum.com/cake-bites,20 minutes,[]
+Pinch of Yum,Pumpkin Bundt Cake and Baby Shower,https://pinchofyum.com/pumpkin-bundt-cake,1 hour,[]
+Pinch of Yum,Awesomely Easy Swiss Fondue,https://pinchofyum.com/easy-cheese-fondue,30 minutes,[]
+Pinch of Yum,Peanut Noodle Salad,https://pinchofyum.com/peanut-noodle-salad,1 hour 5 minutes,[]
+Pinch of Yum,Southwest Sweet Potato Tater Tot Hotdish,https://pinchofyum.com/sweet-potato-tater-tot-hotdish,45 minutes,[]
+Pinch of Yum,Caramelized Banana Oatmeal,https://pinchofyum.com/caramelized-banana-oatmeal,25 minutes,[]
+Pinch of Yum,Detox Moroccan-Spiced Chickpea Glow Bowl,https://pinchofyum.com/morrocan-spiced-chickpea-glow-bowl,30 minutes,[]
+Pinch of Yum,Creamy Parmesan Orecchiette with Butternut Squash and Broccolini,https://pinchofyum.com/creamy-parmesan-orecchiette,45 minutes,[]
+Pinch of Yum,Slow Cooker Beef Ragu with Pappardelle,https://pinchofyum.com/slow-cooker-beef-ragu-with-pappardelle,8 hours 10 minutes,[]
+Pinch of Yum,Creamy Tomato Risotto with Pan Fried Barramundi,https://pinchofyum.com/creamy-tomato-risotto-pan-fried-barramundi,1 hour,[]
+Pinch of Yum,Jumbo Butternut Squash Ravioli with Kale Pesto,https://pinchofyum.com/butternut-squash-ravioli,30 minutes,[]
+Pinch of Yum,Spicy Posole with Cheesy Jalapeño Cornbread Muffins,https://pinchofyum.com/spicy-posole-cheesy-jalapeno-cornbread-muffins,30 minutes,[]
+Pinch of Yum,5 Minute Magic Vegan Caramel Sauce,https://pinchofyum.com/5-minute-magic-vegan-caramel-sauce,5 minutes,[]
+Pinch of Yum,Cheesy Meatball Pull-Apart Pizza Ring,https://pinchofyum.com/pull-apart-pizza-ring,30 minutes,[]
+Pinch of Yum,Strawberry Oat Crumble Bars,https://pinchofyum.com/strawberry-oat-crumble-bars,50 minutes,[]
+Pinch of Yum,5 Ingredient Pumpkin Alfredo,https://pinchofyum.com/pumpkin-alfredo,25 minutes,[]
+Pinch of Yum,Southwest Turkey Breakfast Stacks,https://pinchofyum.com/southwest-turkey-breakfast-stacks,35 minutes,[]
+Pinch of Yum,Smores Waffles with Nutella and Toasted Coconut,https://pinchofyum.com/smores-waffles,15 minutes,"['waffle batter:', 'filling / toppings:']"
+Pinch of Yum,Loaded Mediterranean Street Cart Fries,https://pinchofyum.com/street-cart-fries,30 minutes,[]
+Pinch of Yum,Garlic Basil Barramundi Skillet with Tomato Butter Sauce,https://pinchofyum.com/garlic-basil-barramundi-skillet,30 minutes,"['olive oil', 'garlic', 'basil', 'parsley', 'salt', 'pepper', 'tomatoes', 'white beans', 'barramundi', 'chicken or vegetable broth', 'butter', 'parmesan cheese']"
+Pinch of Yum,No-Bake Salted Caramel Cups,https://pinchofyum.com/no-bake-salted-caramel-cups,25 minutes,[]
+Pinch of Yum,Next Level Zoodles with Creamy Corn Sauce,https://pinchofyum.com/zoodles-with-creamy-corn-sauce,25 minutes,[]
+Pinch of Yum,Healthy Garlic Herb Chicken Salad,https://pinchofyum.com/healthy-chicken-salad,35 minutes,"['salad base:', 'creamy basil dressing:']"
+Pinch of Yum,Summer Bliss Bowls with Sweet Potato Falafel and Jalapeño Ranch,https://pinchofyum.com/summer-bliss-bowls,30 minutes,[]
+Pinch of Yum,BBQ Chicken Sweet Potato Pizza,https://pinchofyum.com/bbq-chicken-sweet-potato-pizza,1 hour 5 minutes,[]
+Pinch of Yum,5 Ingredient Peanut Butter Cup Nice Cream,https://pinchofyum.com/nice-cream,15 minutes,[]
+Pinch of Yum,3 Ingredient Sweet Potato Pizza Crust,https://pinchofyum.com/sweet-potato-pizza-crust,1 hour,"['sweet potato', 'rolled oats', 'egg', 'salt', 'garlic powder', 'olive oil']"
+Pinch of Yum,Zippy Orzo Summer Salad,https://pinchofyum.com/zippy-orzo-summer-salad,25 minutes,"['for the salad:', 'for the dressing:']"
+Pinch of Yum,Berry Chia Overnight Oats,https://pinchofyum.com/chia-overnight-oats,10 minutes,[]
+Pinch of Yum,Easy Chili Lime Fish Tacos,https://pinchofyum.com/easy-chili-lime-fish-tacos,30 minutes,[]
+Pinch of Yum,Best Easy Honey Lemon Chicken,https://pinchofyum.com/lemon-chicken,1 hour,[]
+Pinch of Yum,World’s Best Watermelon Smoothie,https://pinchofyum.com/worlds-best-watermelon-smoothie,5 minutes,[]
+Pinch of Yum,Green Curry Scallops with Mango Cilantro Salsa,https://pinchofyum.com/green-curry-scallops,40 minutes,[]
+Pinch of Yum,Korean BBQ Burrito,https://pinchofyum.com/korean-bbq-burrito,28 minute,[]
+Pinch of Yum,Banh Mi Bowls with Lemongrass Meatballs,https://pinchofyum.com/banh-mi-bowls,1 hour 20 minutes,[]
+Pinch of Yum,Raw Salted Chocolate Snack Bars,https://pinchofyum.com/chocolate-snack-bars,25 minutes,"['crust:', 'chocolate filling layer:']"
+Pinch of Yum,15 Minute Lo Mein,https://pinchofyum.com/lo-mein,20 minutes,"['dark soy sauce', 'light soy sauce', 'sesame oil', 'sugar', 'uncooked ramen noodles', 'sesame oil', 'onions', 'vegetables like carrots, red peppers, cabbage, bok choy, mushrooms,', 'broccoli', 'mirin']"
+Pinch of Yum,Glowing Grilled Summer Detox Salad,https://pinchofyum.com/detox-salad,35 minutes,['cilantro avocado dressing']
+Pinch of Yum,Ricotta Berry French Toast Casserole,https://pinchofyum.com/french-toast-casserole,50 minutes,"['for the brioche dough', 'for the french toast casserole filling']"
+Pinch of Yum,Super Clean Broccoli Salad with Creamy Almond Dressing,https://pinchofyum.com/clean-broccoli-salad,15 minutes,[]
+Pinch of Yum,Korean BBQ Yum Yum Rice Bowls,https://pinchofyum.com/yum-yum-rice-bowls,30 minutes,"['for the steak:', 'for the yum yum rice bowls:']"
+Pinch of Yum,The Best Protein Pancakes,https://pinchofyum.com/protein-pancakes,20 minutes,[]
+Pinch of Yum,5 Ingredient Creamy Kale Pasta,https://pinchofyum.com/creamy-kale-pasta,40 minutes,[]
+Pinch of Yum,5 Minute Yum Yum Sauce,https://pinchofyum.com/yum-yum-sauce,5 minutes,[]
+Pinch of Yum,Mini Chicken Meatballs with Crispy Potatoes and Romesco,https://pinchofyum.com/mini-chicken-meatballs,30 minutes,[]
+Pinch of Yum,General Tso’s Cauliflower,https://pinchofyum.com/general-tsos-cauliflower,1 hour,"['for the general tso’s sauce:', 'for the batter:', 'other ingredients:']"
+Pinch of Yum,Peanut Butter Pretzel Energy Bites,https://pinchofyum.com/energy-bites,20 minutes,[]
+Pinch of Yum,Spicy Sesame Zoodles with Crispy Tofu,https://pinchofyum.com/sesame-zoodles,25 minutes,"['chili sesame sauce:', 'zoodles and tofu']"
+Pinch of Yum,Arepas with Carnitas and Sweet Potato,https://pinchofyum.com/arepas,30 minutes,['personal fave']
+Pinch of Yum,6 Ingredient Espresso Brownies,https://pinchofyum.com/6-ingredient-espresso-brownies,40 minutes,[]
+Pinch of Yum,Migas: All Day Every Day,https://pinchofyum.com/migas-day-every-day,30 minutes,[]
+Pinch of Yum,Perfect Baked Salmon with Lentils and Lemon Herb Sauce,https://pinchofyum.com/perfect-baked-salmon-lentils,1 hour 15 minutes,['lemon herb sauce:']
+Pinch of Yum,Iced Matcha Green Tea Latte,https://pinchofyum.com/iced-matcha-green-tea-latte,5 minutes,[]
+Pinch of Yum,"Healing Bowls with Turmeric Sweet Potatoes, Poached Eggs, and Lemon Dressing",https://pinchofyum.com/healing-bowls,25 minutes,[]
+Pinch of Yum,Blueberry Orange Brunch Cake with Agave and Pistachios,https://pinchofyum.com/blueberry-orange-brunch-cake,1 hour 5 minutes,[]
+Pinch of Yum,Chipotle Sweet Potato Noodle Salad with Roasted Corn,https://pinchofyum.com/sweet-potato-noodle-salad,15 minutes,[]
+Pinch of Yum,Lemony Herb-Loaded Chopped Greek Salad,https://pinchofyum.com/chopped-greek-salad,20 minutes,[]
+Pinch of Yum,Spicy Chicken and Sweet Potato Meal Prep Magic,https://pinchofyum.com/spicy-chicken-sweet-potato-meal-prep-magic,45 minutes,[]
+Pinch of Yum,Spicy Weekend Gumbo with Shrimp and Sausage,https://pinchofyum.com/spicy-weekend-gumbo,45 minutes,[]
+Pinch of Yum,Dynamite Plant Power Sushi Bowls,https://pinchofyum.com/dynamite-plant-power-sushi-bowls,25 minutes,[]
+Pinch of Yum,Garlic Butter Capellini Pomodoro with Shrimp,https://pinchofyum.com/garlic-butter-capellini-pomodoro-with-shrimp,40 minutes,[]
+Pinch of Yum,Spicy Thai Chicken and Quinoa,https://pinchofyum.com/spicy-thai-chicken-and-quinoa,55 minutes,"['thai style chili sauce', 'water', 'chicken broth', 'agave', 'honey', 'soy sauce', 'rice vinegar', 'lime juice', 'light brown sugar', 'garlic', 'boneless skinless chicken thighs', 'uncooked quinoa', 'chopped peanuts', 'cilantro', 'chili flakes']"
+Pinch of Yum,Spring Roll Bowls with Sweet Garlic Lime Sauce,https://pinchofyum.com/spring-roll-bowls,45 minutes,[]
+Pinch of Yum,30-Minute Vegetarian Meatballs,https://pinchofyum.com/30-minute-vegetarian-meatballs,30 minutes,['(see notes)']
+Pinch of Yum,Life-Changing 30 Minute Masala Sauce,https://pinchofyum.com/life-changing-30-minute-masala-sauce,30 minutes,[]
+Pinch of Yum,Spaghetti Squash Lasagna Boats,https://pinchofyum.com/spaghetti-squash-lasagna-boats,1 hour 45 minutes,[]
+Pinch of Yum,Chipotle Sofritas Tortilla Casserole,https://pinchofyum.com/chipotle-sofritas-tortilla-casserole-2,55 minutes,[]
+Pinch of Yum,The Best Soft Granola Bars,https://pinchofyum.com/the-best-soft-granola-bars,45 minutes,[]
+Pinch of Yum,Creamy Green Shakshuka with Rice,https://pinchofyum.com/creamy-green-shakshuka-with-rice,30 minutes,"['for the sauce base:', 'for the shakshuka:']"
+Pinch of Yum,Spicy Fish Taco Bowls with Cilantro Lime Slaw,https://pinchofyum.com/spicy-fish-taco-bowls-with-cilantro-lime-slaw,50 minutes,[]
+Pinch of Yum,Marinated Kale and Chicken Bowls with Sun Dried Tomato Sauce,https://pinchofyum.com/marinated-kale-and-chicken-bowls-with-sun-dried-tomato-sauce,50 minutes,[]
+Pinch of Yum,Breakfast Enchiladas with Roasted Poblano Sauce,https://pinchofyum.com/breakfast-enchiladas-with-roasted-poblano-sauce,45 minutes,[]
+Pinch of Yum,Creamy Spinach and Roasted Poblano Sauce,https://pinchofyum.com/creamy-spinach-and-roasted-poblano-sauce,45 minutes,"['for roasting:', 'for the rest of the sauce:']"
+Pinch of Yum,Homemade Spicy Ramen with Tofu,https://pinchofyum.com/homemade-spicy-ramen-with-tofu,25 minutes,"['spicy miso paste:', 'ramen:']"
+Pinch of Yum,Winter Spa Salad with Lemon Chicken,https://pinchofyum.com/winter-spa-salad-with-lemon-chicken,45 minutes,[]
+Pinch of Yum,Creamy Garlic Roasted Red Pepper Pasta,https://pinchofyum.com/creamy-garlic-roasted-red-pepper-pasta,35 minutes,[]
+Pinch of Yum,Spicy Chipotle Turkey Burritos (Make Ahead),https://pinchofyum.com/spicy-chipotle-turkey-burritos-make-ahead,40 minutes,"['filing part one (turkey):', 'filling part two (vegetables):', 'for serving:']"
+Pinch of Yum,Burst Tomato and Zucchini Spaghetti with Avocado Sauce,https://pinchofyum.com/burst-tomato-zucchini-spaghetti-with-avocado-sauce,30 minutes,['avocado sauce:']
+Pinch of Yum,Roasted Garlic and White Bean Lasagna Soup,https://pinchofyum.com/roasted-garlic-white-bean-lasagna-soup,1 hour 20 minutes,[]
+Pinch of Yum,Spicy Cauliflower Burgers,https://pinchofyum.com/spicy-cauliflower-burgers,1 hour,"['for the cauliflower burgers', 'burger toppings']"
+Pinch of Yum,Korean BBQ Steak Bowls with Spicy Sesame Dressing,https://pinchofyum.com/korean-bbq-steak-bowls-with-spicy-sesame-dressing,30 minutes,[]
+Pinch of Yum,Mediterranean Quinoa Bowls with Roasted Red Pepper Sauce,https://pinchofyum.com/mediterranean-quinoa-bowls-with-roasted-red-pepper-sauce,20 minutes,[]
+Pinch of Yum,Skillet Turkey with Bacon and White Wine,https://pinchofyum.com/skillet-turkey-with-bacon-white-wine,1 hour 20 minutes,[]
+Pinch of Yum,Cinnamon White Russian,https://pinchofyum.com/cinnamon-white-russian,10 minutes,[]
+Pinch of Yum,Christmas Tea Ring with Raspberry Cream Cheese Filling,https://pinchofyum.com/christmas-tea-ring-raspberry-cream-cheese-filling,50 minutes,"['5 minute brioche dough:', 'raspberry cream cheese filling:', 'glaze and toppings']"
+Pinch of Yum,Brown Butter Scallops with Parmesan Risotto,https://pinchofyum.com/brown-butter-scallops-parmesan-risotto,30 minutes,[]
+Pinch of Yum,Spicy Falafel and Roasted Veggie Naan-wich,https://pinchofyum.com/spicy-falafel-roasted-veggie-naan-wich,45 minutes,[]
+Pinch of Yum,Caramelized Shallot & Grape Chutney,https://pinchofyum.com/caramelized-shallot-grape-chutney,50 minutes,[]
+Pinch of Yum,Easy Turkey Pho,https://pinchofyum.com/easy-turkey-pho,25 minutes,[]
+Pinch of Yum,The Ultimate Winter Bliss Bowls,https://pinchofyum.com/the-ultimate-winter-bliss-bowls,1 hour 15 minutes,[]
+Pinch of Yum,Simple 5 Ingredient Baked Falafel,https://pinchofyum.com/simple-6-ingredient-baked-falafel,30 minutes,[]
+Pinch of Yum,Carrot Cake Smoothie Bowl,https://pinchofyum.com/carrot-cake-smoothie-bowl,10 minutes,[]
+Pinch of Yum,Garlic Kale and Brown Rice Salad with Lemon Dressing,https://pinchofyum.com/garlic-kale-and-brown-rice-salad-with-lemon-dressing,30 minutes,[]
+Pinch of Yum,Thanksgiving Salad with Wild Rice and Lemon Dressing,https://pinchofyum.com/thanksgiving-salad-wild-rice-lemon-dressing,10 minutes,[]
+Pinch of Yum,Pumpkin Bread French Toast,https://pinchofyum.com/pumpkin-bread-french-toast,20 minutes,[]
+Pinch of Yum,Creamy Pumpkin Spaghetti with Garlic Kale,https://pinchofyum.com/creamy-pumpkin-spaghetti-with-garlic-kale,55 minutes,[]
+Pinch of Yum,Creamy Spinach and Potato Breakfast Casserole,https://pinchofyum.com/creamy-spinach-potato-breakfast-casserole,40 minutes,[]
+Pinch of Yum,Breakfast Pizza with Kale Pesto and Sun Dried Tomatoes,https://pinchofyum.com/breakfast-pizza-with-kale-pesto-and-sun-dried-tomatoes,25 minutes,[]
+Pinch of Yum,Spicy Popcorn Chicken Bites,https://pinchofyum.com/spicy-popcorn-chicken-bites,28 minutes,[]
+Pinch of Yum,5 Minute Kale Pesto,https://pinchofyum.com/5-minute-vegan-kale-pesto,5 minutes,[]
+Pinch of Yum,Lemon Chicken Piccata with Grilled Bread,https://pinchofyum.com/lemon-chicken-piccata-with-grilled-bread,30 mins,[]
+Pinch of Yum,Crispy Salted Tostones,https://pinchofyum.com/crispy-salted-tostones,20 minutes,[]
+Pinch of Yum,5 Ingredient Cheesy Cauliflower Soup with Kale Pesto,https://pinchofyum.com/5-ingredient-cheesy-cauliflower-soup,40 mins,"['butter', 'bacon grease', 'yellow onion', 'chicken broth', 'cauliflower', 'shredded cheese', 'truffle oil']"
+Pinch of Yum,Toasted Coconut Breakfast Porridge,https://pinchofyum.com/toasted-coconut-breakfast-porridge,30 minutes,[]
+Pinch of Yum,Addicting Caramel Apple Crisp Bars,https://pinchofyum.com/addicting-caramel-apple-crisp-bars,55 minutes,"['for the crust', 'butter', 'light brown sugar', 'cinnamon', 'salt', 'baking soda', 'flour', 'for the filling', 'apples', 'butter', 'brown sugar', 'cream', 'half and half', 'sugar']"
+Pinch of Yum,5 Minute Blender Enchilada Sauce,https://pinchofyum.com/5-minute-blender-enchilada-sauce,5 minutes,[]
+Pinch of Yum,Spicy Lentil Nachos with Three Cheese Sauce,https://pinchofyum.com/spicy-lentil-nachos-with-three-cheese-sauce,55 minutes,[]
+Pinch of Yum,Creamy Miso Peanut Chicken Lettuce Wraps,https://pinchofyum.com/creamy-peanut-chicken-lettuce-wraps,20 minutes,[]
+Pinch of Yum,Garlic Basil Chicken with Tomato Butter Sauce,https://pinchofyum.com/garlic-basil-chicken-with-tomato-butter-sauce,50 minutes,[]
+Pinch of Yum,Mushroom Gnocchi with Arugula and Walnut Pesto,https://pinchofyum.com/mushroom-gnocchi-with-arugula-and-walnut-pesto,30 minutes,[]
+Pinch of Yum,Lazy Girl Chicken Quinoa Enchiladas,https://pinchofyum.com/lazy-girl-chicken-quinoa-enchiladas,50 minutes,[]
+Pinch of Yum,Anything-You-Have Coconut Curry Soup,https://pinchofyum.com/anything-you-have-coconut-curry-soup,30 mins,[]
+Pinch of Yum,Pumpkin Bites with Maple Glaze,https://pinchofyum.com/pumpkin-bites-with-maple-glaze,22 minutes,[]
+Pinch of Yum,Simple Mushroom Penne with Walnut Pesto,https://pinchofyum.com/simple-mushroom-penne-with-walnut-pesto,40 minutes,[]
+Pinch of Yum,Pitcher Style Margaritas for a Crowd,https://pinchofyum.com/pitcher-style-margaritas-for-a-crowd,7 minutes,[]
+Pinch of Yum,Easy Homemade Flatbread Crackers,https://pinchofyum.com/easy-homemade-flatbread-crackers,30 minutes,[]
+Pinch of Yum,Rockin’ 5 Ingredient Sweet Potato Turkey Chili,https://pinchofyum.com/rockin-5-ingredient-sweet-potato-turkey-chili,40 minutes,[]
+Pinch of Yum,Cinnamon Streusel French Toast Cups,https://pinchofyum.com/cinnamon-streusel-french-toast-cups,30 minutes,[]
+Pinch of Yum,Green Goddess Quinoa Summer Salad,https://pinchofyum.com/green-goddess-quinoa-summer-salad,20 minutes,[]
+Pinch of Yum,Skillet Chicken with Grapes and Caramelized Onions,https://pinchofyum.com/skillet-chicken-with-grapes-and-caramelized-onions,1 hour 5 minutes,[]
+Pinch of Yum,5 Minute Avocado Cilantro Dressing,https://pinchofyum.com/5-minute-avocado-cilantro-dressing,5 minutes,[]
+Pinch of Yum,Five Minute Cashew Sauce,https://pinchofyum.com/five-minute-cashew-sauce,20 minutes,[]
+Pinch of Yum,Roasted Tomatoes with Goat Cheese Polenta,https://pinchofyum.com/roasted-tomatoes-with-goat-cheese-polenta,1 hour 15 minutes,[]
+Pinch of Yum,Sun Dried Tomato Chicken Florentine Pasta,https://pinchofyum.com/sun-dried-tomato-chicken-florentine-pasta,30 minutes,[]
+Pinch of Yum,5 Minute Honey Mustard Sauce,https://pinchofyum.com/5-minute-honey-mustard-sauce,5 minutes,[]
+Pinch of Yum,Spanish Shrimp with Garlic Bread Sauce,https://pinchofyum.com/spanish-shrimp-with-garlic-bread-sauce,30 minutes,[]
+Pinch of Yum,Arugula Salad with Grapes and Black Pepper Vinaigrette,https://pinchofyum.com/arugula-salad-with-grapes-and-black-pepper-vinaigrette,20 minutes,[]
+Pinch of Yum,Creamy Spinach Sweet Potato Noodles with Cashew Sauce,https://pinchofyum.com/sweet-potato-noodles,25 minutes,[]
+Pinch of Yum,Bangkok Coconut Curry Noodle Bowls,https://pinchofyum.com/bangkok-coconut-curry-noodle-bowls,1 hour,[]
+Pinch of Yum,Fresh Blueberry Peach Cake,https://pinchofyum.com/fresh-blueberry-peach-cake,45 minutes,"['salted butter', 'coconut palm sugar', 'eggs', 'vanilla', 'whole wheat pastry flour', 'baking powder', 'baking soda', 'peaches', 'blueberries']"
+Pinch of Yum,Spicy Southwestern Salad with Avocado Dressing,https://pinchofyum.com/spicy-southwestern-salad-avocado-dressing,35 minutes,[]
+Pinch of Yum,Homemade Brown Sugar Baked Beans,https://pinchofyum.com/homemade-brown-sugar-baked-beans,1 hour 45 minutes,[]
+Pinch of Yum,Coconut Pecan Cabin Granola,https://pinchofyum.com/coconut-pecan-cabin-granola,40 minutes,[]
+Pinch of Yum,Spicy Brazilian Burrito Bowls,https://pinchofyum.com/spicy-brazilian-burrito-bowls,45 minutes,"['for the rice:', 'for the black beans:', 'for the garlic cilantro slaw:']"
+Pinch of Yum,Triple Berry Refrigerator Jam,https://pinchofyum.com/triple-berry-refrigerator-jam,2 hours 15 minutes,[]
+Pinch of Yum,Naturally Sweet Dark Chocolate Coconut Bites,https://pinchofyum.com/naturally-sweet-dark-chocolate-coconut-bites,20 minutes,[]
+Pinch of Yum,Rainbow Vegetarian Pad Thai with Peanuts and Basil,https://pinchofyum.com/rainbow-vegetarian-pad-thai-with-peanuts-and-basil,15 minutes,[]
+Pinch of Yum,4 Ingredient Creamy Vodka Steak Pasta,https://pinchofyum.com/4-ingredient-creamy-vodka-steak-pasta,30 minutes,[]
+Pinch of Yum,Chocolate Banana Naturally Sweet Ice Cream,https://pinchofyum.com/chocolate-banana-naturally-sweet-ice-cream,5 minutes,[]
+Pinch of Yum,10 Minute White Bean Artichoke Basil Toasts,https://pinchofyum.com/10-minute-white-bean-artichoke-basil-toasts,20 minutes,[]
+Pinch of Yum,Lemon Herb Salmon Burgers,https://pinchofyum.com/lemon-herb-salmon-burgers,30 minutes,[]
+Pinch of Yum,Steak and Cheddar Mac and Cheese,https://pinchofyum.com/steak-mac-and-cheese,40 minutes,[]
+Pinch of Yum,Easy Mexican Chicken Quinoa Casserole,https://pinchofyum.com/easy-mexican-chicken-quinoa-casserole,1 hour 25 minutes,[]
+Pinch of Yum,15 Minute Spicy Shrimp with Pesto Noodles,https://pinchofyum.com/15-minute-spicy-shrimp-with-pesto-noodles,30 minutes,[]
+Pinch of Yum,Creamy Garlic Herb Mushroom Spaghetti,https://pinchofyum.com/creamy-garlic-herb-mushroom-spaghetti,30 minutes,[]
+Pinch of Yum,5 Minute Homemade Peanut Butter,https://pinchofyum.com/5-minute-homemade-peanut-butter,5 minutes,"['dry roasted peanuts', 'honey', 'salt']"
+Pinch of Yum,Thai Yellow Chicken Curry with Potatoes,https://pinchofyum.com/thai-yellow-chicken-curry-with-potatoes,40 minutes,[]
+Pinch of Yum,Easy Thai Yellow Curry Paste,https://pinchofyum.com/easy-homemade-yellow-curry-paste,55 minutes,[]
+Pinch of Yum,20 Minute Healthy Chicken Parmesan,https://pinchofyum.com/20-minute-healthy-chicken-parmesan,40 minutes,[]
+Pinch of Yum,Queso Stuffed Poblanos,https://pinchofyum.com/queso-stuffed-poblanos,1 hour 20 minutes,"['for the sauce (makes extra to save for later)', 'for the poblano peppers']"
+Pinch of Yum,The Best 3 Ingredient Grilled Chicken,https://pinchofyum.com/the-best-3-ingredient-grilled-chicken,4 hours 10 minutes,[]
+Pinch of Yum,Thai Summer Rolls with Peanut Sauce,https://pinchofyum.com/thai-summer-rolls-with-peanut-sauce,20 minutes,"['for the summer rolls:', 'for the peanut sauce:']"
+Pinch of Yum,Super Easy One Pot Lasagna,https://pinchofyum.com/super-easy-one-pot-lasagna,1 hour 15 minutes,[]
+Pinch of Yum,Bacon Wrapped Dates with Goat Cheese,https://pinchofyum.com/bacon-wrapped-dates-with-goat-cheese,30 minutes,[]
+Pinch of Yum,Healthy Sweet Potato Skins,https://pinchofyum.com/healthy-sweet-potato-skins,1 hour 20 mins,[]
+Pinch of Yum,Frosted Blueberry Lemonade,https://pinchofyum.com/frosted-blueberry-lemonade,10 minutes,[]
+Pinch of Yum,Quick and Easy Lentil Quesadillas,https://pinchofyum.com/quick-and-easy-lentil-quesadillas,6 hours 20 minutes,[]
+Pinch of Yum,Rainbow Power Salad with Roasted Chickpeas,https://pinchofyum.com/rainbow-power-salad-with-roasted-chickpeas,55 minutes,[]
+Pinch of Yum,5 Minute Magic Green Sauce,https://pinchofyum.com/5-minute-magic-green-sauce,10 minutes,[]
+Pinch of Yum,Lightened Up Whole Wheat Fettuccine Alfredo,https://pinchofyum.com/lightened-up-whole-wheat-fettuccine-alfredo,35 minutes,[]
+Pinch of Yum,Quinoa Black Bean Crockpot Stuffed Peppers,https://pinchofyum.com/quinoa-black-bean-crockpot-stuffed-peppers,4 hours 10 minutes,[]
+Pinch of Yum,The Ultimate Chocolate Granola,https://pinchofyum.com/the-ultimate-chocolate-granola,1 hour 5 minutes,[]
+Pinch of Yum,30-Minute Sesame Mango Chicken Teriyaki,https://pinchofyum.com/30-minute-sesame-mango-chicken-teriyaki,30 minutes,[]
+Pinch of Yum,30-Minute Sesame Roasted Sweet Potatoes,https://pinchofyum.com/30-minute-sesame-roasted-sweet-potatoes,30 minutes,[]
+Pinch of Yum,Whole Wheat Blueberry Muffins,https://pinchofyum.com/whole-wheat-blueberry-muffins,30 minutes,[]
+Pinch of Yum,Crockpot Quinoa Chicken Primavera,https://pinchofyum.com/crockpot-quinoa-chicken-primavera,4 hours 10 minutes,"['in the crockpot:', 'before serving:']"
+Pinch of Yum,Simple Coconut Green Smoothie,https://pinchofyum.com/simple-coconut-green-smoothie,15 minutes,[]
+Pinch of Yum,One-Pot Creamy Spinach Lentils,https://pinchofyum.com/one-pot-creamy-spinach-lentils,1 hour,[]
+Pinch of Yum,Chocolate Raspberry Almond Butter Bars,https://pinchofyum.com/chocolate-raspberry-almond-butter-bars,45 minutes,[]
+Pinch of Yum,Chopped Thai Shrimp Salad with Garlic Lime Dressing,https://pinchofyum.com/chopped-thai-shrimp-salad-with-garlic-lime-dressing,35 minutes,[]
+Pinch of Yum,20-Minute Ancho Chicken Tacos,https://pinchofyum.com/20-minute-ancho-chicken-tacos,25 minutes,[]
+Pinch of Yum,Roasted Tomatillo Chicken and Rice Bowls,https://pinchofyum.com/roasted-tomatillo-chicken-and-rice-bowls,1 hour 15 minutes,[]
+Pinch of Yum,Inner Goddess Raspberry Breakfast Bowls,https://pinchofyum.com/inner-goddess-raspberry-breakfast-bowls,15 minutes,[]
+Pinch of Yum,Roasted Veggie Pitas with Avocado Dip,https://pinchofyum.com/roasted-veggie-pitas-with-avocado-dip,30 minutes,[]
+Pinch of Yum,Coconut Oil Apple Crisp,https://pinchofyum.com/coconut-oil-apple-crisp,45 minutes,[]
+Pinch of Yum,Peanut Chicken Lettuce Wraps with Ginger Garlic Sauce,https://pinchofyum.com/peanut-chicken-lettuce-wraps-ginger-garlic-sauce,25 minutes,[]
+Pinch of Yum,Toasted Bread and Parmesan Kale Salad,https://pinchofyum.com/toasted-bread-and-parmesan-kale-salad,40 minutes,[]
+Pinch of Yum,Skillet Chicken with Bacon and White Wine Sauce,https://pinchofyum.com/skillet-chicken-bacon-white-wine-sauce,1 hour 15 minutes,[]
+Pinch of Yum,Grapefruit Mojitos for Two,https://pinchofyum.com/grapefruit-mojitos-two,10 minutes,[]
+Pinch of Yum,Thai Yellow Curry with Beef and Potatoes,https://pinchofyum.com/thai-yellow-curry-with-beef-and-potatoes,2 hours 50 minutes,[]
+Pinch of Yum,Our Favorite Coconut Oil Granola,https://pinchofyum.com/our-favorite-coconut-oil-granola,1 hour 10 minutes,[]
+Pinch of Yum,Chopped Chicken Sesame Noodle Bowls,https://pinchofyum.com/chopped-chicken-sesame-noodle-bowls,30 minutes,[]
+Pinch of Yum,5-Minute Honey Yogurt Quinoa Parfait,https://pinchofyum.com/5-minute-honey-yogurt-quinoa-parfait,10 minutes,[]
+Pinch of Yum,Date Night Mushroom Pasta with Goat Cheese,https://pinchofyum.com/date-night-mushroom-pasta-with-goat-cheese,25 minutes,[]
+Pinch of Yum,One-Pot Spicy Eggs and Potatoes,https://pinchofyum.com/one-pot-spicy-eggs-and-potatoes,55 minutes,[]
+Pinch of Yum,Mushroom Poblano Posole Verde,https://pinchofyum.com/mushroom-poblano-posole-verde,45 minutes,[]
+Pinch of Yum,Skillet Chicken Tortilla Pie,https://pinchofyum.com/skillet-chicken-tortilla-pie,1 hour 20 minutes,[]
+Pinch of Yum,Extra Fudgy Coconut Oil Brownies,https://pinchofyum.com/extra-fudgy-coconut-oil-brownies,35 minutes,[]
+Pinch of Yum,Crockpot Braised Beef Ragu with Polenta,https://pinchofyum.com/crockpot-braised-beef-ragu-polenta,7 hours 50 minutes,[]
+Pinch of Yum,Vietnamese-Inspired Chicken Salad with Rice Noodles,https://pinchofyum.com/vietnamese-chicken-salad-with-rice-noodles,1 hour,[]
+Pinch of Yum,Lentil Curry Bowls with Cilantro Cashew Sauce,https://pinchofyum.com/lentil-curry-bowls-with-cilantro-cashew-sauce,1 hour 25 minutes,[]
+Pinch of Yum,Winter Rainbow Quinoa Salad,https://pinchofyum.com/winter-rainbow-quinoa-salad,15 minutes,[]
+Pinch of Yum,Maple Glazed Gingerbread Scones,https://pinchofyum.com/maple-glazed-gingerbread-scones,35 minutes,[]
+Pinch of Yum,Drunken Chicken Marsala with Tomatoes,https://pinchofyum.com/drunken-chicken-marsala-with-tomatoes,1 hour,[]
+Pinch of Yum,Eggnog French Toast with Raspberry Sauce,https://pinchofyum.com/eggnog-french-toast-with-raspberry-sauce,25 minutes,[]
+Pinch of Yum,Chicken Wild Rice Casserole,https://pinchofyum.com/chicken-wild-rice-casserole,2 hours 5 minutes,[]
+Pinch of Yum,How To Host A Holiday Cookie Baking Party,https://pinchofyum.com/how-to-host-holiday-cookie-baking-party,50 minutes,[]
+Pinch of Yum,The Best Garlic Herb Cheesy Potatoes,https://pinchofyum.com/the-best-garlic-herb-cheesy-potatoes,1 hour 10 minutes,[]
+Pinch of Yum,Six Ingredient Sausage Potato Pie,https://pinchofyum.com/six-ingredient-sausage-potato-pie,45 minutes,[]
+Pinch of Yum,Healthy Gingerbread Muffins,https://pinchofyum.com/healthy-gingerbread-muffins,30 minutes,[]
+Pinch of Yum,Loaded Turkey Panini (For Thanksgiving Leftovers),https://pinchofyum.com/loaded-turkey-panini-thanksgiving-leftovers,10 minutes,[]
+Pinch of Yum,Healthy Quinoa Chicken Curry Bowls,https://pinchofyum.com/healthy-quinoa-chicken-curry-bowls,40 minutes,[]
+Pinch of Yum,Roasted Sweet Potato Salad with Candied Walnuts,https://pinchofyum.com/roasted-sweet-potato-salad-candied-walnuts,1 hour 15 minutes,[]
+Pinch of Yum,Easiest Garlic Mashed Potatoes,https://pinchofyum.com/easiest-garlic-mashed-potatoes,5 hours 10 minutes,[]
+Pinch of Yum,Bacon and Brussels Sprout Salad,https://pinchofyum.com/bacon-brussels-sprout-salad,20 minutes,[]
+Pinch of Yum,Holiday Detox Green Apple Smoothie,https://pinchofyum.com/holiday-detox-green-apple-smoothie,7 minutes,[]
+Pinch of Yum,Healthy Mushroom Alfredo Pasta Bake,https://pinchofyum.com/healthy-mushroom-alfredo-pasta-bake,45 minutes,[]
+Pinch of Yum,Five Minute Single Serving Apple Crisp,https://pinchofyum.com/five-minute-single-serving-apple-crisp,10 minutes,[]
+Pinch of Yum,Chicken Bacon Pumpkin Pasta Bake,https://pinchofyum.com/chicken-bacon-pumpkin-pasta-bake,1 hour 10 minutes,[]
+Pinch of Yum,One Pot Spanish Chicken and Potatoes,https://pinchofyum.com/one-pot-spanish-chicken-potatoes,40 minutes,[]
+Pinch of Yum,Simple Cinnamon Pumpkin Pancakes,https://pinchofyum.com/simple-cinnamon-pumpkin-pancakes,25 minutes,[]
+Pinch of Yum,Goat Cheese Scrambled Eggs with Pesto Veggies,https://pinchofyum.com/goat-cheese-scrambled-eggs-pesto-veggies,10 minutes,[]
+Pinch of Yum,Roasted Tomatillo Chicken Enchilada Casserole,https://pinchofyum.com/roasted-tomatillo-chicken-enchilada-casserole,1 hour 45 minutes,[]
+Pinch of Yum,Garlic Spaghetti Squash with Herbs,https://pinchofyum.com/garlic-spaghetti-squash-with-herbs,1 hour,[]
+Pinch of Yum,Cranberry Dark Chocolate Biscotti,https://pinchofyum.com/cranberry-dark-chocolate-biscotti,1 hour 30 minutes,[]
+Pinch of Yum,Smoked Salmon Chowder,https://pinchofyum.com/smoked-salmon-chowder,30 minutes,[]
+Pinch of Yum,Cinnamon Streusel Pumpkin Coffee Cake with Maple Glaze,https://pinchofyum.com/cinnamon-streusel-pumpkin-coffee-cake-maple-glaze,55 minutes,[]
+Pinch of Yum,"Asiago White Beans with Farro, Kale, and Tomatoes",https://pinchofyum.com/asiago-white-beans-with-farro-kale-tomatoes,40 minutes,[]
+Pinch of Yum,Jalapeño Quinoa Corn Dip,https://pinchofyum.com/jalapeno-quinoa-corn-dip,30 minutes,[]
+Pinch of Yum,Healthy Sea Salt Dark Chocolate Bars,https://pinchofyum.com/healthy-sea-salt-dark-chocolate-bars,2 hours 20 minutes,[]
+Pinch of Yum,Sticky Garlic Chicken and Broccoli,https://pinchofyum.com/sticky-garlic-chicken-broccoli,40 minutes,[]
+Pinch of Yum,Old Fashioned Whole Wheat Apple Pancakes,https://pinchofyum.com/old-fashioned-whole-wheat-apple-pancakes,25 minutes,[]
+Pinch of Yum,Inner Goddess Chocolate Truffles,https://pinchofyum.com/inner-goddess-chocolate-truffles,15 minutes,[]
+Pinch of Yum,Healthy Cinnamon Sugar Apple Muffins,https://pinchofyum.com/healthy-cinnamon-sugar-apple-muffins,30 minutes,[]
+Pinch of Yum,Homemade Cheesy Chili Dip,https://pinchofyum.com/homemade-cheesy-chili-dip,25 minutes,[]
+Pinch of Yum,Cheesy Bacon & Kale Potato Skins,https://pinchofyum.com/cheesy-bacon-kale-potato-skins,1 hour 35 minutes,[]
+Pinch of Yum,Garlic Butter Mushroom Risotto,https://pinchofyum.com/garlic-butter-mushroom-risotto,40 minutes,[]
+Pinch of Yum,Sweet Chili Garlic Chicken Pizza,https://pinchofyum.com/sweet-chili-garlic-chicken-pizza,1 hour 20 minutes,[]
+Pinch of Yum,Super Simple Jerk Chicken,https://pinchofyum.com/super-simple-jerk-chicken,15 minutes,[]
+Pinch of Yum,Simple Oat & Pecan Blueberry Crisp,https://pinchofyum.com/simple-oat-pecan-blueberry-crisp,50 minutes,[]
+Pinch of Yum,Rainbow Veggie Bowls with Jalapeño Ranch,https://pinchofyum.com/rainbow-veggie-bowls-with-jalapeno-ranch,1 hour 5 minutes,"['for the jalapeño ranch:', 'for the veggie bowls:']"
+Pinch of Yum,The Best 10 Minute Veggie Fried Rice,https://pinchofyum.com/best-10-minute-veggie-fried-rice,10 minutes,[]
+Pinch of Yum,French Toast with Pear Chutney and Mascarpone,https://pinchofyum.com/whole-wheat-french-toast-pear-chutney-mascarpone,1 hour 5 minutes,"['for the pear chutney:', 'for the french toast:']"
+Pinch of Yum,Sweet Corn and Zucchini Pie,https://pinchofyum.com/sweet-corn-zucchini-pie,1 hour,[]
+Pinch of Yum,Hot Ham and Cheese Sandwiches with Bacon and Caramelized Onions,https://pinchofyum.com/hot-ham-and-cheese-sandwiches-bacon-caramelized-onions,1 hour 15 minutes,[]
+Pinch of Yum,Simple Hoisin Glazed Salmon,https://pinchofyum.com/simple-hoisin-glazed-salmon,40 minutes,[]
+Pinch of Yum,Big Cluster Peanut Butter Granola,https://pinchofyum.com/big-cluster-peanut-butter-granola,3 hours 15 minutes,[]
+Pinch of Yum,Five Ingredient Simple Green Pasta Salad,https://pinchofyum.com/five-ingredient-simple-green-pasta-salad,45 minutes,[]
+Pinch of Yum,Sausage and Sweet Potato Zucchini Lasagna,https://pinchofyum.com/sausage-sweet-potato-zucchini-lasagna,45 minutes,[]
+Pinch of Yum,Honey and Olive Oil Zucchini Muffins,https://pinchofyum.com/honey-olive-oil-zucchini-muffins,35 minutes,[]
+Pinch of Yum,Milk and Honey Iced Coffee,https://pinchofyum.com/milk-and-honey-iced-coffee,7 minutes,[]
+Pinch of Yum,Beef Biryani,https://pinchofyum.com/beef-biryani,1 hour 30 minutes,[]
+Pinch of Yum,Spaghetti Pie,https://pinchofyum.com/spaghetti-pie,1 hour 5 minutes,[]
+Pinch of Yum,Balsamic Watermelon Chicken Salad,https://pinchofyum.com/balsamic-watermelon-chicken-salad,40 minutes,[]
+Pinch of Yum,Smoked Gouda Mushroom Quesadillas,https://pinchofyum.com/smoked-gouda-mushroom-quesadillas,35 minutes,[]
+Pinch of Yum,Black Pepper Stir Fried Noodles,https://pinchofyum.com/black-pepper-stir-fried-noodles,30 minutes,[]
+Pinch of Yum,Chicken Shahi Korma,https://pinchofyum.com/chicken-shahi-korma,30 minutes,"['recipe ingredients:', 'korma sauce ingredients:']"
+Pinch of Yum,Simple Poached Egg and Avocado Toast,https://pinchofyum.com/simple-poached-egg-avocado-toast,10 minutes,[]
+Pinch of Yum,Healthy Grilled Sweet Potato Nachos,https://pinchofyum.com/healthy-grilled-sweet-potato-nachos,30 minutes,[]
+Pinch of Yum,Herbed Quinoa Garden Veggie Salad,https://pinchofyum.com/herbed-quinoa-garden-veggie-salad,30 minutes,[]
+Pinch of Yum,No-Bake Mini Fruit Pizzas,https://pinchofyum.com/no-bake-mini-fruit-pizzas,2 hours 20 minutes,[]
+Pinch of Yum,Healthy Baked Pesto Rigatoni,https://pinchofyum.com/healthy-baked-pesto-rigatoni,40 minutes,[]
+Pinch of Yum,Crispy Fish Tacos with Jalapeño Sauce,https://pinchofyum.com/crispy-fish-tacos-jalapeno-sauce,30 minutes,[]
+Pinch of Yum,Cinnamon Whole Grain Power Pancakes,https://pinchofyum.com/cinnamon-whole-grain-power-pancakes,20 minutes,[]
+Pinch of Yum,Caramelized Banana Oat Muffins,https://pinchofyum.com/caramelized-banana-oat-muffins,35 minutes,[]
+Pinch of Yum,Chopped Thai Salad with Sesame Garlic Dressing,https://pinchofyum.com/chopped-thai-salad-sesame-garlic-dressing,25 minutes,[]
+Pinch of Yum,Grilled Pineapple Pork Sandwiches,https://pinchofyum.com/grilled-pineapple-pork-sandwiches,6 hours 20 minutes,[]
+Pinch of Yum,Spicy Chipotle Shredded Chicken,https://pinchofyum.com/spicy-chipotle-shredded-chicken,45 minutes,[]
+Pinch of Yum,Peanut Butter Banana Ice Cream,https://pinchofyum.com/peanut-butter-banana-ice-cream,2 hours 10 minutes,[]
+Pinch of Yum,Honey Ginger Tofu and Veggie Stir Fry,https://pinchofyum.com/honey-ginger-tofu-veggie-stir-fry,40 minutes,[]
+Pinch of Yum,The 4 Ingredient Green Smoothie,https://pinchofyum.com/the-4-ingredient-simple-green-smoothie,10 minutes,[]
+Pinch of Yum,Chicken Bacon Avocado Salad with Roasted Asparagus,https://pinchofyum.com/chicken-bacon-avocado-salad-with-roasted-asparagus,30 minutes,[]
+Pinch of Yum,Creamy Potato Kale Soup,https://pinchofyum.com/creamy-potato-kale-soup,40 minutes,[]
+Pinch of Yum,Camote Tops (Camote Fritters),https://pinchofyum.com/camote-tops-camote-fritters,20 minutes,[]
+Pinch of Yum,Spaghetti Marinara with Poached Eggs,https://pinchofyum.com/spaghetti-marinara-poached-eggs,30 minutes,[]
+Pinch of Yum,Green Mexican Rice with Corn,https://pinchofyum.com/green-mexican-rice-with-corn,50 minutes,[]
+Pinch of Yum,Super Easy Coconut French Toast Bake,https://pinchofyum.com/super-easy-coconut-french-toast-bake,55 minutes,[]
+Pinch of Yum,Spring Quinoa Salad with Honey Lemon Vinaigrette,https://pinchofyum.com/spring-quinoa-salad-honey-lemon-vinaigrette,30 minutes,[]
+Pinch of Yum,Creamy Poblano Mushrooms with Polenta,https://pinchofyum.com/creamy-poblano-mushrooms-polenta,1 hour,[]
+Pinch of Yum,Garlic Parmesan Chicken Lasagna Bake,https://pinchofyum.com/garlic-parmesan-chicken-lasagna-bake,1 hour 15 minutes,[]
+Pinch of Yum,Thick and Fudgy Double Chocolate Cookies,https://pinchofyum.com/thick-fudgy-double-chocolate-cookies,30 minutes,[]
+Pinch of Yum,Spicy Peanut Chicken Soba Noodle Salad,https://pinchofyum.com/spicy-peanut-chicken-soba-noodle-salad,50 minutes,[]
+Pinch of Yum,30 Minute Healthy Broccoli Cheese Rice,https://pinchofyum.com/30-minute-healthy-broccoli-cheese-rice,35 minutes,[]
+Pinch of Yum,Ham and Sausage Hash Brown Egg Bake,https://pinchofyum.com/ham-sausage-hash-brown-egg-bake,55 minutes,[]
+Pinch of Yum,"Sweet Potato, Kale, and Sausage Bake with White Cheese Sauce",https://pinchofyum.com/sweet-potato-kale-sausage-bake-white-cheese-sauce,55 minutes,[]
+Pinch of Yum,Almond Oat Banana Crepes,https://pinchofyum.com/almond-oat-banana-crepes,25 minutes,[]
+Pinch of Yum,Spicy Shrimp with Orange Brown Butter Sauce + Vacation Pics,https://pinchofyum.com/orange-brown-butter-shrimp,25 minutes,[]
+Pinch of Yum,20-Minute Lemon Pesto Penne,https://pinchofyum.com/20-minute-lemon-pesto-penne,45 minutes,[]
+Pinch of Yum,Green Goddess Detox Salad,https://pinchofyum.com/green-goddess-detox-salad,12 minutes,[]
+Pinch of Yum,Slow Cooker Creole Chicken and Sausage,https://pinchofyum.com/slow-cooker-creole-chicken-sausage,7 hours 40 minutes,[]
+Pinch of Yum,Skinny Spinach Lasagna,https://pinchofyum.com/skinny-spinach-lasagna,1 hour 25 minutes,[]
+Pinch of Yum,Deep Dish Chocolate Chip Cookie with Caramel and Sea Salt,https://pinchofyum.com/deep-dish-chocolate-chip-cookie-with-caramel-sea-salt,40 minutes,[]
+Pinch of Yum,"Roasted Sweet Potato, Wild Rice, and Arugula Salad",https://pinchofyum.com/roasted-sweet-potato-wild-rice-arugula-salad,1 hour 20 minutes,[]
+Pinch of Yum,Sticky Bourbon Chicken with Rice,https://pinchofyum.com/sticky-bourbon-chicken-rice,13 hours,[]
+Pinch of Yum,Big Soft M&M Cookies,https://pinchofyum.com/big-soft-mm-cookies,30 minutes,[]
+Pinch of Yum,Healthy Mexican Casserole with Roasted Corn and Peppers,https://pinchofyum.com/healthy-mexican-casserole-roasted-corn-peppers,1 hour 30 minutes,[]
+Pinch of Yum,Lemon Muffins with Chia Seeds and Honey Glaze,https://pinchofyum.com/lemon-muffins-chia-seeds-honey-glaze,30 minutes,[]
+Pinch of Yum,Healthy Mac and Cheese,https://pinchofyum.com/healthy-mac-and-cheese,50 minutes,[]
+Pinch of Yum,Caramelized Brussels Sprouts with Maple Orange Glaze,https://pinchofyum.com/caramelized-brussels-sprouts-maple-orange-glaze,35 minutes,[]
+Pinch of Yum,Flax and Blueberry Vanilla Overnight Oats,https://pinchofyum.com/flax-blueberry-vanilla-overnight-oats,5 mins,[]
+Pinch of Yum,Bakery Style Blueberry Scones,https://pinchofyum.com/bakery-style-blueberry-scones,40 minutes,[]
+Pinch of Yum,Creamy Chicken Quinoa and Broccoli Casserole,https://pinchofyum.com/creamy-chicken-quinoa-broccoli-casserole,1 hour 15 minutes,[]
+Pinch of Yum,Super Easy Slow Cooker Pork,https://pinchofyum.com/super-easy-slow-cooker-pork,8 hours 10 minutes,[]
+Pinch of Yum,Skinny Crab and Artichoke Dip with Jalapeño,https://pinchofyum.com/skinny-crab-artichoke-dip,40 minutes,[]
+Pinch of Yum,Red Thai Curry Sauce,https://pinchofyum.com/red-thai-curry-sauce,35 minutes,[]
+Pinch of Yum,Garlic Butter Shrimp and Quinoa,https://pinchofyum.com/garlic-butter-shrimp-quinoa,55 minutes,[]
+Pinch of Yum,Simple Garlic Butter Mushroom & Provolone Melts,https://pinchofyum.com/simple-garlic-butter-mushroom-provolone-melts,35 minutes,[]
+Pinch of Yum,Honey and Wild Blueberry Smoothie,https://pinchofyum.com/honey-wild-blueberry-smoothie,10 minutes,[]
+Pinch of Yum,Homemade Cinnamon Roll Pull Apart Bread,https://pinchofyum.com/homemade-cinnamon-roll-pull-apart-bread,3 hours,[]
+Pinch of Yum,Stir Fried Singapore Noodles with Garlic Ginger Sauce,https://pinchofyum.com/stir-fried-singapore-noodles-with-garlic-ginger-sauce,50 minutes,[]
+Pinch of Yum,Chocolate Peanut Butter Saltine Toffee,https://pinchofyum.com/chocolate-peanut-butter-saltine-toffee,20 minutes,[]
+Pinch of Yum,Super Easy Skinny Veggie Crockpot Lasagna,https://pinchofyum.com/super-easy-skinny-veggie-crockpot-lasagna,6 hours 30 minutes,[]
+Pinch of Yum,Garlic Tostones: Puerto Rican Fried Plantains with Rice and Beans,https://pinchofyum.com/garlic-tostones-puerto-rican-fried-plantains,25 minutes,[]
+Pinch of Yum,The Best Carrot Cake Cupcakes with Cream Cheese Frosting,https://pinchofyum.com/best-carrot-cake-cupcakes-with-cream-cheese-frosting,45 minutes,[]
+Pinch of Yum,Moroccan Salad with Cilantro Orange Dressing,https://pinchofyum.com/moroccan-salad-cilantro-orange-dressing,45 minutes,[]
+Pinch of Yum,Crockpot Chicken Wild Rice Soup,https://pinchofyum.com/crockpot-chicken-wild-rice-soup,8 hours 15 minutes,[]
+Pinch of Yum,Simple San Marzano Pasta e Fagioli,https://pinchofyum.com/simple-san-marzano-pasta-e-fagioli,1 hour 5 minutes,[]
+Pinch of Yum,Chopped Brussels Sprouts Salad with Creamy Shallot Dressing,https://pinchofyum.com/chopped-brussels-sprout-salad-creamy-shallot-dressing,40 minutes,[]
+Pinch of Yum,Butternut Squash & Mushroom Enchiladas with Tomatillo Sauce,https://pinchofyum.com/butternut-squash-mushroom-enchiladas-with-tomatillo-sauce,2 hours 30 minutes,"['for the enchiladas', 'for the sauce']"
+Pinch of Yum,Creamy Chicken Caesar Lasagna,https://pinchofyum.com/creamy-chicken-caesar-lasagna,1 hour 30 minutes,[]
+Pinch of Yum,Creamy Corn Pudding with Crispy Onions and Herbs,https://pinchofyum.com/creamy-corn-pudding-with-crispy-onions-herbs,42 minutes,[]
+Pinch of Yum,Quick and Easy Pizza Bread,https://pinchofyum.com/quick-easy-pizza-bread,45 minutes,[]
+Pinch of Yum,Palitaw,https://pinchofyum.com/palitaw,20 minutes,[]
+Pinch of Yum,"Pomegranate, Kale, and Wild Rice Salad with Walnuts and Feta",https://pinchofyum.com/pomegranate-kale-wild-rice-salad-with-walnuts-feta,45 minutes,"['for the salad', 'for the dressing']"
+Pinch of Yum,Whole Wheat Honey Apple Bundt Cake,https://pinchofyum.com/whole-wheat-honey-apple-bundt-cake,1 hour 30 minutes,"['for the cake', 'for the glaze']"
+Pinch of Yum,Best Ever Whole Wheat Pumpkin Pancakes,https://pinchofyum.com/best-ever-whole-wheat-pumpkin-pancakes,20 minutes,[]
+Pinch of Yum,Mexican Roasted Corn and Quinoa Stuffed Squash,https://pinchofyum.com/mexican-roasted-corn-quinoa-stuffed-squash,1 hour 10 minutes,[]
+Pinch of Yum,Sweet Corn Maja,https://pinchofyum.com/sweet-corn-maja,1 hour 5 minutes,[]
+Pinch of Yum,Harvest Wild Rice Skillet,https://pinchofyum.com/harvest-wild-rice-skillet,35 minutes,[]
+Pinch of Yum,Skinny Spaghetti and Meatballs,https://pinchofyum.com/skinny-spaghetti-and-meatballs,1 hour 15 minutes,[]
+Pinch of Yum,Honey Glazed Crockpot Chicken Adobo,https://pinchofyum.com/honey-glazed-crockpot-chicken-adobo,6 hours,[]
+Pinch of Yum,Banana Cue,https://pinchofyum.com/banana-cue,20 minutes,[]
+Pinch of Yum,Salted Caramel Apple Upside Down Cake,https://pinchofyum.com/salted-caramel-apple-upside-down-cake,1 hour 30 minutes,[]
+Pinch of Yum,Roasted Garlic & Rosemary Pumpkin Hummus,https://pinchofyum.com/roasted-garlic-rosemary-pumpkin-hummus,25 minutes,[]
+Pinch of Yum,Crockpot Sweet Potato Lentils,https://pinchofyum.com/crockpot-sweet-potato-lentils,4 hours 45 minutes,['each']
+Pinch of Yum,Healthy Maple Glazed Pumpkin Muffins,https://pinchofyum.com/healthy-maple-glazed-pumpkin-muffins,40 minutes,['each']
+Pinch of Yum,Filipino Humba,https://pinchofyum.com/filipino-humba,1 hour 45 minutes,[]
+Pinch of Yum,Deep Dish Cinnamon Streusel Dessert Pizza,https://pinchofyum.com/deep-dish-cinnamon-streusel-dessert-pizza,30 minutes,"['pizza', 'glaze']"
+Pinch of Yum,Healthy Jalapeño Sweet Potato Chicken Chili,https://pinchofyum.com/healthy-jalapeno-sweet-potato-chicken-chili,1 hour 45 minutes,[]
+Pinch of Yum,Homemade Healthy Palak Paneer,https://pinchofyum.com/homemade-healthy-palak-paneer,40 minutes,[]
+Pinch of Yum,Chicken Pizzaiola {only six ingredients!},https://pinchofyum.com/chicken-pizzaiola,45 minutes,[]
+Pinch of Yum,Avocado Veggie Panini,https://pinchofyum.com/avocado-veggie-panini,35 minutes,[]
+Pinch of Yum,Filipino Fried Chicken,https://pinchofyum.com/filipino-fried-chicken,30 minutes,[]
+Pinch of Yum,Cinnamon Sugar Zucchini Coffee Cake,https://pinchofyum.com/cinnamon-sugar-zucchini-coffee-cake,55 minutes,"['for the cake', 'for the topping']"
+Pinch of Yum,Filipino Chicken Barbecue,https://pinchofyum.com/filipino-chicken-barbecue,4 hours 5 minutes,[]
+Pinch of Yum,Chopped Brussels Sprout Salad with Chicken and Walnuts,https://pinchofyum.com/chopped-brussels-sprout-salad-with-chicken-and-walnuts,40 minutes,[]
+Pinch of Yum,Baked Zucchini Parmesan,https://pinchofyum.com/skinny-baked-zucchini-parmesan,1 hour 15 minutes,[]
+Pinch of Yum,Filipino Spaghetti,https://pinchofyum.com/filipino-spaghetti,1 hour 15 minutes,[]
+Pinch of Yum,Filipino Pancit Recipe,https://pinchofyum.com/filipino-pancit,40 minutes,[]
+Pinch of Yum,Warm Balsamic Kale Salad,https://pinchofyum.com/warm-balsamic-kale-salad,25 minutes,[]
+Pinch of Yum,Zucchini Pancakes,https://pinchofyum.com/zucchini-pancakes,30 minutes,[]
+Pinch of Yum,Healthy Chipotle Sweet Corn Fettuccine,https://pinchofyum.com/healthy-chipotle-sweet-corn-fettuccine,35 minutes,[]
+Pinch of Yum,Caramelized Salmon,https://pinchofyum.com/caramelized-salmon,25 minutes,[]
+Pinch of Yum,Homemade Cinnamon Swirl Bread,https://pinchofyum.com/homemade-cinnamon-swirl-bread,2 hours,[]
+Pinch of Yum,Peach Green Smoothie,https://pinchofyum.com/peach-green-smoothie,10 minutes,[]
+Pinch of Yum,Coconut Lime Chicken,https://pinchofyum.com/coconut-lime-chicken,4 hours 30 minutes,[]
+Pinch of Yum,Paleo Strawberry Rhubarb Crisp,https://pinchofyum.com/paleo-strawberry-rhubarb-crisp,35 minutes,[]
+Pinch of Yum,15 Minute Shrimp Scampi,https://pinchofyum.com/15-minute-shrimp-scampi,20 minutes,[]
+Pinch of Yum,Blender Lemonade,https://pinchofyum.com/blender-lemonade,15 minutes,[]
+Pinch of Yum,Oreo Fudge Ice Cream Bars,https://pinchofyum.com/oreo-fudge-ice-cream-bars,55 minutes,[]
+Pinch of Yum,Peanut Butter Cookie Dough Balls,https://pinchofyum.com/peanut-butter-cookie-dough-balls,25 minutes,[]
+Pinch of Yum,Oatmeal Flax Blueberry Muffins,https://pinchofyum.com/oatmeal-flax-blueberry-muffins,45 minutes,[]
+Pinch of Yum,Baked Mozzarella Chicken Rolls,https://pinchofyum.com/baked-mozzarella-chicken-rolls,1 hour,[]
+Pinch of Yum,Chicken and Nectarine Poppy Seed Salad,https://pinchofyum.com/chicken-and-nectarine-poppy-seed-salad,20 minutes,[]
+Pinch of Yum,Homemade Poppy Seed Dressing,https://pinchofyum.com/homemade-poppy-seed-dressing,15 minutes,[]
+Pinch of Yum,Chocolate Caramel Oatmeal Bars,https://pinchofyum.com/chocolate-caramel-oatmeal-bars,1 hour,[]
+Pinch of Yum,Tips for Perfect Chocolate Chip Cookies,https://pinchofyum.com/tips-for-perfect-chocolate-chip-cookies,54 minutes,[]
+Pinch of Yum,Crockpot Red Curry Lentils,https://pinchofyum.com/crockpot-red-lentil-curry,8 hours 20 minutes,[]
+Pinch of Yum,My Sister’s Citrus Scones,https://pinchofyum.com/my-sisters-citrus-scones,42 minutes,[]
+Pinch of Yum,Dark Chocolate Coconut Bites,https://pinchofyum.com/dark-chocolate-coconut-bites,30 minutes,[]
+Pinch of Yum,Parmesan Pesto Tilapia,https://pinchofyum.com/parmesan-pesto-tilapia,15 minutes,[]
+Pinch of Yum,Veggie Alfredo Lasagna,https://pinchofyum.com/veggie-alfredo-lasagna,1 hour,"['for the cauliflower alfredo sauce', 'for the lasagna']"
+Pinch of Yum,Chopped Apple Quinoa Salad,https://pinchofyum.com/chopped-apple-quinoa-salad,45 minutes,[]
+Pinch of Yum,Southwestern Quinoa and Black Bean Casserole,https://pinchofyum.com/southwestern-quinoa-and-black-bean-casserole,1 hour 25 minutes,[]
+Pinch of Yum,Light Thai Chicken Lettuce Wraps,https://pinchofyum.com/light-thai-chicken-lettuce-wraps,50 minutes,"['for the salad', 'for the peanut sauce']"
+Pinch of Yum,Creamy Squash Curry Quinoa,https://pinchofyum.com/creamy-squash-curry-quinoa,50 minutes,[]
+Pinch of Yum,Avocado Cucumber Grapefruit Salad,https://pinchofyum.com/avocado-cucumber-grapefruit-salad,25 minutes,[]
+Pinch of Yum,Monggo Beans (or Mung Bean Soup),https://pinchofyum.com/monggo-beans-mung-bean-soup,55 minutes,[]
+Pinch of Yum,Chocolate Chip Cookie Brownies,https://pinchofyum.com/chocolate-chip-cookie-brownies,1 hour,[]
+Pinch of Yum,Crockpot Pork Adobo with Black Beans,https://pinchofyum.com/crockpot-pork-adobo-with-black-beans,8 hours 15 minutes,[]
+Pinch of Yum,Whole Wheat Pancakes for Two,https://pinchofyum.com/whole-wheat-pancakes-for-two,25 minutes,[]
+Pinch of Yum,Fudgy Chocolate Cake Bars,https://pinchofyum.com/fudgy-chocolate-cake-bars,1 hour,[]
+Pinch of Yum,Papaya Mango Smoothie,https://pinchofyum.com/papaya-mango-smoothie,20 minutes,[]
+Pinch of Yum,Crockpot Mexican Chicken,https://pinchofyum.com/crockpot-mexican-chicken,4 hours 10 minutes,[]
+Pinch of Yum,Honey Nut Steel Cut Oats,https://pinchofyum.com/honey-nut-steel-cut-oats,25 minutes,[]
+Pinch of Yum,Sauteed Garlic and Tomato Lentil Salad,https://pinchofyum.com/sauteed-garlic-and-tomato-lentil-salad,45 minutes,[]
+Pinch of Yum,Perfect Chocolate Chip Cookies,https://pinchofyum.com/perfect-chocolate-chip-cookies,2 hours 12 minutes,[]
+Pinch of Yum,Healthy Chicken Alfredo Pizza,https://pinchofyum.com/healthy-chicken-alfredo-pizza,27 minutes,[]
+Pinch of Yum,Easy Whole Wheat Pizza Dough,https://pinchofyum.com/easy-whole-wheat-pizza-dough,45 minutes,[]
+Pinch of Yum,Creamy Cauliflower Sauce,https://pinchofyum.com/creamy-cauliflower-sauce,30 minutes,[]
+Pinch of Yum,30-Minute Squash Coconut Curry,https://pinchofyum.com/30-minute-squash-coconut-curry,30 minutes,[]
+Pinch of Yum,Strawberry Jam Muffins,https://pinchofyum.com/strawberry-jam-muffins,25 minutes,[]
+Pinch of Yum,Cauliflower Yellow Lentil Curry,https://pinchofyum.com/cauliflower-yellow-lentil-curry,1 hour 10 minutes,[]
+Pinch of Yum,Healthier General Tso’s Chicken,https://pinchofyum.com/healthier-general-tsos-chicken-giveaway,45 minutes,[]
+Pinch of Yum,Gooey Chocolate Caramel Cake,https://pinchofyum.com/gooey-chocolate-caramel-cake,1 hour,[]
+Pinch of Yum,Stovetop Broccoli and White Bean Lasagna,https://pinchofyum.com/stovetop-broccoli-and-white-bean-lasagna,35 minutes,[]
+Pinch of Yum,Lightened Up Curry Egg Salad,https://pinchofyum.com/lightened-up-curry-egg-salad,23 minutes,[]
+Pinch of Yum,10 Minute Peanut Butter Fudge,https://pinchofyum.com/10-minute-peanut-butter-fudge,15 minutes,[]
+Pinch of Yum,Creamy Cauliflower Garlic Rice,https://pinchofyum.com/creamy-cauliflower-garlic-rice,1 hour,[]
+Pinch of Yum,Mexican Polenta Pie,https://pinchofyum.com/mexican-polenta-pie,4 hours 15 minutes,[]
+Pinch of Yum,Butterfinger Monster Cookies,https://pinchofyum.com/butterfinger-monster-cookies,30 minutes,[]
+Pinch of Yum,Hoisin Pork with Rice Noodles,https://pinchofyum.com/hoisin-pork-with-rice-noodles,30 minutes,[]
+Pinch of Yum,Garlic Butter Spaghetti with Herbs,https://pinchofyum.com/garlic-butter-spaghetti-with-herbs,30 minutes,[]
+Pinch of Yum,Healthy Sweet and Sour Fish,https://pinchofyum.com/healthy-sweet-and-sour-fish,1 hour 5 minutes,[]
+Pinch of Yum,Curried Veggie Burgers,https://pinchofyum.com/curried-veggie-burgers,1 hour 15 minutes,[]
+Pinch of Yum,Banana Lumpia with Caramel Sauce,https://pinchofyum.com/banana-lumpia-turon-with-caramel-sauce,1 hour,[]
+Pinch of Yum,Peanut Butter Oreo Blondies,https://pinchofyum.com/peanut-butter-oreo-blondies,50 minutes,[]
+Pinch of Yum,Coffee Cake Muffins,https://pinchofyum.com/coffee-cake-muffins,25 minutes,[]
+Pinch of Yum,"Baked Rigatoni with Spinach, Provolone, and Turkey",https://pinchofyum.com/baked-rigatoni-with-spinach-provolone-turkey,1 hour,[]
+Pinch of Yum,Chicken Bacon Wild Rice Soup,https://pinchofyum.com/chicken-bacon-wild-rice-soup-2,8 hours 45 minutes,[]
+Pinch of Yum,Whole Wheat Roasted Veggie Lasagna,https://pinchofyum.com/whole-wheat-roasted-veggie-lasagna,1 hour 30 minutes,[]
+Pinch of Yum,Gingerbread French Toast,https://pinchofyum.com/gingerbread-french-toast,15 minutes,[]
+Pinch of Yum,Crockpot Chalupas,https://pinchofyum.com/crockpot-chalupas,8 hours 5 minutes,[]
+Pinch of Yum,Mini Chocolate Thumbprint Cookies,https://pinchofyum.com/mini-chocolate-thumbprint-cookies,40 minutes,[]
+Pinch of Yum,Chicken and Rice Casserole,https://pinchofyum.com/chicken-and-rice-casserole,1 hour 40 minutes,[]
+Pinch of Yum,Homemade Cream of Chicken Soup,https://pinchofyum.com/homemade-cream-of-chicken-soup,15 minutes,[]
+Pinch of Yum,Gingerbread Loaves with Lemon Glaze,https://pinchofyum.com/gingerbread-loaves-with-lemon-glaze,50 minutes,[]
+Pinch of Yum,Easy Red Lentil Dhal,https://pinchofyum.com/easy-red-lentil-dhal,15 minutes,[]
+Pinch of Yum,Healthy Fettuccine Alfredo,https://pinchofyum.com/healthy-fettucine-alfredo,30 minutes,[]
+Pinch of Yum,An Edible Mosaic Cookbook Giveaway,https://pinchofyum.com/an-edible-mosaic-cookbook-giveaway,15 minutes,[]
+Pinch of Yum,Pumpkin Dessert Bars,https://pinchofyum.com/pumpkin-dessert-bars,1 hour 35 minutes,[]
+Pinch of Yum,Kabocha Squash Lentil Curry,https://pinchofyum.com/kabocha-squash-lentil-curry,1 hour 15 minutes,[]
+Pinch of Yum,The World’s Best Chocolate Oatmeal Cake,https://pinchofyum.com/the-worlds-best-chocolate-oatmeal-cake,1 hour,[]
+Pinch of Yum,Whole Wheat Chocolate Chip Banana Peanut Butter Muffins,https://pinchofyum.com/whole-wheat-chocolate-chip-banana-peanut-butter-muffins,25 minutes,[]
+Pinch of Yum,Double Chocolate Oatmeal,https://pinchofyum.com/double-chocolate-oatmeal,15 minutes,[]
+Pinch of Yum,Honey Chicken Salad with Grapes and Feta,https://pinchofyum.com/honey-chicken-salad-with-grapes-and-feta,1 hour,[]
+Pinch of Yum,Double Chocolate Cake Mix Cookies,https://pinchofyum.com/double-chocolate-cake-mix-cookies,30 minutes,[]
+Pinch of Yum,How I Make Hummus,https://pinchofyum.com/how-i-make-hummus,35 minutes,[]
+Pinch of Yum,"Brown Sugar Apple, Wheat Berry, & Yogurt Parfaits",https://pinchofyum.com/brown-sugar-apple-wheat-berry-yogurt-parfaits,10 minutes,[]
+Pinch of Yum,Southwest Chipotle Burgers with Guacamole,https://pinchofyum.com/southwest-burgers-with-guacamole,45 minutes,[]
+Pinch of Yum,Stir Fried Noodles with Shrimp and Vegetables {Filipino Pancit Canton},https://pinchofyum.com/stir-fried-noodles-with-shrimp-and-vegetables,35 minutes,[]
+Pinch of Yum,Caramel Rolls with Apples and Walnuts,https://pinchofyum.com/caramel-rolls-with-apples-and-walnuts,2 hours 20 minutes,[]
+Pinch of Yum,White Chicken Chili,https://pinchofyum.com/white-chicken-chili,1 hour,[]
+Pinch of Yum,"Chicken Tamale Pie, Version 2",https://pinchofyum.com/chicken-tamale-pie-2,1 hour,[]
+Pinch of Yum,Chili and Cornbread Waffle Stacks,https://pinchofyum.com/chili-and-cornbread-waffle-stacks,30 minutes,[]
+Pinch of Yum,Carnitas Tamale Pie,https://pinchofyum.com/carnitas-tamale-pie,55 minutes,[]
+Pinch of Yum,Salted Maple Pecan Pie Bars,https://pinchofyum.com/salted-maple-pecan-pie-bars,50 minutes,[]
+Pinch of Yum,Crispy Potato Mojos,https://pinchofyum.com/crispy-potato-mojos,15 minutes,[]
+Pinch of Yum,Super Easy Crockpot Broccoli Cheese Soup,https://pinchofyum.com/super-easycrockpot-broccoli-cheese-soup,4 hours 10 minutes,[]
+Pinch of Yum,Bread Pudding with Hot Butter Rum Sauce,https://pinchofyum.com/bread-pudding-with-hot-butter-rum-sauce,1 hour 5 minutes,[]
+Pinch of Yum,Asian Chicken Salad with Sesame Chili Vinaigrette,https://pinchofyum.com/asian-chicken-salad-with-sesame-chili-vinaigrette,35 minutes,[]
+Pinch of Yum,Simple & Creamy Squash Soup,https://pinchofyum.com/simple-creamy-squash-soup,20 minutes,[]
+Pinch of Yum,Healthy Black Bean Tostadas with Cilantro Sauce,https://pinchofyum.com/healthy-black-bean-tostadas-with-cilantro-sauce,25 minutes,[]
+Pinch of Yum,{No Bake} Dark Chocolate Snickers Cookies,https://pinchofyum.com/no-bake-dark-chocolate-snickers-cookies,20 minutes,[]
+Pinch of Yum,Thai Basil Coconut Lentils,https://pinchofyum.com/thai-basil-coconut-lentils,1 hour 25 minutes,[]
+Pinch of Yum,Champorado {Chocolate Coconut Sticky Rice},https://pinchofyum.com/champorado-chocolate-coconut-sticky-rice,30 minutes,[]
+Pinch of Yum,Parmesan Chicken Fingers with Garlic Cheese Sauce,https://pinchofyum.com/parmesan-chicken-fingers-with-garlic-cheese-sauce,40 minutes,[]
+Pinch of Yum,Chocolate & Sweet Cream Marble Loaf,https://pinchofyum.com/chocolate-sweet-cream-marble-loaf,50 minutes,[]
+Pinch of Yum,White Cheddar Mac N’ Cheese with Squash and Toasted Walnuts,https://pinchofyum.com/white-cheddar-mac-n-cheese,1 hour 10 minutes,[]
+Pinch of Yum,Peanut Butter Oatmeal Chocolate Chip Cookies,https://pinchofyum.com/peanut-butter-oatmeal-chocolate-chip-cookies,20 minutes,[]
+Pinch of Yum,Spicy Fish Taco Bowls,https://pinchofyum.com/spicy-fish-taco-bowls,30 minutes,[]
+Pinch of Yum,Peach Pie with Heath Bar Crumb Topping,https://pinchofyum.com/peach-pie-with-heath-bar-crumb-topping,2 hours,[]
+Pinch of Yum,5 Ingredient Coconut Curry,https://pinchofyum.com/5-ingredient-coconut-curry,15 minutes,[]
+Pinch of Yum,Roasted Corn and Basil Stuffed Tomatoes,https://pinchofyum.com/roasted-corn-and-basil-stuffed-tomatoes,15 minutes,[]
+Pinch of Yum,Baked Caprese Rigatoni,https://pinchofyum.com/baked-caprese-rigatoni,25 minutes,[]
+Pinch of Yum,Mango Snack Cake,https://pinchofyum.com/mango-snack-cake,30 minutes,[]
+Pinch of Yum,Skinny Garlic Fried Rice,https://pinchofyum.com/skinny-garlicfried-rice,20 minutes,[]
+Pinch of Yum,Peanut Butter & Honey Muffins,https://pinchofyum.com/peanut-butter-honey-muffins,27 minutes,[]
+Pinch of Yum,Fresh Mango Lassi,https://pinchofyum.com/fresh-mango-lassi,10 minutes,[]
+Pinch of Yum,Mango Chicken Salad Sandwich,https://pinchofyum.com/mango-chicken-salad-sandwich,45 minutes,[]
+Pinch of Yum,Baked Croissant Cinnamon French Toast,https://pinchofyum.com/baked-croissant-cinnamon-french-toast,40 minutes,[]
+Pinch of Yum,My Top 5 Healthy Food Blogs,https://pinchofyum.com/my-top-healthy-food-blogs,35 minutes,[]
+Pinch of Yum,Chocolate Chip Cookie Ice Cream Bars,https://pinchofyum.com/chocolate-chip-cookie-ice-cream-bars,1 hour 5 minutes,[]
+Pinch of Yum,"Grilled Chicken Sausage, Spinach, and Mozzarella Pizza",https://pinchofyum.com/grilled-chicken-sausage-spinach-mozzarella-pizza,25 minutes,[]
+Pinch of Yum,Berry Green Smoothie,https://pinchofyum.com/berry-green-smoothie,10 minutes,[]
+Pinch of Yum,Chocolate Glazed Baked Mini Donuts,https://pinchofyum.com/chocolate-glazed-baked-mini-donuts,20 minutes,[]
+Pinch of Yum,Asian Chicken Salad,https://pinchofyum.com/asian-chicken-salad,1 hour 45 minutes,[]
+Pinch of Yum,Golden Grahams S’mores Bars,https://pinchofyum.com/golden-grahams-smores-bars,1 hour 15 minutes,[]
+Pinch of Yum,Healthy Double Chocolate Malt,https://pinchofyum.com/healthy-double-chocolate-malt,10 minutes,[]
+Pinch of Yum,Bacon and Brussel Sprout Salad,https://pinchofyum.com/bacon-and-brussel-sprout-salad,45 minutes,[]
+Pinch of Yum,Chocolate PB Banana Upside Down Cake,https://pinchofyum.com/chocolate-pb-banana-upside-down-cake,1 hour,[]
+Pinch of Yum,Rustic Garlic Butter Pasta with Roasted Broccoli,https://pinchofyum.com/rustic-garlic-butter-pasta,35 minutes,[]
+Pinch of Yum,Peanut Butter Pie Shooters,https://pinchofyum.com/peanut-butter-pie-shooters,40 minutes,[]
+Pinch of Yum,Honey Walnut Power Salad,https://pinchofyum.com/honey-walnut-power-salad,30 minutes,[]
+Pinch of Yum,Healthy Cinnamon Roll Pancakes,https://pinchofyum.com/healthy-cinnamon-roll-pancakes,15 minutes,[]
+Pinch of Yum,Caribbean Jerk Salmon Bowl with Mango Salsa,https://pinchofyum.com/caribbean-jerk-salmon-bowl-with-mango-salsa,30 minutes,[]
+Pinch of Yum,Blackberries and Cream Oats with Honey,https://pinchofyum.com/blackberry-cream-honey-oats,10 minutes,[]
+Pinch of Yum,Baked Spicy Fries with Garlic Cheese Sauce,https://pinchofyum.com/baked-spicy-fries-with-garlic-cheese-sauce,45 minutes,[]
+Pinch of Yum,Skinny Shrimp Fajita Pasta,https://pinchofyum.com/skinny-fajita-shrimp-pasta,25 minutes,[]
+Pinch of Yum,Salted Double Chocolate Muffins,https://pinchofyum.com/salted-double-chocolate-muffins,20 minutes,[]
+Pinch of Yum,Garlic Chicken and Vegetable Pot Pie,https://pinchofyum.com/garlic-chicken-and-vegetable-pot-pie,1 hour,[]
+Pinch of Yum,White Chocolate Cheesecake Brownies,https://pinchofyum.com/white-chocolate-cheesecake-brownies,1 hour 30 minutes,[]
+Pinch of Yum,Light BBQ Chicken Pizza,https://pinchofyum.com/light-bbq-chicken-pizza,1 hour 10 minutes,[]
+Pinch of Yum,Peanut Butter S’mores Bars,https://pinchofyum.com/peanut-butter-smores-bars,1 hour 5 minutes,[]
+Pinch of Yum,White Chocolate Blueberry Muffins,https://pinchofyum.com/white-chocolate-blueberry-muffins,20 minutes,[]
+Pinch of Yum,French Silk Brownie Pie,https://pinchofyum.com/french-silk-brownie-pie,6 hours 20 minutes,[]
+Pinch of Yum,Almond Crusted Tilapia,https://pinchofyum.com/almond-crusted-tilapia,15 minutes,[]
+Pinch of Yum,Best Ever Brownies,https://pinchofyum.com/best-ever-brownies,45 minutes,[]
+Pinch of Yum,Coconut Green Curry Lentils,https://pinchofyum.com/coconut-green-curry-lentils,35 minutes,[]
+Pinch of Yum,Chicken Tamale Pie,https://pinchofyum.com/chicken-tamale-pie,45 minutes,[]
+Pinch of Yum,Chocolate Chip Peanut Butter Healthy Cookie Dough,https://pinchofyum.com/healthy-chocolate-chip-peanut-butter-cookie-dough,20 minutes,[]
+Pinch of Yum,Creamy Thai Sweet Potatoes and Lentils,https://pinchofyum.com/creamy-thai-sweet-potatoes-and-lentil,1 hour 20 minutes,[]
+Pinch of Yum,Cinnamon Sugar Donut Balls,https://pinchofyum.com/cinnamon-sugar-donut-balls,30 minutes,[]
+Pinch of Yum,{Light} Orange Beef and Broccoli,https://pinchofyum.com/light-orange-beef-and-broccoli,20 minutes,[]
+Pinch of Yum,Raspberry Cream Cheese Coffee Cake,https://pinchofyum.com/raspberry-cream-cheese-coffee-cake,1 hour,[]
+Pinch of Yum,Three Cheese Roasted Vegetable Grilled Cheese,https://pinchofyum.com/fontina-cheddar-gruyere-grilled-cheese,40 minutes,[]
+Pinch of Yum,Chicken Soup Noodles,https://pinchofyum.com/chicken-soup-noodles,40 minutes,[]
+Pinch of Yum,{Lazy} Chocolate Cherry Fudge Cake,https://pinchofyum.com/lazy-chocolate-cherry-fudge-cake,35 minutes,[]
+Pinch of Yum,Skinny Chicken Enchiladas,https://pinchofyum.com/skinny-chicken-enchiladas,3 hours 20 minutes,[]
+Pinch of Yum,Classic Dinner Pancakes,https://pinchofyum.com/classic-dinner-pancakes,10 minutes,[]
+Pinch of Yum,Carrot Cake Cupcakes with Cream Cheese Frosting,https://pinchofyum.com/carrot-cake-cupcakes-with-cream-cheese-frosting,1 hour 15 minutes,[]
+Pinch of Yum,Crab & Avocado Nachos,https://pinchofyum.com/crab-avocado-nachos,15 minutes,[]
+Pinch of Yum,Parmesan Baked Eggs,https://pinchofyum.com/parmesan-baked-eggs,25 minutes,[]
+Pinch of Yum,Milk Chocolate Dulce de Leche Bars,https://pinchofyum.com/dulce-de-leche-bars,55 minutes,[]
+Pinch of Yum,Banana Cake with Peanut Butter Frosting,https://pinchofyum.com/banana-cake-with-peanut-butter-frosting,40 minutes,[]
+Pinch of Yum,Easy Cheesy Chicken Noodles,https://pinchofyum.com/easy-cheesy-chicken-noodles,30 minutes,[]
+Pinch of Yum,Kickin’ Cashew Chicken,https://pinchofyum.com/kickin-cashew-chicken,20 minutes,[]
+Pinch of Yum,Tex-Mex Taco Salad,https://pinchofyum.com/tex-mex-taco-salad,25 minutes,[]
+Pinch of Yum,Malted Double Chocolate Chip Cookies,https://pinchofyum.com/malted-double-chocolate-chip-cookies,52 minutes,[]
+Pinch of Yum,Light Garlic Shrimp Baked Penne,https://pinchofyum.com/light-garlic-shrimp-baked-penne,55 minutes,[]
+Pinch of Yum,Chicken Bacon Wild Rice Soup,https://pinchofyum.com/chicken-bacon-wild-rice-soup,1 hour 30 minutes,[]
+Pinch of Yum,Glazed Orange Muffins,https://pinchofyum.com/glazed-orange-muffins,30 minutes,[]
+Pinch of Yum,Triple Chocolate Party Balls,https://pinchofyum.com/triple-chocolate-party-balls,55 minutes,[]
+Pinch of Yum,Chili Cheese Black Bean Dip,https://pinchofyum.com/chili-cheese-black-bean-dip,10 minutes,[]
+Pinch of Yum,Creamy Baked Corn,https://pinchofyum.com/creamy-baked-corn,45 minutes,[]
+Pinch of Yum,Fluffy Sugar Cookies & Vanilla Frosting,https://pinchofyum.com/fluffy-sugar-cookies-vanilla-frosting,35 minutes,[]
+Pinch of Yum,Butternut Squash Pecan Pancakes,https://pinchofyum.com/butternut-squash-pecan-pancakes,20 minutes,[]
+Pinch of Yum,Holiday Pretzel Bites,https://pinchofyum.com/holiday-pretzel-bites,40 minutes,[]
+Pinch of Yum,Spicy-Sweet Squash Bowl,https://pinchofyum.com/spicy-sweet-squash-bowl,50 minutes,[]
+Pinch of Yum,"Bacon, Pear, and Raspberry Grilled Cheese",https://pinchofyum.com/bacon-pear-and-raspberry-grilled-cheese,20 minutes,[]
+Pinch of Yum,Brown Sugar Cookies,https://pinchofyum.com/brown-sugar-cookies,27 minutes,[]
+Pinch of Yum,Vanilla Glazed Apple Cinnamon Muffins,https://pinchofyum.com/vanilla-glazed-apple-cinnamon-muffins,35 minutes,[]
+Pinch of Yum,Skinny Veggie Lasagna,https://pinchofyum.com/skinny-veggie-lasagna,1 hour,[]
+Pinch of Yum,Hot Fudge Cake with Peanut Butter Sauce,https://pinchofyum.com/hot-fudge-cake-with-peanut-butter-sauce,2 hours 5 minutes,[]
+Pinch of Yum,Powered Up Pumpkin Oatmeal,https://pinchofyum.com/powered-up-pumpkin-oats,20 minutes,[]
+Pinch of Yum,Healthy Bacon & Pumpkin Pasta,https://pinchofyum.com/healthy-bacon-pumpkin-pasta,35 minutes,[]
+Pinch of Yum,Peanut Butter Cheesecake Brownies,https://pinchofyum.com/peanut-butter-cheesecake-brownies,55 minutes,[]
+Pinch of Yum,Spicy Sausage Posole,https://pinchofyum.com/spicy-sausage-posole,35 minutes,[]
+Pinch of Yum,Easy Homemade Blueberry Sauce,https://pinchofyum.com/easy-homemade-blueberry-sauce,15 minutes,[]
+Pinch of Yum,Baked Gingerbread Mini Donuts,https://pinchofyum.com/baked-gingerbread-mini-donuts,15 minutes,[]
+Pinch of Yum,Cheesy Baked Eggplant Pizza,https://pinchofyum.com/cheesy-baked-eggplant-pizza,35 minutes,[]
+Pinch of Yum,Pumpkin Bars with Old-Fashioned Caramel Frosting,https://pinchofyum.com/pumpkin-bars-with-old-fashioned-caramel-frosting,1 hour 5 minutes,[]
+Pinch of Yum,Baked Apple Pancake with Apple Cider Syrup,https://pinchofyum.com/baked-apple-pancake-with-apple-cider-syrup,1 hour 5 minutes,[]
+Pinch of Yum,Curry Roasted Red Pepper and Eggplant Soup,https://pinchofyum.com/curry-roasted-red-pepper-and-eggplant-soup,50 minutes,[]
+Pinch of Yum,Harvest Salad with Maple Dressing,https://pinchofyum.com/harvest-salad-with-creamy-maple-sauce,25 minutes,[]
+Pinch of Yum,Pumpkin Dip for Gingersnaps,https://pinchofyum.com/pumpkin-dip-for-gingersnaps,15 minutes,[]
+Pinch of Yum,Classic Homemade Applesauce,https://pinchofyum.com/classic-homemade-applesauce,1 hour,[]
+Pinch of Yum,Chicken Zucchini Pasta,https://pinchofyum.com/chicken-zucchini-pasta,25 minutes,[]
+Pinch of Yum,Maple Banana Bread,https://pinchofyum.com/maple-banana-bread,1 hour,[]
+Pinch of Yum,Marisa’s Spicy Chicken Tostadas,https://pinchofyum.com/marisas-spicy-chicken-tostadas,55 minutes,[]
+Pinch of Yum,Pumpkin Bundt Cake with Cinnamon Glaze,https://pinchofyum.com/pumpkin-bundt-cake-with-cinnamon-glaze,50 minutes,[]
+Pinch of Yum,Cheesy Meatless Meatballs with Marinara,https://pinchofyum.com/cheesy-meatless-meatballs-with-marinara,35 minutes,[]
+Pinch of Yum,Brown Sugar Apple Bran Oatmeal,https://pinchofyum.com/apple-bran-oats,8 minutes,[]
+Pinch of Yum,"Butternut Squash Mac and Cheese with Caramelized Onions, Bacon, and Apple",https://pinchofyum.com/butternut-squash-mac-n-cheese-with-caramelized-onions-apples-and-bacon,50 minutes,[]
+Pinch of Yum,"Mozzarella, Basil and Corn Quesadilla",https://pinchofyum.com/mozzarella-basil-and-corn-quesadilla,15 minutes,[]
+Pinch of Yum,Maple Vanilla Almond Clusters,https://pinchofyum.com/maple-vanilla-almond-clusters,15 minutes,[]
+Pinch of Yum,Classic Apple Crisp,https://pinchofyum.com/classic-apple-crisp,40 minutes,[]
+Pinch of Yum,Southwest Black Bean Casserole,https://pinchofyum.com/southwest-black-bean-casserole,50 minutes,[]
+Pinch of Yum,Raisin Bran Muffins,https://pinchofyum.com/raisin-bran-muffins,30 minutes,[]
+Pinch of Yum,Smoky White Bean Chili with Pork,https://pinchofyum.com/smoky-white-bean-chili-with-pork,45 minutes,[]
+Pinch of Yum,Caramel Corn Bars,https://pinchofyum.com/caramel-corn-bars,40 minutes,[]
+Pinch of Yum,Chipotle Turkey Burgers,https://pinchofyum.com/chipotle-turkey-burger,25 minutes,[]
+Pinch of Yum,Nectarine Basil Salsa,https://pinchofyum.com/nectarine-basil-salsa,10 minutes,[]
+Pinch of Yum,Spicy Peanut Chicken Salad,https://pinchofyum.com/spicy-peanut-chicken-salad,15 minutes,[]
+Pinch of Yum,Fresh Blueberry Tarts,https://pinchofyum.com/fresh-blueberry-tarts,55 minutes,[]
+Pinch of Yum,Farmer’s Market Flatbread Pizza,https://pinchofyum.com/farmers-market-flatbread-pizza,25 minutes,[]
+Pinch of Yum,Mango Chicken Salad,https://pinchofyum.com/mango-chicken-salad,20 minutes,[]
+Pinch of Yum,Fudgy Oreo Brownies,https://pinchofyum.com/fudgy-oreo-brownies,45 minutes,[]
+Pinch of Yum,Red Pepper & Goat Cheese Panini,https://pinchofyum.com/red-pepper-goat-cheese-panini,35 minutes,[]
+Pinch of Yum,Ginger Melon Chillers,https://pinchofyum.com/ginger-melon-chillers,10 minutes,[]
+Pinch of Yum,Creamy Cilantro Dressing,https://pinchofyum.com/creamy-cilantro-dressing,10 minutes,[]
+Pinch of Yum,Peanut Butter Cookie Dough Bites,https://pinchofyum.com/pb-cookie-dough-bites,15 minutes,[]
+Pinch of Yum,Chocolate Scotcheroos,https://pinchofyum.com/chocolate-scotcheroos,30 minutes,[]
+Pinch of Yum,Crunchy Pecan Granola,https://pinchofyum.com/crunchy-pecan-granola,50 minutes,[]
+Pinch of Yum,5-Minute Green Curry Salad,https://pinchofyum.com/5-minute-green-curry-salad,20 minutes,[]
+Pinch of Yum,Real Strawberry Lemonade,https://pinchofyum.com/real-strawberry-lemonade,10 minutes,[]
+Pinch of Yum,Maple Glazed Pumpkin Muffins,https://pinchofyum.com/mapleglazedpumpkinmuffins,50 minutes,[]
+Pinch of Yum,Creamy Basil Dip,https://pinchofyum.com/creamy-basil-dip,12 minutes,[]
+Pinch of Yum,Farmer’s Market Pasta,https://pinchofyum.com/farmers-market-pasta,35 minutes,[]
+Pinch of Yum,Garlic Edamame,https://pinchofyum.com/garlic-edamame,15 minutes,[]
+Pinch of Yum,Classic Bean Burgers,https://pinchofyum.com/classic-bean-burgers,45 minutes,[]
+Pinch of Yum,Peanut Butter Pretzel Cookies,https://pinchofyum.com/peanut-butter-pretzel-cookies,32 minutes,[]
+Pinch of Yum,Mango Black Bean Tacos,https://pinchofyum.com/mango-black-bean-coconut-tacos,30 minutes,[]
+Pinch of Yum,Honey Butter Spread on Lemon Cake,https://pinchofyum.com/honey-butter-spread-on-lemon-cake,6 minutes,[]
+Pinch of Yum,Garlic Shrimp and Zucchini Wrap,https://pinchofyum.com/garlic-shrimp-and-zucchini-wrap,15 minutes,[]
+Pinch of Yum,Creamy Garlic Scape Dip,https://pinchofyum.com/creamy-garlic-scape-dip,15 minutes,[]
+Pinch of Yum,Wild Rice Flatbread,https://pinchofyum.com/wild-rice-flatbread,35 minutes,[]
+Pinch of Yum,Roasted Cherry Brownies,https://pinchofyum.com/roasted-cherry-brownies,40 minutes,[]
+Pinch of Yum,Greek Salad with Paprika Croutons,https://pinchofyum.com/greek-salad-with-paprika-croutons,15 minutes,[]
+Pinch of Yum,Portobello Red Pepper & Pesto Pizza,https://pinchofyum.com/portobello-red-pepper-pesto-pizza,30 minutes,[]
+Pinch of Yum,Milk Chocolate Cupcakes with Avocado Buttercream,https://pinchofyum.com/milk-chocolate-cupcakes-with-avocado-buttercream,27 minutes,[]
+Pinch of Yum,Avocado Blue Cheese Dressing,https://pinchofyum.com/avocado-blue-cheese-dressing,10 minutes,[]
+Pinch of Yum,Cinnamon Sugar Radish Chips,https://pinchofyum.com/cinnamon-sugar-radish-chips,50 minutes,[]
+Pinch of Yum,Spicy Hummus,https://pinchofyum.com/spicy-hummus,10 minutes,[]
+Pinch of Yum,Peanut Butter Banana Power Oats,https://pinchofyum.com/pb-banana-power-oats,10 minutes,[]
+Pinch of Yum,Nutella Peanut Butter Clusters,https://pinchofyum.com/nutella-and-peanut-butter-clusters,20 minutes,[]
+Pinch of Yum,Grilled Barbeque Onion and Smoked Gouda Quesadillas,https://pinchofyum.com/grilled-barbeque-onion-and-smoked-gouda-quesadillas,25 minutes,[]
+Pinch of Yum,Parmesan Pesto Veggie Sandwich,https://pinchofyum.com/parmesan-pesto-veggie-sandwich,25 minutes,[]
+Pinch of Yum,Chocolate Marshmallow Graham Bars,https://pinchofyum.com/chocolate-marshmallow-graham-bars,45 minutes,[]
+Pinch of Yum,Cornmeal Blueberry Muffins,https://pinchofyum.com/cornmeal-blueberry-muffins,35 minutes,[]
+Pinch of Yum,Coconut Caramel Malt,https://pinchofyum.com/coconut-caramel-malt,3 minutes,[]
+Pinch of Yum,Brownie Fudge Trifle,https://pinchofyum.com/brownie-fudge-trifle,15 minutes,[]
+Pinch of Yum,Roasted Sweet Potato Salad,https://pinchofyum.com/roasted-sweet-potato-salad,1 hour,[]
+Pinch of Yum,Waffle Berry Stacks,https://pinchofyum.com/waffle-berry-stacks,10 minutes,[]
+Pinch of Yum,Lemon Pancakes and Blackberry Syrup,https://pinchofyum.com/lemon-pancakes-and-blackberry-syrup,30 minutes,[]
+Pinch of Yum,Garlic Parmesan Burgers & Creamed Spinach Sauce,https://pinchofyum.com/garlic-parmesan-burgers-creamed-spinach-sauce,40 minutes,[]
+Pinch of Yum,Lemon Berry Smoothie,https://pinchofyum.com/lemon-berry-smoothie,10 minutes,[]
+Pinch of Yum,Spicy Corn Salad,https://pinchofyum.com/spicy-corn-salad,20 minutes,[]
+Pinch of Yum,Cinnamon Sugar Mini Donuts,https://pinchofyum.com/cinnamon-sugar-mini-donuts,20 minutes,[]
+Pinch of Yum,Baked Zucchini Fries,https://pinchofyum.com/baked-zucchini-fries,35 minutes,[]
+Pinch of Yum,New York Times Chocolate Chip Cookies,https://pinchofyum.com/new-york-times-chocolate-chip-cookies,45 minutes,[]
+Pinch of Yum,Sausage and Mozzarella Calzone,https://pinchofyum.com/sausage-and-mozzarella-calzone,32 minutes,[]
+Pinch of Yum,Indian Street Food: Aloo Tikki,https://pinchofyum.com/indian-street-food-aloo-tikki,40 minutes,[]
+Pinch of Yum,Smoky Paprika Croutons,https://pinchofyum.com/smoky-paprika-croutons,15 minutes,[]
+Pinch of Yum,Roasted Potatoes with Maple Fig Sauce,https://pinchofyum.com/roasted-potatoes-with-maple-fig-sauce,40 minutes,[]
+Pinch of Yum,Peanut Butter Banana Flax Muffins,https://pinchofyum.com/peanut-butter-banana-flax-muffins,35 minutes,[]
+Pinch of Yum,Caprese Penne,https://pinchofyum.com/caprese-penne,45 minutes,[]
+Pinch of Yum,Triple Berry Pie Bars,https://pinchofyum.com/triple-berry-pie-bars,1 hour 25 minutes,[]
+Pinch of Yum,Roasted Sweet Potatoes & Hummus,https://pinchofyum.com/roasted-sweet-potatoes-hummus,40 minutes,[]
+Pinch of Yum,"Asparagus, Pea, & Goat Cheese Pizza",https://pinchofyum.com/asparagus-pea-goat-cheese-pizza,30 minutes,[]
+Pinch of Yum,Asparagus and Pea Saute,https://pinchofyum.com/asparagus-and-pea-saute,20 minutes,[]
+Pinch of Yum,Tortilla Chicken with Salsa Verde,https://pinchofyum.com/tortilla-chicken-with-salsa-verde,45 minutes,[]
+Pinch of Yum,Grandma’s Butterhorns,https://pinchofyum.com/grandmas-butterhorns,50 minutes,[]
+Pinch of Yum,Artichoke and Red Pepper Melt,https://pinchofyum.com/artichoke-and-red-pepper-melt,15 minutes,[]
+Pinch of Yum,Peanut Butter Dark Chocolate Hummus,https://pinchofyum.com/pb-dark-chocolate-hummus,15 minutes,[]
+Pinch of Yum,Rosemary Goat Cheese Wild Rice,https://pinchofyum.com/rosemary-goat-cheese-and-wild-rice,10 minutes,[]
+Pinch of Yum,Double Chocolate Cake with Buttercream Frosting,https://pinchofyum.com/double-chocolate-cake-with-buttercream-frosting,55 minutes,[]
+Pinch of Yum,Stuffed French Toast,https://pinchofyum.com/stuffed-french-toast,20 minutes,[]
+Pinch of Yum,Smoked Almond and Goat Cheese Salad,https://pinchofyum.com/smoked-almond-and-goat-cheese-salad,10 minutes,[]
+Pinch of Yum,Sausage and Red Pepper Quiche,https://pinchofyum.com/sausage-and-red-pepper-quiche,50 minutes,[]
+Pinch of Yum,Avocado Bacon Orzo,https://pinchofyum.com/avocado-bacon-orzo,20 minutes,[]
+Pinch of Yum,Avocado Tomatillo Dip,https://pinchofyum.com/avocado-tomatillo-dip,10 minutes,[]
+Pinch of Yum,Coconut Peanut Butter Oatmeal,https://pinchofyum.com/coconut-peanut-butter-oatmeal,10 minutes,[]
+Pinch of Yum,Orangeberry Shortcake Cookies,https://pinchofyum.com/orangeberry-shortcake-cookies,35 minutes,[]
+Pinch of Yum,Grandma’s Creamy Lemon Pie,https://pinchofyum.com/grandmas-creamy-lemon-pie,25 minutes,[]
+Pinch of Yum,Strawberry Breakfast Cakes,https://pinchofyum.com/strawberry-breakfast-cakes,45 minutes,[]
+Pinch of Yum,Spiced Tea Punch,https://pinchofyum.com/spiced-tea-punch,15 minutes,[]
+Pinch of Yum,Spinach Artichoke Pasta,https://pinchofyum.com/spinach-artichoke-pasta,25 minutes,[]
+Pinch of Yum,Shrimp and Feta Orzo,https://pinchofyum.com/shrimp-and-feta-orzo,35 minutes,[]
+Pinch of Yum,Spicy Corn Cake Breakfast Stack,https://pinchofyum.com/spicy-corn-cake-breakfast-stack,35 minutes,[]
+Pinch of Yum,Candy Fudge Bars,https://pinchofyum.com/candy-fudge-bars,35 minutes,[]
+Pinch of Yum,Sweet Potato Doughnuts,https://pinchofyum.com/sweet-potato-doughnuts,2 hours 20 minutes,[]
+Pinch of Yum,Green Monster,https://pinchofyum.com/green-monster,10 minutes,[]
+Pinch of Yum,Nuevo Cubano Sandwich,https://pinchofyum.com/nuevo-cubano-sandwiches,25 minutes,[]
+Pinch of Yum,Basil Chicken Lettuce Wraps,https://pinchofyum.com/basil-chicken-lettuce-wraps,20 minutes,[]
+Pinch of Yum,Asparagus Quesadilla Lasagna,https://pinchofyum.com/asparagus-quesadilla-lasagna,25 minutes,[]
+Pinch of Yum,Cinnamon Apple Carrot Pancakes,https://pinchofyum.com/cinnamon-apple-carrot-pancakes,30 minutes,[]
+Pinch of Yum,Molten Chocolate Cakes,https://pinchofyum.com/molten-chocolate-cakes,45 minutes,[]
+Pinch of Yum,Sun Dried Tomato Dill Linguine,https://pinchofyum.com/sun-dried-tomato-dill-linguine,20 minutes,[]
+Pinch of Yum,Marshmallow Monster Cookies,https://pinchofyum.com/marshmallow-monster-cookies,30 minutes,[]
+Pinch of Yum,Grandma’s Apple Crisp,https://pinchofyum.com/grandmas-apple-crisp,50 minutes,[]
+Pinch of Yum,Coconut Pineapple Orange Smoothie,https://pinchofyum.com/coconut-pineapple-orange-smoothie,7 minutes,[]
+Pinch of Yum,Sweet Potato Muffins,https://pinchofyum.com/sweet-potato-muffins,40 minutes,[]
+Pinch of Yum,Butternut Squash Lasagna,https://pinchofyum.com/butternut-squash-lasagna,1 hour 15 minutes,[]
+Pinch of Yum,Caramelized Banana and Fig Oatmeal,https://pinchofyum.com/caramelized-banana-and-fig-oatmeal,25 minutes,[]
+Pinch of Yum,Roasted Bell Pepper Tostadas,https://pinchofyum.com/roasted-bell-pepper-tostadas,45 minutes,[]
+Pinch of Yum,Rocky Road Brownies,https://pinchofyum.com/rocky-road-brownies,2 hours 50 minutes,[]
+Pinch of Yum,Butternut Squash Black Bean Wrap,https://pinchofyum.com/butternut-squash-black-bean-wrap,15 minutes,[]
+Pinch of Yum,Strawberry Blintzes (Crepes),https://pinchofyum.com/strawberry-blinchke-crepes,45 minutes,[]
+Pinch of Yum,Banana Monkey Bread,https://pinchofyum.com/banana-monkey-bread,35 minutes,[]
+Pinch of Yum,Gorgonzola and Bacon Panini,https://pinchofyum.com/gorgonzola-and-bacon-panini,20 minutes,[]
+Pinch of Yum,Coffee Streusel Bundt Cake,https://pinchofyum.com/coffee-streusel-bundt-cake,2 hours,[]
+Pinch of Yum,Shrimp and Quinoa Salad,https://pinchofyum.com/shrimp-and-quinoa-salad,31 minutes,[]
+Pinch of Yum,Red Pepper and Artichoke Panini,https://pinchofyum.com/red-pepper-and-artichoke-panini,10 minutes,[]
+Pinch of Yum,Snickerdoodle Blondies,https://pinchofyum.com/snickerdoodle-blondies,55 minutes,[]
+Pinch of Yum,Chocolate Checkered Banana Bread,https://pinchofyum.com/chocolate-checkered-banana-bread,55 minutes,[]
+Pinch of Yum,Cheesy Roasted Potato Nachos,https://pinchofyum.com/cheesy-roasted-potato-nachos,40 minutes,[]
+Pinch of Yum,Deep Dish Chocolate Chip Cookies,https://pinchofyum.com/deep-dish-chocolate-chip-cookies,35 minutes,[]
+Pinch of Yum,Creamy Tomato-Balsamic Soup,https://pinchofyum.com/creamy-tomato-balsamic-soup,1 hour 5 minutes,[]
+Pinch of Yum,Salted Toffee,https://pinchofyum.com/salted-toffee,1 hour 25 minutes,[]
+Pinch of Yum,Thai Chicken Salad,https://pinchofyum.com/thai-chicken-salad,20 minutes,[]
+Pinch of Yum,Minty Chocolate Oreo Truffles,https://pinchofyum.com/minty-chocolate-oreo-truffles,1 hour 35 minutes,[]
+Pinch of Yum,Pomegranate Orange Muffins,https://pinchofyum.com/pomegranate-orange-muffins,40 minutes,[]
+Pinch of Yum,Cheesy Black Bean Risotto,https://pinchofyum.com/cheesy-black-bean-risotto,35 minutes,[]
+Pinch of Yum,Edamame Hummus Wrap,https://pinchofyum.com/edamame-hummus-wrap,15 minutes,[]
+Pinch of Yum,Creamy Root Vegetable Stew,https://pinchofyum.com/creamy-root-vegetable-stew,55 minutes,[]
+Pinch of Yum,Roasted Butternut Squash Risotto with Sugared Walnuts,https://pinchofyum.com/roasted-butternut-squash-risotto-with-sugared-walnuts,1 hour 15 minutes,[]
+Pinch of Yum,Pumpkin Pecan Cheesecake Parfaits,https://pinchofyum.com/pumpkin-pecan-cheesecake-parfaits,30 minutes,[]
+Pinch of Yum,Chili-Corn Casserole with Polenta,https://pinchofyum.com/chili-corn-casserole-with-polenta,30 minutes,[]
+Pinch of Yum,Tomato Ricotta Pasta with Broccoli,https://pinchofyum.com/tomato-ricotta-pasta-with-broccoli,25 minutes,[]
+Pinch of Yum,Scotchabrownies,https://pinchofyum.com/scotchabrownies,2 hours 40 minutes,[]
+Pinch of Yum,Zucchini Fritters & Goat Cheese Sauce,https://pinchofyum.com/zucchini-fritters-goat-cheese-sauce,20 minutes,[]
