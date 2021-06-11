@@ -38,7 +38,7 @@ st.title('Recipe Finder')
 
 searchlist = st.text_area('Enter the ingredients you want to search, line by line')
 
-searchlist = searchlist.split('\n')
+searchlist = searchlist.lower().split('\n')
 
 #st.write(type(searchlist))
 
